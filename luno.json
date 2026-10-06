@@ -1,0 +1,11 @@
+{
+  "name": "pianorolls",
+  "version": "1.0.0",
+  "description": "Standalone piano roll data catalog and GitHub Pages repository",
+  "type": "luno-web-app",
+  "entrypoint": {
+    "file": "index.html"
+  },
+  "main": [],
+  "library": []
+}

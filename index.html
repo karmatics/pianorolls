@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Piano Rolls Catalog</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: #0d1117; color: #c9d1d9;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      padding: 24px; max-width: 960px; margin: 0 auto;
+    }
+    header { margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 16px; }
+    h1 { font-size: 22px; color: #38bdf8; margin-bottom: 4px; }
+    .stats { font-size: 13px; color: #8b949e; }
+    input {
+      width: 100%; padding: 10px 14px; background: #161b22;
+      border: 1px solid #30363d; border-radius: 6px; color: #fff;
+      font-size: 14px; margin-bottom: 16px; outline: none;
+    }
+    input:focus { border-color: #38bdf8; }
+    ul { list-style: none; display: flex; flex-direction: column; gap: 6px; max-height: 70vh; overflow-y: auto; }
+    li {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: 8px 12px; background: #161b22; border: 1px solid #21262d; border-radius: 6px;
+      font-size: 13px;
+    }
+    li:hover { background: #21262d; border-color: #30363d; }
+    .title { color: #f0f6fc; font-weight: 500; }
+    .links a { color: #58a6ff; text-decoration: none; font-family: monospace; font-size: 12px; margin-left: 12px; }
+    .links a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎹 Piano Rolls Data Catalog</h1>
+    <div class="stats" id="stats">Loading catalog...</div>
+  </header>
+  <input type="text" id="search" placeholder="Search by song title or YouTube ID..." />
+  <ul id="list"></ul>
+  <script>
+    fetch('./index.json').then(r => r.json()).then(data => {
+      const listEl = document.getElementById('list');
+      const statsEl = document.getElementById('stats');
+      const searchEl = document.getElementById('search');
+      const entries = Object.entries(data);
+      statsEl.textContent = `Serving ${entries.length} standalone piano rolls`;
+
+      function render(filter = '') {
+        listEl.innerHTML = '';
+        const q = filter.toLowerCase().trim();
+        const matches = entries.filter(([id, title]) => !q || id.toLowerCase().includes(q) || title.toLowerCase().includes(q));
+        matches.slice(0, 100).forEach(([id, title]) => {
+          const li = document.createElement('li');
+          li.innerHTML = `<span class="title">${title}</span>
+            <span class="links">
+              <a href="./${id}.txt" target="_blank">${id}.txt</a>
+              <a href="../AardvarkPlaylist/index.html?v=${id}&play=1" target="_blank">▶ Play</a>
+            </span>`;
+          listEl.appendChild(li);
+        });
+      }
+      render();
+      searchEl.addEventListener('input', e => render(e.target.value));
+    });
+  </script>
+</body>
+</html>

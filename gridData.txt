@@ -1,0 +1,5836 @@
+---------------
+youtubeId: vx2u5uUu3DE
+name: Bon Jovi - It's My Life
+description: Rock song by American rock band Bon Jovi. It was released on May 23, 2000 as the lead single from their seventh studio album, Crush (2000). The song was written and produced by Jon Bon Jovi, Richie Sambora, and Max Martin
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,505505,218
+---------------
+youtubeId: LPn0KFlbqX8
+name: Cyndi Lauper - True Colors
+description: Pop song written by American songwriters Billy Steinberg and Tom Kelly. It was both the title track and the first single released from American singer Cyndi Lauper's second album. It was the only original song on the album that Lauper did not help write."True Colors" spent two weeks in the number one spot on the Billboard Hot 100.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,513282,207
+---------------
+youtubeId: Wx30PFRVCiM
+name: Why Don't We - Don't Change
+description: to do...
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,521059,174
+---------------
+youtubeId: oubvFONlR-w
+name: Zac Efron and Zendaya - Rewrite the Stars
+description: Song performed by Zac Efron and Zendaya for the film The Greatest Showman. The song sees Efron's character Phillip Carlyle, serenading Zendaya's character Anne Wheeler and trying to convince her that they're meant to be together, despite their differences. It was released on November 17, 2017 
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,528836,205
+---------------
+youtubeId: ZAfAud_M_mg
+name: Halsey - Without Me
+description: Song recorded by American singer Halsey. Halsey wrote the song with Edei, Brittany Amaradio, Amy Allen, and Louis Bell; while production was handled by Bell and Dylan Bauld. It interpolates Justin Timberlake's "Cry Me a River" with Timberlake, Timbaland and Scott Storch credited as co-writers
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,536613,168
+---------------
+youtubeId: EKF6ghfcQic
+name: Avril Lavigne - Head Above Water
+description: Pop-rock song recorded by Canadian singer-songwriter Avril Lavigne from her upcoming sixth studio album, Head Above Water (2019). It was written by Lavigne, Stephan Moccio, and Travis Clark; while being produced by Moccio. It has been described as a "powerful, spiritual epiphany detailing the Canadian singer's journey through her battle with Lyme disease."
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,544390,204
+---------------
+youtubeId: B5Y3pW8Wfk8
+name: Sia, Diplo, Labrinth, LSD – Thunderclouds (Instrumental Remake)
+description: instrumental. pianoply supplies the melody
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,552167,163
+---------------
+youtubeId: e-qY_UEOWD4
+name: Why Don't We - Unbelievable
+description: Song by five-piece pop group Why Don’t We, released May 2019.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,567721,157
+---------------
+youtubeId: kVpv8-5XWOI
+name: Train - Hey, Soul Sister
+description: Train's official music video for 'Hey, Soul Sister'. Click to listen to Train on Spotify:  featured on Train: The Collection. Click to buy the track or album via iTunes:  Play:   f
+userIntSuffix: 
+dims: 640,360,1
+unused: 3,575498,423
+---------------
+youtubeId: 3gqu8ZTEM1k
+name: Sabrina Carpenter - Exhale
+description: Sabrina Carpenter Carpenter sings this sparse and meditative ballad in a wide open field surrounded by mountains and hills. Released May 2019.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,583275,156
+---------------
+youtubeId: oTJ-oqwxdZY
+name: Shawn Mendes - If I Can't Have You
+description: to do...
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,591052,152
+---------------
+youtubeId: 3Mk0F6mLKik
+name: Ed Sheeran - Supermarket Flowers
+description: Song by English singer-songwriter Ed Sheeran. It is written about, and played at the funeral of his late grandmother. It is written from the point of view of his mother.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,598829,151
+---------------
+youtubeId: Az-mGR-CehY
+name: K-391 & Alan Walker - Ignite
+description: to do...
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,606606,182
+---------------
+youtubeId: sxo3ukybEfw
+name: New Hope Club - Love Again
+description: 2019 release by New Hope Club, a British pop trio formed in 2015 and consisting of Reece Bibby, Blake Richardson, and George Smith.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,614383,147
+---------------
+youtubeId: BxaR42Vy2LI
+name: Kygo & Rita Ora - Carry On
+description: to do...
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,622160,166
+---------------
+youtubeId: yci5R-nZgCU
+name: LSD No New Friends Instrumental
+description: Instrumental version: very cool!  You play the vocal part on piano.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,629937,165
+---------------
+youtubeId: b1dFSWLJ9wY
+name: 5 Seconds Of Summer - Easier
+description: Song by Australian pop rock band 5 Seconds of Summer. The song was released on 23 May 2019 as the lead single from their upcoming fourth studio album
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,637714,146
+---------------
+youtubeId: Eztx7Wr8PtE
+name: Duncan Laurence - Arcade - - The Netherlands 🇳🇱 - Eurovision 2019
+description: to do...
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,645491,142
+---------------
+youtubeId: 2m6nGyM8kTs
+name: YUNGBLUD, Halsey - 11 Minutes ft. Travis Barker
+description: Song by English musician Yungblud and American singer-songwriter Halsey, featuring American musician Travis Barker of rock group Blink-182. released on February 13, 2019.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,653268,138
+---------------
+youtubeId: 9TQKyDD9Yig
+name: Mabel - Don't Call Me Up
+description: Tropical house song by Spanish-English singer and songwriter Mabel, released on January 18 2019
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,661045,135
+---------------
+youtubeId: EWguUJtesrs
+name: BIG PLANS - Why Don't We
+description: https://lyricstranslate.com/en/why-dont-we-big-plans-lyrics.html\n\nWork all day, work all night\nMight not get no sleep tonight\nBaby can you stay up?\nWe could talk, we could dance\nDon't matter the circumstance\nWe don't let it change us
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,668822,134
+---------------
+youtubeId: tk36ovCMsU8
+name: Marshmello ft. Khalid - Silence
+description: Dance song by American music producer and DJ Marshmello, featuring guest vocals from American singer-songwriter Khalid.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,676599,132
+---------------
+youtubeId: ZLYYRqU_iqE
+name: Mark Ronson - Find U Again ft. Camila Cabello
+description: to do...
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,684376,131
+---------------
+youtubeId: 9-klJ6EQfe8
+name: Martin Garrix, Matisse & Sadko feat. Alex Aris - Mistaken
+description: Shortly after his headlining performance at Ultra Music Festival, progressive house prodigy Martin Garrix surprised fans with the release of his long-awaited collaboration with Matisse & Sadko, "Mistaken" featuring Alex Aris. (edm.com)
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,692153,127
+---------------
+youtubeId: 3XCVM3G3pns
+name: The Chainsmokers, Bebe Rexha - Call You Mine
+description: to do...
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,699930,124
+---------------
+youtubeId: 4OFUiYMU9DM
+name: Anna Kendrick - Sound of Silence (Trolls)
+description: Simon & Garfunkel has never sounded so creepy, thanks to Anna Kendrick. The actress shows off her vocal chops in the upcoming animation Trolls, tackling 'The Sound of Silence.' However, it is probably as far away to the original you can imagine, resembling more an acid trip than a calm ballad.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 5,707707,223
+---------------
+youtubeId: rB2fd5MV2BI
+name: Sabrina Carpenter - In My Bed
+description: to do...
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,715484,122
+---------------
+youtubeId: 1PrWA4C8eLw
+name: Lil Nas X - Panini
+description: Lil Nas X apparently has no plans to ride off into the sunset anytime soon. Fresh off the chart-topping, if controversial success of "Old Town Road," the viral sensation on Thursday (6/20/19) released a new single, "Panini."  (theroot.com)
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,723261,117
+---------------
+youtubeId: sJXZ9Dok7u8
+name: Alan Walker - Diamond Heart
+description: to do...
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,731038,173
+source: fxyyojbkk4mddr4y
+---------------
+youtubeId: r1Fx0tqK5Z4
+name: Sasha Sloan - Older
+description: On Instagram, 23-year-old singer and songwriter Sasha Sloan is @sadgirlsloan. Her two EPs are titled Sad Girl and Loser. Before she dropped the latter at the end of November, she posted a steely selfie with the caption, "my ep comes out in less than a week i hope it doesn't suck lol." (mtv.com)
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,738815,115
+---------------
+youtubeId: hY1tULEr4-4
+name: Mabel - Mad Love
+description: Mabel has shared her bold new single 'Mad Love' - tune in now. The soaring pop newcomer is nailing hit after hit, with her debut album 'High Expectations' set to land this summer. (clashmusic.com, 7/6/19)
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,746592,112
+---------------
+youtubeId: kO8fTk6oKQg
+name: Dua Lipa - Swan Song (From Alita: Battle Angel)
+description: Electropop song by English singer Dua Lipa. It was released as a single on January 24, 2019. It supported the release of the 2019 film Alita: Battle Angel.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,754369,111
+---------------
+youtubeId: dTwj7PhpY9M
+name: Ruel - Painkiller
+description: Song recorded by Australian singer-songwriter Ruel. The song was released on April 30, 2019 as the lead single from his forthcoming second EP. The song sees Ruel again working with producer M-Phazes and songwriter Sarah Aarons.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,762146,105
+---------------
+youtubeId: 8uBP6qcI7LU
+name: LSD - Angel In Your Eyes (Music Video Edit) ft. Sia, Labrinth, Diplo
+description: I'ma be the one, baby\nI'ma be the one who you let in\nI'ma be the one, baby\nI'ma be the one who you let in\nLet me in, take me high\nBa-ba-ba-ba-bam, ba-bam-ba-bam\nLet me love you tonight\nBa-ba-ba-ba-bam, ba-bam-ba-bam\nLet me live in your eyes
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,769923,72
+---------------
+youtubeId: 4Z1Gx3DYVqs
+name: Hailee Steinfeld - Back to Life (from "Bumblebee" / Lyric Video)
+description: Electropop song by American singer Hailee Steinfeld, released as a single from the soundtrack of the film Bumblebee on November 2, 2018. Steinfeld also stars in the film.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,777700,104
+---------------
+youtubeId: HhoATZ1Imtw
+name: LSD - Genius ft. Labrinth, Sia and Diplo
+description: Electronic/psychedelic/pop song by music group LSD. Written by Sia, Labrinth, Diplo and Jr Blender, the song was released on 3 May 2018 as the group's debut and lead single from their upcoming debut studio album, LSD.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,785477,103
+---------------
+youtubeId: EUoe7cf0HYw
+name: Taylor Swift - Gorgeous
+description: Song recorded by American singer-songwriter Taylor Swift for her sixth studio album, Reputation. It was released on October 20, 2017, as a promotional single from the album.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,793254,100
+---------------
+youtubeId: dN44xpHjNxE
+name: Lukas Graham - Love Someone
+description: Song by Danish pop and soul band Lukas Graham. It was released on 7 September 2018 as the lead single from their third studio album, 3 (The Purple Album).
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 3,801031,96
+---------------
+youtubeId: fKopy74weus
+name: Imagine Dragons - Thunder
+description: to do...
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,808808,222
+source: sf34h9k1ziv35tw4
+---------------
+youtubeId: gl1aHhXnN1k
+name: Ariana Grande - thank u, next
+description: Song by American singer Ariana Grande released as the lead single from her upcoming fifth studio album of the same name. The lyrics mention some of Grande's past relationships, including Big Sean, Mac Miller, Pete Davidson, and Ricky Alvarez (her former backup dancer).
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 6,816585,200
+---------------
+youtubeId: baj6llvgpWA
+name: Justin Timberlake - Man of the Woods
+description: Song recorded by American singer-songwriter Justin Timberlake for his fifth studio album Man of the Woods (2018). It was written by Timberlake, Pharrell Williams and Chad Hugo, and produced by the latter two as The Neptunes with additional production from Timberlake. The song's music video was released on February 2, 2018.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,824362,94
+---------------
+youtubeId: OQitfe8u7i4
+name: Ariana Grande - the light is coming ft. Nicki Minaj
+description: Song by American singer Ariana Grande, featuring American rapper Nicki Minaj. Both artists co-wrote the song with its producer Pharrell Williams. It was released on June 20, 2018, as the first promotional single from Grande's fourth studio album, Sweetener.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,832139,92
+---------------
+youtubeId: iOxzG3jjFkY
+name: Willy William - Ego
+description: to do...
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,839916,410
+source: m74wwma51ff7hpsd
+---------------
+youtubeId: ngORmvyvAaI
+name: Shawn Mendes, Camila Cabello - I Know What You Did Last Summer
+description: Song by Canadian singer Shawn Mendes and Cuban-American singer Camila Cabello. It was released as the lead single from the 2015 re-release of Mendes' debut studio album Handwritten via Island Records on November 18, 2015
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,847693,90
+---------------
+youtubeId: GC_mV1IpjWA
+name: The Little Mermaid - Under the Sea
+description: Calypso / reggae show tune from Disney's 1989 animated film The Little Mermaid, composed by Alan Menken with lyrics by Howard Ashman and based on the song "The Beautiful Briny" from the 1971 film Bedknobs and Broomsticks. Performed by Samuel E. Wright who played Sebastian the crab.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,855470,87
+---------------
+youtubeId: I-QfPUz1es8
+name: Imagine Dragons - Bad Liar
+description: Song by American rock band Imagine Dragons. It was released as the fourth single off their album Origins.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,863247,198
+---------------
+youtubeId: mWRsgZuwf_8
+name: Imagine Dragons - Demons
+description: Song by American rock band Imagine Dragons. It was written by Imagine Dragons and Alex da Kid. The song appears on their debut studio album Night Visions. The lyrics portray the protagonist warning the significant other of his or her flaws.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,871024,203
+---------------
+youtubeId: O9MvdMqKvpU
+name: Pocahontas | Colors of the Wind | Disney Sing-Along
+description: Pop ballad written by lyricist Stephen Schwartz and composer Alan Menken for the 1995 Disney animated feature film Pocahontas. The film's theme song, "Colors of the Wind" was performed by American singer and actress Judy Kuhn in her role as the singing voice of Pocahontas.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,886578,86
+---------------
+youtubeId: aKSxbt-O6TA
+name: BTS (방탄소년단) ‘Heartbeat (BTS WORLD OST)’ MV
+description: Pop-rock track by K-pop boy band BTS, released on June 28, 2019, as the fourth and main single alongside BTS World: Original Soundtrack.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,894355,83
+---------------
+youtubeId: YoDh_gHDvkk
+name: Queen & David Bowie - Under Pressure (Classic Queen Mix)
+description: Rock song by the British rock band Queen and British singer David Bowie. Originally released as a single in October 1981, it was later included on Queen's 1982 album Hot Space. It was voted the second best collaboration of all time in a poll by Rolling Stone magazine.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,902132,81
+---------------
+youtubeId: SM1w9PEQOE8
+name: Demi Lovato - Tell Me You Love Me
+description: Song by American singer and songwriter Demi Lovato.Released on August 24, 2017, as the first promotional single from Lovato's sixth studio album of the same name. It has been described as "a desperate plea for affection that gradually morphs into a declaration of self-love."
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,909909,80
+---------------
+youtubeId: fgKpDyM_1y0
+name: Randy Newman - I Can't Let You Throw Yourself Away (From "Toy Story 4")
+description: Song performed by Randy Newman for the 2019 film Toy Story 4 which was released by Walt Disney Records on June 21, 2019 as a part of the film’s official soundtrack.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,917686,77
+---------------
+youtubeId: ALZHF5UqnU4
+name: Marshmello - Alone
+description: to do...
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,925463,144
+source: cuqo7mlpmd0ws5vf
+---------------
+youtubeId: LlY90lG_Fuw
+name: Pharrell Williams - Freedom
+description: Indie pop song by Pharrell Williams which was released on June 30, 2015, and included on the soundtrack album of the film Despicable Me 3. Its music video was nominated for Best Music Video at 58th Grammy Awards.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,933240,76
+---------------
+youtubeId: ixkoVwKQaJg
+name: DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B
+description: Reggaeton / Moombahton song by French DJ and record producer DJ Snake featuring vocals from Selena Gomez, Ozuna, and  Cardi B. The song was released on 28 September 2018. The song reached number 1 in at least 15 countries.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,941017,91
+---------------
+youtubeId: fnGHESypBuU
+name: Little Mix - Bounce Back
+description: Song by British girl group Little Mix, released as a single on 14 June 2019. The single was promoted with the hashtag and line "Steady... Are You Ready?". The song interpolates "Back to Life" by Soul II Soul.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,948794,51
+---------------
+youtubeId: xdYFuCp3m9k
+name: Halsey - Bad At Love
+description: Pop song by American singer Halsey from her second studio album, Hopeless Fountain Kingdom (2017). It was released on August 22, 2017. Lyrically, the song encompasses the protagonist's past relationships and the reasons they were unsuccessful.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,956571,74
+---------------
+youtubeId: 8xg3vE8Ie_E
+name: Taylor Swift - Love Story
+description: Country pong written and performed by American singer-songwriter Taylor Swift. She also co-produced the track with Nathan Chapman. It was released on September 12, 2008 by Big Machine Records, as the lead single from Swift's second studio album Fearless (2008). Considered as her signature song, it was written about a love interest of Swift's who was not popular among Swift's family and friends.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,964348,73
+---------------
+youtubeId: Nntd2fgMUYw
+name: Eagle-Eye Cherry - Save Tonight
+description: Rock / alternative song by Swedish rock musician Eagle-Eye Cherry and the lead single from his 1997 debut album, Desireless. It is the album's opening track and gained substantial radio success. 
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,972125,71
+---------------
+youtubeId: twRFs4TUTFo
+name: Sia - Magic (Disney's 'A Wrinkle In Time
+description: But I've been waiting for a magic moment\nBut maybe there are magic moments\nCould it be a magic moment now?\nI've been waiting for a magic moment\nBut maybe there are magic moments\nBaby it's a magic moment now
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,979902,68
+---------------
+youtubeId: 3mMVcCMO_Ng
+name: FINNEAS - I Lost A Friend
+description: Finneas channels the sadness and confusion that comes with falling out with a friend on his latest single "I Lost A Friend," the video for which was released on Tuesday (June 25, 2019). \n The cinematic visual features the singer-songwriter, born Finneas O'Connell, wandering around a field at sunset, wearing a suit and tie.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,987679,67
+---------------
+youtubeId: WXBHCQYxwr0
+name: Ava Max - Sweet but Psycho
+description: Song by American singer Ava Max, released as a single on August 17, 2018. It is the lead single from her upcoming debut studio album. It was co-written by Max along with Madison Love and Cirkut.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,995456,108
+---------------
+youtubeId: 1lWJXDG2i0A
+name: Tom Petty - Free Fallin'
+description: Opening track from Tom Petty's debut solo album, Full Moon Fever (1989). The song was written by Petty and his writing partner for the album, Jeff Lynne, and features Lynne on backing vocals and bass guitar.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1003233,82
+---------------
+youtubeId: lzkKzZmRZk8
+name: The Chainsmokers, ILLENIUM - Takeaway ft. Lennon Stella
+description: The Chainsmokers are back with another potential song of the summer. The DJ duo joined forces with Illenium and Lennon Stella for their new track “Takeaway”, an epic follow up to their collab with Bebe Rexha on “Call You Mine” (billboard)
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1011010,62
+source: m115pnyxe804i5yj
+---------------
+youtubeId: aEb5gNsmGJ8
+name: Katy Perry - Never Really Over
+description: to do...
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1018787,145
+---------------
+youtubeId: j04JKdcXjkU
+name: K.Flay - High Enough
+description: K.Flay released her choreography-driven (in unexpected ways) music video for “High Enough”—a funky, tranquil tune from her new album, Every Where Is Some Where, which just dropped last month. (altpress.com, 5/10/17)
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1026564,33
+---------------
+youtubeId: 0x03NDSGOTA
+name: Molly Kate Kestner - Prom Queen
+description: The edgy and brooding tune tells the story of a girl who appears flawless but is struggling with much deeper issues than the outside world can see. “I think the meaning behind the song, the initial inspiration for it was basically I was just thinking about high school and how some of the most beautiful and popular people had the most messed up lives.” Molly says. (galoremag.com)
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1034341,60
+source: dbqfkl5uu0uxohr0
+---------------
+youtubeId: rYEDA3JcQqw
+name: Adele - Rolling in the Deep
+description: Song recorded by English singer-songwriter Adele for her second studio album, 21. It is the lead single and opening track on the album. The largest crossover hit in the United States from the past 25 years, "Rolling in the Deep" gained radio airplay from many different radio formats. The lyrics describe the emotions of a scorned lover.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1042118,59
+source: ayam9b2u93amfjno
+---------------
+youtubeId: SXKlJuO07eM
+name: Jodi Benson - Part of Your World ( From "The Little Mermaid")
+description: Power ballad written by lyricist Howard Ashman and composer Alan Menken for Disney's 1989 animated feature film The Little Mermaid. Performed by American actress and singer Jodi Benson in the titular role as Ariel, a mermaid princess.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1049895,58
+---------------
+youtubeId: bqzDuRz_P7g
+name: BLACKPINK - 'Don't Know What To Do' DANCE PRACTICE VIDEO (MOVING VER.)
+description: Song recorded by South Korean girl group Blackpink. Written by Future Bounce and Teddy Park, who is also the producer of the song alongside 24, Bekuh Boom and R.Tee. It is the second single on the group's second EP, Kill This Love.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1057672,57
+---------------
+youtubeId: JudqK1hL18w
+name: Sabrina Carpenter - Almost Love
+description: Song recorded by American singer Sabrina Carpenter from her third studio album Singular: Act I. The track was written by Sabrina Carpenter, Steph Jones, Nate Campany and Mikkel Eriksen and released on June 6, 2018.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1065449,53
+---------------
+youtubeId: DkeiKbqa02g
+name: Calvin Harris, Dua Lipa - One Kiss
+description: to do...
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1073226,310
+---------------
+youtubeId: 29a6o5vRKVM
+name: Marshmello & Kane Brown - One Thing Right
+description: Kane Brown originally wrote "One Thing Right" for his late 2018 album Experiment. After connecting with Marshmello at the 2018 American Music Awards however, he decided to instead send "One Thing Right" to the masked producer for what became the final collaboration. (edm.com)
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1081003,49
+---------------
+youtubeId: KpBEtsrwng4
+name: Madonna, Swae Lee - Crave
+description: Pop / trap song by American singer-songwriter Madonna and American rapper Swae Lee. Released on May 10, 2019 as the second single from Madonna's upcoming 14th studio album Madame X.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1088780,160
+source: s3v3gv07xd9c8148
+---------------
+youtubeId: vXyBcKV0UIo
+name: Noah Cyrus - Make Me (Cry) ft. Labrinth
+description: Debut single recorded by American actress and singer Noah Cyrus. It features vocals from English producer, singer, and songwriter Labrinth, and was released on November 15, 2016. The song was written by Cyrus and Labrinth, with the production handled by the latter.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1096557,48
+---------------
+youtubeId: wJnBTPUQS5A
+name: Alan Walker - The Spectre
+description: Progressive house song by Norwegian record producer and DJ Alan Walker, incorporating uncredited vocals provided by Norwegian songwriter and producer Jesper Borgen.The song was released in September of 2017. 
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,0
+unused: 7,1104334,52
+---------------
+youtubeId: 8KpKc3C9V3w
+name: Taylor Swift - The Archer
+description: to do...
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1112111,47
+---------------
+youtubeId: EkHTsc9PU2A
+name: Jason Mraz - I'm Yours
+description: Song by singer-songwriter Jason Mraz from 2008. It was performed in his 2004 and 2005 gigs and already became a crowd favorite before its release. "I'm Yours" was nominated for Grammy Award for Song of the Year and Best Male Pop Vocal Performance at the 51st Grammy Awards.
+username: david
+userIntSuffix: 
+dims: 1280,720,0
+unused: 3,1119888,46
+source: dswcrglqwtkq8bm1
+---------------
+youtubeId: w4dBufC9Igk
+name: Dua Lipa Levitating
+dims: 1280,720,0
+unused: 0,5631598,1146
+source: edl22bl4qd4kbpxw
+---------------
+youtubeId: YS2RmyES-GU
+name: Pedro Capó, Farruko - Calma (Alan Walker Remix)
+description: Single by Puerto Rican singer Pedro Capó. The song was co-written by Capó, George Noriega and Gabriel Edgar Gonzalez Perez. This remix by Alan Walker features Farruko.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1127665,54
+---------------
+youtubeId: psuRGfAaju4
+name: Owl City - Fireflies
+description: Debut single from American electronica project Owl City's album Ocean Eyes. Frontman Adam Young wrote and produced the track. Young described the song as "a little song about bugs and not being able to fall asleep at night."
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1135442,37
+source: i5sgtd9hfqejka19
+---------------
+youtubeId: ir6nk2zrMG0
+name: Calvin Harris, Rag'n'Bone Man - Giant
+description: Gospel inspired dance/house song by Scottish DJ and record producer Calvin Harris and English singer-songwriter Rag'n'Bone Man. The song was released on January 11, 2019. It was written by Adam Wiles, Rory Graham, Jamie Hartman and Troy Miller, and produced by Harris.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1143219,45
+---------------
+youtubeId: DSbqyWXVDYg
+name: Billie Eilish - idontwannabeyouanymore | A COLORS SHOW
+description: Song by Billie Eilish that serves as the second track on her debut extended play, "dont smile at me." It was released as the fifth single from the EP on July 20th, 2017.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1150996,42
+---------------
+youtubeId: IPXIgEAGe4U
+name: Panic! At The Disco - High Hopes
+description: Pop rock song by American band Panic! at the Disco. The song was released on May 23, 2018 as the second single from their sixth studio album, Pray for the Wicked.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1158773,69
+---------------
+youtubeId: Bimd2nZirT4
+name: The 1975 - Somebody Else
+description: Synth pop song by English rock band The 1975. It was released as a single on February 15 2016. Reaching a peak of number five in the US on the Alternative Songs chart, it is the band's highest-peaking single on that chart to date.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1166550,41
+---------------
+youtubeId: J1OsKJW51HY
+name: P!nk - Walk Me Home
+description: Pop song recorded by American singer P!nk for her eighth studio album, Hurts 2B Human (2019). It has been described as a a "foot-stomping anthem" and an "optimistic departure" for P!nk.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1174327,139
+source: k2z63uzhz1vie72w
+---------------
+youtubeId: SpNn32HA0SI
+name: Greyson Chance - shut up
+description: “shut up” is an introspective vision into Greyson’ thoughts while going through the early stages of a blooming romance. Careful, tender, and in perfect harmony, the song begins with Greyson hitting those high notes with amazing ease.(celebmix.com)
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1182104,38
+---------------
+youtubeId: kILfB9lcMNE
+name: Zhavia - 17
+description: "17 is a song that I wrote about my life story, and how I got to where I am right now,” Zhavia says. The track details hardships such as a lack of resources to thrive in her childhood home and staying in a motel in order to accomplish her musical goals. (vibe.com)
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1189881,116
+---------------
+youtubeId: NCtzkaL2t_Y
+name: The Beatles - Don't Let Me Down
+description: Song by the English rock band the Beatles (with Billy Preston), here performed during their rooftop concert of January 30, 1969.  The song was written by John Lennon as an anguished love song to Yoko Ono. 
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,1197658,36
+---------------
+youtubeId: 5oX_gwwACls
+name: Louis Tomlinson - Two of Us
+description: Song by English singer and songwriter Louis Tomlinson, released as a single on 7 March 2019. It is written about his late mother.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1205435,133
+source: dvm3j7h8ceru05zy
+---------------
+youtubeId: lWA2pjMjpBs
+name: Rihanna - Diamonds
+description: Mid-tempo pop, electronic and R&B ballad, recorded by Barbadian singer Rihanna for her seventh studio album, Unapologetic (2012). It was written by Sia together with its producers, Benny Blanco and StarGate.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1213212,43
+source: vsdqvjnkxpga9jin
+---------------
+youtubeId: r5Z741PC9_c
+name: Ruel - Face To Face
+description: Another polished slice of old school RnB-meets-contemporary pop that sees Ruel reuniting with M-Phazes, his long-time collaborator and mentor. It's a cruisy sonic setting, with a neat harmonica solo (that Stevie Wonder would be proud of) performed by Cy Leo.(abc.net.au)
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1220989,30
+---------------
+youtubeId: IOOcbIyoW_0
+name: Ed Sheeran - Nothing On You (feat. Paulo Londra & Dave) [SBTV]
+description: Ed Sheeran hits the streets of London with song collaborators Paulo Londra and Dave as they muse about romantic chemistry while on a late-night bike ride in the new video for “Nothing on You.” The song appears on Sheeran’s star-studded No.6 Collaborations Project, which was released in July. (rollingstone.com)
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1228766,28
+---------------
+youtubeId: rrvFv6j3-sM
+name: Miley Cyrus - Slide Away
+description: Song by American singer Miley Cyrus. It was released as a single on August 16, 2019, by RCA Records. It was written by Cyrus, Alma, and its producers Andrew Wyatt and Mike Will Made It. The song's lyrics discuss the deterioration of a relationship, and are often compared to Cyrus' separation from husband Liam Hemsworth.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1236543,1
+---------------
+youtubeId: YbUJ7oiWYBA
+name: Grace VanderWaal - Waste My Time
+description: to do...
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1244320,27
+---------------
+youtubeId: ouEezpuPc3A
+name: Andy Grammer - "Don't Give Up On Me" [ from the Five Feet Apart Film]
+description: to do...
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1252097,26
+---------------
+youtubeId: XbAlPugythw
+name: Jessica Mauboy - Little Things
+description: Song by Australian recording artist Jessica Mauboy. It was released digitally on 21 June 2019 as the second single from Mauboy's forthcoming fourth studio album, Hilda.\nUpon released, Mauboy explained "This song is everything we want to tell our loved ones... to remind them that all we want is to be loved and appreciated in all of the things we do."
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1259874,25
+---------------
+youtubeId: k-9DOwrLdkg
+name: euphoria | official song by labrinth & zendaya - “all for us” full song (s1 ep8) | HBO
+description: Euphoria wrapped its first season with a new song, "All For Us," by Zendaya and Labrinth along with stunning visuals. Zendaya, seemingly possessed, lifts out of her bed and hugs her unaware family as she's soon transported to another world. 
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1267651,24
+---------------
+youtubeId: y6Sxv-sUYtM
+name: Pharrell Williams - Happy
+description: Uptempo soul / neo-soul song written, produced, and performed by American singer Pharrell Williams, from the Despicable Me 2 soundtrack album. It also served as the lead single from Williams' second studio album, Girl (2014). It was first released on November 21, 2013, alongside a long-form music video.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1275428,95
+---------------
+youtubeId: wjIes1eGAw4
+name: Charlie Puth – I Warned Myself
+description: Charlie Puth has unleashed his latest single. "I Warned Myself" arrived on Augusst 21, 2019,  alongside an intense music video. In the visual, directed by Brendan Vaughan, Puth serves up plenty of somber glances as he sings about an intoxicating relationship. (billboard.com)
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1283205,23
+source: pp28fp24g645s0jn
+---------------
+youtubeId: nuckTcoZG4Q
+name: The Chainsmokers - Side Effects ft. Emily Warren
+description: Funky house / house-pop song by American music production duo the Chainsmokers, featuring guest vocals from American singer Emily Warren. Written by Andrew Taggart, Warren, Tony Ann, Corey Sanders and Sly, with production handled by the Chainsmokers and Sly, it was released by on July 27, 2018.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1290982,32
+---------------
+youtubeId: JWeJHN5P-E8
+name: 5 Seconds of Summer - Teeth
+description: 5 Seconds of Summer has returned with "Teeth," out today (Aug. 21). The single sees the group venturing even further into the industrial sounds and themes the band began to explore with previous release "Easier," both off of their forthcoming album. 
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1298759,20
+---------------
+youtubeId: ZxgbQz4n8-s
+name: Why Don't We - What Am I
+description: Pop-rock boy band Why Don't We debuted their latest single "What Am I," written by Ed Sheeran, on Aug. 23, 2019. Sheeran's flair for the romantic is certainly recognizable on the ballad, which, like most of his work, is heavy on acoustic guitar and violin.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1306536,18
+---------------
+youtubeId: ktsOV-E_MTo
+name: Chloe Adams - Pretty's On The Inside
+description: Chloe Adams has brought us some stunning songs, and now she has another magical song for her already stunning music repertoire. The song "Pretty’s On The Inside" features some incredibly beautiful and heart touching lyrics. You will honestly find yourself with a tear in your eye after listening to this song. 
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1314313,12
+---------------
+youtubeId: mjiTP4D_7wU
+name: Ed Sheeran ‒ South of the Border ft. Camila Cabello & Cardi B
+description: Song by English singer-songwriter Ed Sheeran featuring Cuban-American singer Camila Cabello and American rapper Cardi B. The song was written by Sheeran together with Steve Mac, Camila Cabello, Cardi B, Fred Gibson and Jordan Thorpe, and released on 12 July 2019.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1322090,15
+---------------
+youtubeId: ubZrAmRxy_M
+name: Lin-Manuel Miranda, Opetaia Foa'i - We Know The Way ( From "Moana")
+description: Song from the Disney animated feature Moana. It was the first song written and composed for the film by Mark Mancina, Opetaia Foa’i, and Lin-Manuel Miranda. It serves as a celebration of voyaging, and the pride that comes with South Pacific natives being the world's first great navigators.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1337644,85
+---------------
+youtubeId: XP2IkGnToNg
+name: Butterflies - Gabbie Hanna
+description: I knew who you were from the start\nI just hoped you'd prove me wrong\nI could spend all year just letting down my guard\nWhile you're stringing me along\nGave it our best shot but we just missed the mark\nSad to say, our love is gone\nI could spend all day just picking you apart\nBut instead I'll write a song
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1345421,129
+---------------
+youtubeId: M7yXav31eVA
+name: mxmtoon - seasonal depression
+description: mxmtoon: 'Seasonal depression' was born to fill this gap I found in music, and create something wonderful. I adore that a song written so gloom and doom can sound like the sunniest musical number of a summer movie. My hope with the song is to provide affirmation to those who find facing certain days beyond difficult, but to simultaneously uplift them from their stormy thoughts. Music can provide comedy, validation, and insight, and I feel strongly 'seasonal depression' hits all three wonderfully.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1353198,14
+---------------
+youtubeId: d020hcWA_Wg
+name: Coldplay - Clocks
+description: to do...
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1360975,184
+source: c2bj4tqskg75j8kp
+---------------
+youtubeId: kBQB3H64HYA
+name: Hayley Kiyoko - I Wish
+description: billboard.com: On July 11, 2019, Kiyoko dropped her new single "I Wish," a moody pop jam about unrequited love and the desire to move past it. The song’s stuttering beat, along with Kiyoko’s stellar-as-always vocals, compliment her scathing lyrics as she chastises her crush’s behavior. "You don’t pay me no attention/ And you’re selfish with your affection," she sings on the song’s pre-chorus.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1368752,13
+source: zb890yb48udwvf7o
+---------------
+youtubeId: oM_t7Y8gBwU
+name: Tiffany Young - Magnetic Moon
+description: K-pop star Tiffany Young is back with a new single, "Magnetic Moon", and it is every bit as captivating as the title sounds! The bewitching bilingual artist's latest track is a smooth, sparkling pop number that glows with glitter and glam — oh, and did we mention the single is sung entirely in English? (eonline.com)
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1376529,21
+---------------
+youtubeId: tCXGJQYZ9JA
+name: Taylor Swift - Delicate
+description: Single by Taylor Swift from the album Reputation. Released March 12, 2018. An electropop love song with lyrics about "worrying how the guy she likes will like her for her and not worry about the media' perspective of her."
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,1384306,169
+source: r3z5l6227dmflxiu
+---------------
+youtubeId: 92cwKCU8Z5c
+name: Abba - The Winner Takes It All
+description: Pop song recorded by the Swedish pop group ABBA. Released as the first single from the group's Super Trouper album on 21 July 1980, it is a ballad in the key of F-sharp major, reflecting the end of a romance.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1392083,64
+source: wx0zjev2cckx7zur
+---------------
+youtubeId: eaUpme4jalE
+name: BTS 'Lights' Official MV
+description: Japanese song by South Korean boy band BTS, released on July 3, 2019, through Universal Music Japan. It was released as a double A-side single with the Japanese version of "Boy With Luv". It debuted atop the Oricon Singles Chart and Billboard Japan Hot 100.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1399860,11
+---------------
+youtubeId: bCuhuePlP8o
+name: Lewis Capaldi - Someone You Loved
+description: Song by Scottish singer-songwriter Lewis Capaldi, which topped the UK charts for 7 weeks. The video stars Capaldi's relative Peter Capaldi.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1407637,148
+source: b1nd2e0tgfmmcb1k
+---------------
+youtubeId: FtxluK_NRuE
+name: Julia Michaels - Body
+description: Julia Michaels has released the video for "Body," alongside an as-told-to essay in Teen Vogue. The song and video both tackle issues of physical insecurities and self-love. "In the video for 'Body,' I came up with the idea to start in a bunch of layers, and by the end I’m completely stripped," Michaels told Teen Vogue. (rollingstone.com)
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1423191,9
+---------------
+youtubeId: J91ti_MpdHA
+name: Alicia Keys - Girl On Fire
+description: Song recorded by American singer-songwriter Alicia Keys for her fifth studio album of the same name. Released on September 4, 2012, as the lead single from the album of the same name. "Girl on Fire" was inspired by Keys' giving birth to her son Egypt and marriage to husband Swizz Beatz.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1430968,70
+source: epvwk3bay9st3ay2
+---------------
+youtubeId: 8RYXnz9yq1M
+name: Alex Aiono - Unloving You
+description: I wish I could unsay the words I said\nI wish I could un-see the videos in my head\nAnd if I could untie the knot and un-hear the promises that you forgot\nWould I do that? Would I?\nI wish I could un-kiss your dirty mouth\nI wish I could un-bite the peach and just spit it out
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1438745,8
+---------------
+youtubeId: entVpj_IT6M
+name: Conan Gray - Generation Why
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1446522,448
+source: irzg3s50ant42tg8
+---------------
+youtubeId: HN6GHQroP1I
+name: Little Mix - One I've Been Missing
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1454299,443
+---------------
+youtubeId: 5e6F1VA6WG4
+name: NIKI - Indigo
+description: Not missing a beat, Indigo sees NIKI falling immediately in step with her irresistible blend of pop-flavored neo-R&B. Practically floating across an array of buoyant production, NIKI explores themes of temptation and inhibition with a vocal grace that sways between light as air and impossible to ignore. The entire affair plays out like a siren’s call of the most delectable variety. (onestowatch.com)
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1469853,2
+source: b68d3c60mhd3yhoo
+---------------
+youtubeId: AzjMmwki1Fs
+name: flora cash - You're Somebody Else
+description: Song by the Swedish-American indie pop duo Flora Cash. The song achieved its initial viral success after being used in a Movistar commercial in Mexico promoting safety for young people meeting each other online.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1477630,10
+---------------
+youtubeId: S5n9emOr7SQ
+name: Ed Sheeran - Cross Me (feat. Chance The Rapper & PnB Rock)
+description: Song by English singer-songwriter Ed Sheeran featuring American rappers Chance the Rapper and PnB Rock, as the second single of Sheeran’s No.6 Collaborations Project. Released on 24 May 2019
+username: david
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,1485407,118
+source: lz37my5uu8v3k3x3
+---------------
+youtubeId: jp-CVYGEsjg
+name: Panic! At The Disco - Into the Unknown (From "Frozen 2")
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,1493184,473
+source: tukwtt8y78khmndx
+---------------
+youtubeId: bo_efYhYU2A
+name: Lady Gaga, Bradley Cooper - Shallow
+description: Song from the 2018 film A Star Is Born, performed by Lady Gaga and Bradley Cooper. The song served as the first single from the film's soundtrack and was released on September 27, 2018. Written by Lady Gaga with Mark Ronson, Anthony Rossomando, and Andrew Wyatt.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1500961,227
+---------------
+youtubeId: oofSnsGkops
+name: James Blunt - You're Beautiful
+description: Soft rock song by English singer-songwriter James Blunt. It was written by Blunt, Sacha Skarbek and Amanda Ghost for Blunt's debut album. It was released as the second single from the album in 2005 and reached number 1 in the US, UK and Australia among others.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 1,1508738,5
+source: rr4g298yhl5oa14l
+---------------
+youtubeId: V1bFr2SWP1I
+name: Somewhere over the Rainbow - Israel Kamakawiwoʻole
+description: Originally recorded in a spur-of-the-moment demo session in 1988. Israel called the recording studio at 3 am, and was given 15 minutes to arrive by recording engineer Milan Bertosa.
+username: rich
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,1516515,212
+source: pxpnyi22vx83cty4
+---------------
+youtubeId: eVTXPUF4Oz4
+name: In The End - Linkin Park
+description: Nu metal / rap rock song by American rock band Linkin Park. Released in 2000, "In the End" is one of Linkin Park's most recognizable and signature songs. It is the most played song in all of the band's live performances.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,1524292,44
+---------------
+youtubeId: 9NZvM1918_E
+name: Harry Styles - Lights Up
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1532069,445
+source: rnyv72ve6u0mj7vo
+---------------
+youtubeId: j0w6R0NfeBY
+name: Maggie Lindemann - Friends Go
+description: Lindemann's “Friends Go,” out Friday (March 22, 2019), is a ska-saturated track that wouldn’t be out of place on a 1995-era No Doubt album. Lindemann laments the loss of her lover and her friends, but assures herself that they won’t be gone long.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1539846,63
+source: zrdfxrttvxojkir7
+---------------
+youtubeId: YrbgUtCfnC0
+name: Zedd, Katy Perry - 365
+description: Dance pop song by Russian-German music producer Zedd and American singer Katy Perry. It was released on February 14, 2019 along with its music video, directed by Warren Fu.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1547623,136
+source: hbcb6dlp75wcaox6
+---------------
+youtubeId: xhjCkwFMb_Q
+name: Louis Tomlinson - Don't Let It Break Your Heart
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1555400,440
+source: awlx31r97959l2um
+---------------
+youtubeId: 9SRxBTtspYM
+name: Ariana Grande, Social House - boyfriend
+description: After weeks of teasing, Ariana Grande's long awaited summer single is here. Just after midnight on Friday (Aug. 2, 1029), the songstress delivered "Boyfriend" with Social House, the pop duo who helped produce mega hits "Thank U, Next" and "7 Rings."  (billboard.com)
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1563177,29
+source: qpn05g5tv2eh9l1x
+---------------
+youtubeId: eBHHGXT9bRs
+name: Conan Gray - Comfort Crowd
+description: YouTube sensation and 20-year-old singer-songwriter Conan Gray is well on his way to similar superstardom, and has a new song called "Comfort Crowd" covering, not necessarily how lonely it is at the top, but the desire to be alone with someone, even if it's awkward. The song's dreamy melodies, nostalgic acoustic sound, and vulnerable lyrics underscore the video's darker themes, both of which premiere today on PAPER. (paper.com)
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1570954,4
+---------------
+youtubeId: pRfmrE0ToTo
+name: Anne-Marie & James Arthur - Rewrite The Stars [from The Greatest Showman: Reimagined]
+description: to do...
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1578731,180
+source: jb5n7738sn3v02xx
+---------------
+youtubeId: bO3S8CKafbE
+name: Niall Horan - Put A Little Love On Me
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1586508,454
+source: nukws9gkrud91d06
+---------------
+youtubeId: 6RLLOEzdxsM
+name: Alan Walker ft. Noah Cyrus - All Falls Down
+description: Electropop song by Norwegian record producer and DJ Alan Walker, featuring American singer Noah Cyrus and British DJ and record producer Digital Farm Animals. Released October 26, 2017.
+username: rich
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,1594285,235
+source: o6rg00gjy50tsxsa
+---------------
+youtubeId: jO2viLEW-1A
+name: Jeremy Zucker - comethru
+description: song by 22 year old American alternative/pop singer songwriter, released September 2018.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1602062,150
+source: m6qix472cqk5c0i3
+---------------
+youtubeId: LDU_Txk06tM
+name: Noisestorm - Crab Rave
+description: Crab Rave was initially released as a small April Fool's Day joke, although it soon gained popularity after becoming an internet meme due to the music video's uplifting theme and dancing crabs.
+username: david
+userIntSuffix: 
+dims: 1280,720,0
+unused: 3,1609839,199
+source: m1sjj7f184ei2nga
+---------------
+youtubeId: JWiSSVAiPvE
+name: Set It Off - Lonely Dance
+description: Grab your space suits and blasters, Set It Off has dropped a cosmically-trippy masterpiece with their new music video for "Lonely Dance." (altpress.com)
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1617616,3
+source: x8tna2lgg29e055q
+---------------
+youtubeId: 0KSOMA3QBU0
+name: Katy Perry - Dark Horse ft. Juicy J
+description: Trap / hip hop song recorded by American singer Katy Perry featuring rapper Juicy J. It was originally released on September 17, 2013, by Capitol Records as the first promotional single from Perry's fourth studio album, Prism
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1625393,224
+---------------
+youtubeId: cIlghWDd7RU
+name: Anna Blue- Silent Scream
+description: I'm caught up in your expectations\nYou try to make me live your dream\nBut I'm causing you so much frustration\nAnd you only want the best for me
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,1633170,206
+source: eqpzl86aid0asmf7
+---------------
+youtubeId: 0I647GU3Jsc
+name: Imagine Dragons - Natural
+description: Hard rock song by American band Imagine Dragons, whose members co-wrote the song with Justin Tranter and producers Mattman & Robin. It was released on July 17, 2018.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1640947,214
+source: x35sa959jiqlz7c3
+---------------
+youtubeId: rtOvBOTyX00
+name: Christina Perri - A Thousand Years
+description: Pop song recorded by American singer and songwriter Christina Perri, and written by Perri and David Hodges, from the soundtrack to the movie Twilight: Breaking Dawn.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1648724,221
+source: e3soz28ydigaj5d7
+---------------
+youtubeId: 8E63J9eINIE
+name: Conan Gray - Lookalike (Live Session)
+description: But when you look in his eyes\nDo you think of mine?\nAnd when you look at that smile\nDo I cross your mind?\nI know in your head\nYou see me instead\n'Cause he looks a lot like I did back then\nBaby don't lie\nHe's just a lookalike
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1656501,75
+source: gttzha04o2gmegxe
+---------------
+youtubeId: 3tmd-ClpJxA
+name: Taylor Swift - Look What You Made Me Do
+description: song recorded by American singer-songwriter Taylor Swift, released on August 24, 2017 by Big Machine Records as the lead single from her sixth studio album Reputation (2017). Swift wrote the song with her producer Jack Antonoff.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1664278,257
+source: f6s05mtoq1kwkgnz
+---------------
+youtubeId: 60ItHLz5WEA
+name: Alan Walker ft Iselin Solheim - Faded
+description: Progressive house song by Norwegian record producer and DJ Alan Walker. Incorporating vocals provided by Norwegian recording artist Iselin Solheim, the single was released on December 3, 2015
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1679832,231
+source: bvsdl8lcitmdpxsb
+---------------
+youtubeId: LEh9F67Z5n8
+name: Martin Garrix & Dean Lewis - Used To Love
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1687609,446
+---------------
+youtubeId: h5EofwRzit0
+name: Daft Punk - Get Lucky (Full Video)
+description: Disco song by French house music duo Daft Punk, featuring vocals by Pharrell Williams and co-written by the duo, Williams, and Nile Rodgers. It is the lead single from Daft Punk's fourth studio album, Random Access Memories.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1695386,93
+---------------
+youtubeId: 3YxaaGgTQYM
+name: Evanescence - Bring Me To Life
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1703163,441
+source: zwnizs6vi52qmlyj
+---------------
+youtubeId: kJQP7kiw5Fk
+name: Luis Fonsi - Despacito ft. Daddy Yankee
+description: Reggaeton and Latin pop song by Puerto Rican singer Luis Fonsi featuring Puerto Rican rapper Daddy Yankee, released January 2017. It has broken records in numerous countries and became the most viewed YouTube video of all time.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1710940,172
+---------------
+youtubeId: ffxKSjUwKdU
+name: Ariana Grande - no tears left to cry
+description: Dance pop song by American singer Ariana Grande serving as the lead single for her fourth studio album, Sweetener. Written by Grande, Savan Kotecha and its producers Max Martin and Ilya, it was released by Republic Records as the album's lead single on April 20, 2018
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1718717,232
+source: uc8nyvk9v7s0wmg8
+---------------
+youtubeId: cPAbx5kgCJo
+name: Auli'i Cravalho - How Far I'll Go (From "Moana")
+description: See the film, starring Dwayne The Rock Johnson & Aulii Cravalho, available digitally now!The Moana soundtrack is available now:Download:  Streaming:  Sheet Music:  Disney Music
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1726494,267
+source: l06xfv47j6jplsi3
+---------------
+youtubeId: x3ov9USxVxY
+name: Madonna - Ray Of Light
+description: 2006 WMGRay Of Light
+username: david
+userIntSuffix: 
+dims: 480,360,1
+unused: 3,1742048,429
+source: xp1l28oaqxx3via0
+---------------
+youtubeId: VuNIsY6JdUw
+name: Taylor Swift - You Belong With Me
+description: Co-written by Swift and Liz Rose and produced by Nathan Chapman with Swift's aid. It was released on April 18, 2009, as the third single from Swift's second studio album, Fearless. Swift was inspired to write "You Belong with Me" after overhearing a male friend of hers arguing with his girlfriend through a phone call; she continued to develop a story line afterward. The song contains many pop music elements and its lyrics have Swift desiring an out-of-reach love interest.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1749825,234
+source: io02m7t5v6qtrqyj
+---------------
+youtubeId: D3gmU0GOTXI
+name: BENEE - Glitter
+description: Stella Bennett (born 2000), known professionally as Benee is a New Zealand musician from Auckland.  'Glitter', a work of pure dancefloor escapism, is about ending up at K Road's famous Family Bar after a night out and being drenched by a glitter bomb.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1757602,457
+source: uo0e25o0lpf1iah7
+---------------
+youtubeId: Fp_P_e1cPOE
+name: Camila Cabello - Shameless
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1765379,456
+source: dhfyysn21m3go5ew
+---------------
+youtubeId: zlJDTxahav0
+name: Selena Gomez - Lose You To Love Me
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1773156,439
+source: lqhgb7e0mr46vvqy
+---------------
+youtubeId: Hk9RhLn5aZo
+name: Grace VanderWaal - I Don't Like You
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1788710,460
+---------------
+youtubeId: y83x7MgzWOA
+name: Ed Sheeran & Justin Bieber - I Don't Care
+description: Song by English singer-songwriter Ed Sheeran and Canadian singer Justin Bieber, as the first single of Sheeran’s upcoming fourth studio album No. 6 Collaborations Project.
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,1796487,162
+source: j5n8e62w45b5ugso
+---------------
+youtubeId: s93NCuXt7x4
+name: Ed Sheeran - BLOW (with Chris Stapleton & Bruno Mars)
+description: Hard rock by English singer-songwriter Ed Sheeran and American singer-songwriters Chris Stapleton and Bruno Mars. It was released on 5 July 2019 as the fifth single from Sheeran's fourth studio album No.6 Collaborations Project. 
+username: david
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,1804264,34
+source: w8l6vrcxav76gipx
+---------------
+youtubeId: r9o1QS-itsU
+name: Sarah Jeffery - Queen of Mean (From "Descendants 3")
+description: Simply put, Sarah Jeffrey’s “Queen of Mean” is a song based on the narrator taking on a vengeful disposition towards life due primarily to being slighted by the man she loves. That is to say her boyfriend deserted her for someone else. And such has attributed to her adopting a bitter attitude. (songmeaningsandfacts.com)
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1812041,17
+source: nbqih1oez4ltjick
+---------------
+youtubeId: JhvyWCyXuqg
+name: Noah Cyrus - Lonely
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1819818,451
+source: rd3xcip2zuyf78bk
+---------------
+youtubeId: J9Zjgb03FMQ
+name: ILLENIUM, Jon Bellion - Good Things Fall Apart
+description: to do...
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1827595,125
+source: gspclkpk39vnbx2m
+---------------
+youtubeId: 7wtfhZwyrcc
+name: Imagine Dragons - Believer
+description: Rock song by American rock band Imagine Dragons. The song was released on February 1, 2017 as the lead single from the band's third studio album, Evolve.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,1835372,98
+source: nqo5sfaco0vuinik
+---------------
+youtubeId: 8VcvPrIKfrg
+name: Taylor Swift - The Man (Lyrics)
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1843149,467
+source: pq3507kpbxcjxb7j
+---------------
+youtubeId: hw8MegWR24Q
+name: Faouzia - This Mountain
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1850926,452
+source: g3r0s4tajx6ech0v
+---------------
+youtubeId: oWgTqLCLE8k
+name: Justin Timberlake - Can't Stop the Feeling!
+description: Uptempo disco-pop, soul-pop number with funk influences song recorded by American singer-songwriter Justin Timberlake for the soundtrack to the film Trolls (2016), for which he served as the executive music producer. It was written and produced by Timberlake, Max Martin, and Shellback.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,1858703,216
+source: fjekyd6dr8u4079o
+---------------
+youtubeId: HcYo_92vdbE
+name: The Chainsmokers - Push My Luck
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1866480,455
+source: gzc22hrju2cdux64
+---------------
+youtubeId: 2S24-y0Ij3Y
+name: BLACKPINK - 'Kill This Love' 
+description: to do...
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1874257,191
+source: y0lir5aqj0af2ii3
+---------------
+youtubeId: Chsw96FMkjQ
+name: Phantoms - Lay With Me ft. Vanessa Hudgens
+description: to do...
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,1882034,170
+source: ktfod537stowm1bb
+---------------
+youtubeId: leopt__ATR0
+name: Ariana Grande, Miley Cyrus, Lana Del Rey - Don’t Call Me Angel (Charlie’s Angels)
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1889811,453
+source: nrfynxena2wqgyxb
+---------------
+youtubeId: XWXRh6icAzQ
+name: Louis Tomlinson - We Made It
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,1897588,562
+source: y0q1a20yriifzghl
+---------------
+youtubeId: oygrmJFKYZY
+name: Dua Lipa - Don't Start Now
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,1905365,472
+source: fbnpglj7q1upgjr1
+---------------
+youtubeId: 3AKPaq0IaDk
+name: Ava Max - Freaking Me Out
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1913142,450
+source: ozb4bk6jiflk1t6w
+---------------
+youtubeId: AgFeZr5ptV8
+name: Taylor Swift - 22
+description: to do...
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1920919,194
+source: gagx1g1l0wkew4fa
+---------------
+youtubeId: onbOTge0coU
+name: Annie LeBlanc - Utopia
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1928696,437
+source: nst6gxss6tzrm988
+---------------
+youtubeId: c4qgqNS_20s
+name: Dan + Shay - Tequila
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,1936473,495
+source: x407hgy9lpui5c7k
+---------------
+youtubeId: 2i2khp_npdE
+name: Alan Walker - Sing Me To Sleep ft. Iselin Solheim
+description: Progressive house / electro house song by Norwegian record producer and DJ Alan Walker. Incorporating uncredited vocals provided by Norwegian recording artist Iselin Solheim, it was released commercially for digital consumption on 3 June 2016
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,1944250,215
+source: gk61m9lstq8qwh6h
+---------------
+youtubeId: -BjZmE2gtdo
+name: Taylor Swift - Lover
+description: Country ballad by American singer-songwriter Taylor Swift for her upcoming seventh studio album of the same name. It was written by Swift and released as the third single from the album on August 16, 2019. The song features a booming snare, slow tempo and guitar-centric sound.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1959804,19
+source: kfs1pcv7p2dbecvi
+---------------
+youtubeId: I1-mcn1Hgh8
+name: LSD (ft. Labrinth, Sia, Diplo) - Mountains
+description: Song by pop music group LSD, described by DJ Mag as "electronic pop goodness." The song was released on 1 November 2018, and marks the group's fourth release, following "Genius", "Audio", and "Thunderclouds."
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1967581,202
+source: d0bfsqd3f57qmaaq
+---------------
+youtubeId: U0V1y2p1sgs
+name: The Chainsmokers - Who Do You Love ft. 5 Seconds of Summer
+description: Song by American DJ duo The Chainsmokers featuring Australian band 5 Seconds of Summer, released on February 7, 2019, through Sony Music. It is the acts' first collaboration together and follows their December 2018 singles "Hope" and "Lie to Me", respectively.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1975358,154
+source: zsjh3umsww12fp3i
+---------------
+youtubeId: FuXNumBwDOM
+name: Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco)
+description: "ME!" is a pop song by American singer-songwriter Taylor Swift featuring Brendon Urie of Panic! at the Disco, released by Republic Records on April 26, 2019, as the lead single from her upcoming seventh studio album.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1983135,167
+source: himw53k2h7322nlq
+---------------
+youtubeId: rywUS-ohqeE
+name: Alicia Keys - No One
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,1990912,501
+source: gk83zda3lc2ebnq3
+---------------
+youtubeId: aDeNQNtW1f8
+name: Ben Platt - Grow As We Go
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,1998689,469
+source: d1mw8q1j835hzrlp
+---------------
+youtubeId: gIOyB9ZXn8s
+name: Idina Menzel, AURORA - Into the Unknown (From "Frozen 2")
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2006466,507
+source: yaxt6tcu0dndb79w
+---------------
+youtubeId: _X--xYexBdI
+name: Gryffin - Body Back ft. Maia Wright
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2014243,477
+source: t4jkp8940uxxm4g4
+---------------
+youtubeId: ncV1TlNl9B8
+name: Hailee Steinfeld - Wrong Direction
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2022020,555
+source: i0ogsi7r1umtr6cs
+---------------
+youtubeId: KhjTa_7Nq6Y
+name: Noah Cyrus - July
+description: Folk-infused ballad in which Cyrus reflects on the continuous cycle of a toxic relationship. Chill-inducing harmonies layered over simple acoustic instrumentation allow the song's contemplative lyrics to take center stage, co-written by Cyrus' friend Peter Harding. (billboard.com)
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2029797,56
+source: it53bgk21lpc39se
+---------------
+youtubeId: CGyEd0aKWZE
+name: Ellie Goulding - Burn
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2037574,482
+source: dvhz2ggzwhlfqbzz
+---------------
+youtubeId: E8Rdn6ep54Q
+name: Bruno Martini, New Hope Club - Somebody That You Loved
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2045351,504
+source: jopi2awvn135e09l
+---------------
+youtubeId: 7HmiFxqdgq4
+name: Coldplay - Everyday Life
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2053128,506
+source: tkkmi5vgzzx7g9j2
+---------------
+youtubeId: Av4lI6ANeHY
+name: Conan Gray - The Story
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2060905,556
+source: pxev0py045dffshi
+---------------
+youtubeId: -PZsSWwc9xA
+name: Billie Eilish - all the good girls go to hell
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2068682,478
+source: vovkus0cycbk1w01
+---------------
+youtubeId: y464DEPVhls
+name: Lemonade Mouth - Determinate HD
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2076459,480
+source: qpi3rvxijj68yzjo
+---------------
+youtubeId: ctVBmyub02A
+name: Ralph Breaks The Internet - Zero (Imagine Dragons)
+description: Song by American rock band Imagine Dragons. It was released 	September 19, 2018, and is the second single from the band's fourth studio album Origins. The song is featured in the Disney animated film Ralph Breaks the Internet.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2084236,101
+source: ngots0fku4b90aw7
+---------------
+youtubeId: nfWlot6h_JM
+name: Taylor Swift - Shake It Off
+description: Taylor's new release 1989 is Available Now featuring the hit single "Shake It Off" and her latest single "Blank Space".
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,2092013,394
+---------------
+youtubeId: BI5_hpUxDrM
+name: Idle Town - Conan Gray [ Original Song ]
+dims: 1280,720,1
+unused: 0,2099790,653
+---------------
+youtubeId: RNJmYEM2Sek
+name: Iggy Azalea, Alice Chater - Lola
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2107567,497
+source: y1ldj7senpropqvv
+---------------
+youtubeId: chSZCtLrgz8
+name: Charli XCX & Christine and the Queens - Gone
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2115344,585
+source: afwyo2hfbdet0746
+---------------
+youtubeId: SOtnICPJ1Hk
+name: Bars And Melody - Lighthouse
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2123121,503
+source: a9bcb10vmpq03rmu
+---------------
+youtubeId: YJ5fRzTJvS4
+name: Lemonade Mouth - Somebody
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2130898,481
+source: oyccveyg216no640
+---------------
+youtubeId: 85Ur_SJU1Qg
+name: Bastille, Alessia Cara - Another Place
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2138675,475
+source: zf8avcojcjhjr91g
+---------------
+youtubeId: zC-ZzKx3Hks
+name: Winona Oak - He Don't Love Me
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2146452,476
+source: j5l6vcnu0m3tz7nk
+---------------
+youtubeId: I0czvJ_jikg
+name: Dean Lewis - Be Alright
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2154229,550
+source: tbch0714v0dq05e2
+---------------
+youtubeId: Dkk9gvTmCXY
+name: Taylor Swift - You Need To Calm Down
+description: Pop song by American singer-songwriter Taylor Swift, released on June 14, 2019, as the second single off her upcoming seventh studio album, Lover.  Swift addresses homophobia and her critics in the song.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2162006,121
+source: t12kw6ygjikkgesg
+---------------
+youtubeId: hhE7QMXRE1g
+name: Yael Naim - New Soul
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2169783,558
+source: w7v33vf8i55scatd
+---------------
+youtubeId: QPIK4-zAH3k
+name: Limbo - Airplane Mode
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2177560,581
+source: ymyvamsh1y1cr44f
+---------------
+youtubeId: ZyhrYis509A
+name: Aqua - Barbie Girl
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2185337,571
+source: cnsotg09xwh8ksp2
+---------------
+youtubeId: tg00YEETFzg
+name: Rihanna - We Found Love ft. Calvin Harris
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2200891,547
+source: dly0auf845y0rfev
+---------------
+youtubeId: HcVv9R1ZR84
+name: Melanie Martinez - Dollhouse
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,2208668,498
+source: kzisemzdwit4qh5w
+---------------
+youtubeId: HhjHYkPQ8F0
+name: Alan Walker & Ava Max - Alone, Pt. II
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2216445,485
+source: hniwnhgba9u6kk7h
+---------------
+youtubeId: EaMed9sUPVo
+name: Justin Bieber - Yummy
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2224222,505
+source: ryv7gyfbf3touevd
+---------------
+youtubeId: PKonqhZ5PsA
+name: Alec Benjamin - Let Me Down Slowly (feat. Alessia Cara)
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2231999,500
+source: hdp7tw8rjw3qvn6e
+---------------
+youtubeId: wTdZbbx53uk
+name: Why Don't We - Chills
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2239776,542
+source: mq1c29zcxw6nxcoe
+---------------
+youtubeId: U-PXEe-qeK4
+name: Zara Larsson - Uncover
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2247553,494
+source: nzfr6xlxrkque23j
+---------------
+youtubeId: pk7ESz6vtyA
+name: Winter Bear by V
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2255330,499
+source: pv8vh0dxecnjipgt
+---------------
+youtubeId: bcvsE4C1JnU
+name: Alec Benjamin - Mind Is A Prison
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2263107,565
+source: vj13f843b0eu2zv5
+---------------
+youtubeId: r6x663GFuMk
+name: Chelsea Cutler - Sad Tonight
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2270884,577
+source: x20bgfe41xm6s90h
+---------------
+youtubeId: aSGnn5waIcs
+name: New Hope Club, R3HAB - Let Me Down Slow
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2278661,559
+source: a6pigvoc0sl1amry
+---------------
+youtubeId: 8lSj5k2K7w0
+name: Hayley Williams - Simmer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2286438,569
+source: mv1vf7kt36c30pty
+---------------
+youtubeId: AqtooBbxuaw
+name: Demi Lovato - Anyone (Live From The 62nd GRAMMYs ® / 2020)
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2294215,572
+source: nflglb7ezjmppd6z
+---------------
+youtubeId: kb_e5UkI7ak
+name: Lauv - Superhero
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2301992,575
+source: iwh7n0p4y5gdcqut
+---------------
+youtubeId: _t-fhPUPMrY
+name: Taylor Swift - Extended Set (Live at Capital's Jingle Bell Ball 2019) | Capital
+username: david
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,2309769,541
+source: w3a9pwn6v6riwq7m
+---------------
+youtubeId: EhSXsTSNDyo
+name: 5 Seconds Of Summer - Want You Back
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2317546,579
+source: msefdfmgcvavqez3
+---------------
+youtubeId: kkUIdK9eaIk
+name: LSD - No New Friends
+description: Pop song by LSD. It has electronic dance music (EDM) influences, and has a "thumping" dance beat with "bouncy" synth loops by Diplo, as well as harmonized vocals by Sia and Labrinth. Released by on March 14, 2019.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2325323,193
+source: znsp7hdh0k9w81vr
+---------------
+youtubeId: XsX3ATc3FbA
+name: BTS
+description: to do...
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2333100,186
+source: hgy6pmk1ubko81w2
+---------------
+youtubeId: j9DnUII28fI
+name: Lauv - Tattoos Together
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2340877,553
+source: tixsc024jj1ei36e
+---------------
+youtubeId: hh1WeQxfCX0
+name: Dayglow - Can I Call You Tonight?
+description: Indie-pop project Dayglow is from Fort Worth, Texas and is led by high school senior Sloan Struble. 'Can I Call You Tonight?' is indie-pop gold. It's infectiously catchy and you'll have it stuck in your head after only one listen.  (wickeddchildd.com)
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,2356431,458
+source: y5j14suhu91mp2tw
+---------------
+youtubeId: jTMzLbz9_r0
+name: Charlie Puth - Mother
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2364208,626
+source: vedoz9o3rc0maten
+---------------
+youtubeId: XejVB_fba04
+name: Jonas Brothers - What A Man Gotta Do
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2371985,561
+source: voetv9jjenlbnj5z
+---------------
+youtubeId: BcqxLCWn-CE
+name: Lauv - I Like Me Better
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2379762,557
+source: e3wxbxcs88di1avx
+---------------
+youtubeId: HWXqaay4tIc
+name: Auli'i Cravalho - Live Your Story
+description: Dreamers, creators, and believers — your personal theme song is here! "Live Your Story" is the all-new, original theme song for Dream Big, Princess, and it's exactly what we needed to hear today — and every day.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2387539,244
+source: iv12sczqbuuuh7r4
+---------------
+youtubeId: YqunQaPQumk
+name: Katy Perry - Small Talk
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2395316,496
+source: l8pvksnys7z6i5d9
+---------------
+youtubeId: L7mfjvdnPno
+name: Trevor Daniel - Falling
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2403093,583
+source: w1emk9qrcv47pslm
+---------------
+youtubeId: N8BXtM6onEY
+name: Sia - I'm Still Here (Lyrics)
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,2410870,604
+source: w81b69cci9umzr3t
+---------------
+youtubeId: yezDEWako8U
+name: Harry Styles - Adore You
+description: Song by English singer and songwriter Harry Styles, released  on December 6, 2019 as the third single from his second studio album, Fine Line. The music video was directed by Dave Meyers and filmed in the Scottish fishing village of St Abbs..
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,2418647,447
+source: m65ldrr7hkmdcksl
+---------------
+youtubeId: L0MK7qz13bU
+name: FROZEN - Let It Go Sing-along Official Disney HD
+description: Sing-along with Idina Menzel in this full sequence from Disney's Frozen.Walt Disney Animation Studios, the studio behind "Tangled" and "Wreck-It Ralph," presents "Frozen," a stunning big-screen comedy adventure. Fearless optimist Anna (voice of Kristen Bell) sets off on an epic journey—teaming up with rugged mountain man Kristoff (voice of Jonathan Groff) and his loyal reindeer Sven
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2426424,407
+source: ljtovpt3hsct2yql
+---------------
+youtubeId: o1MbG4ZmUbQ
+name: Camila Cabello - My Oh My (Live on The Tonight Show Starring Jimmy Fallon) ft. DaBaby
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2434201,493
+source: h8lgkceb76j5xl53
+---------------
+youtubeId: gBkWR-WfEeU
+name: Gryffin, Illenium - Feel Good ft. Daya
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2441978,593
+source: y06k1cllrayl60yo
+---------------
+youtubeId: qC_SxaXL8bs
+name: Kygo, Chelsea Cutler - Not Ok
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2457532,578
+source: wws12bvel5792qtv
+---------------
+youtubeId: AcwyvOkS9BA
+name: ILLENIUM - Reverie ft. King Deco
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2465309,486
+source: lyiup711qo11s5ph
+---------------
+youtubeId: qN4ooNx77u0
+name: Harry Styles - Sign of the Times
+description: Debut single as a solo artist by English singer and songwriter Harry Styles from his self-titled debut studio album. Released on 7 April 2017 by Columbia Records, it was written by Styles, Jeff Bhasker, Mitch Rowland, Ryan Nasci, Alex Salibian, and Tyler Johnson, and produced by Bhasker, Salibian, and Johnson. Musically, it was described by critics as a pop rock and soft rock ballad.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2473086,55
+source: di7mig9wrby4tiw5
+---------------
+youtubeId: WMa_Qsbmzpg
+name: LANY, Julia Michaels - okay
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2480863,588
+source: i6kumtli26irp4hn
+---------------
+youtubeId: dhYOPzcsbGM
+name: Alan Walker, Sabrina Carpenter & Farruko - On My Way
+description: to do...
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2488640,192
+source: zdtegepht60uy1hz
+---------------
+youtubeId: v4-KVCT97wU
+name: Marshmello x YUNGBLUD x blackbear - Tongue Tied
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2496417,491
+source: u1z2e1bday74rsg9
+---------------
+youtubeId: XeKoCLVXKNo
+name: David Guetta feat Anne-Marie - Don't Leave Me Alone
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,2504194,594
+source: m8we3s5fr23vq1w7
+---------------
+youtubeId: aMKtzB7zNrg
+name: Zara Larsson - All the Time
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2511971,554
+source: psmwpgrnv43ypmmi
+---------------
+youtubeId: G_SjnHwxWMU
+name: Noah Cyrus - Again ft. XXXTENTACION
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2519748,589
+source: hk8pqqcn0g10iups
+---------------
+youtubeId: ASt2TJ48r6k
+name: Louis Tomlinson - Walls
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2527525,582
+source: rqelx03dlixen12u
+
+---------------
+youtubeId: av5JD1dfj_c
+name: Sam Smith, Normani - Dancing With A Stranger
+description: to do...
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2543079,210
+source: unph9a2v4fwurcqg
+---------------
+youtubeId: 31crA53Dgu0
+name: Sia - Cheap Thrills
+description: Reggae-tinged synth-pop song by Australian singer Sia from her seventh studio album, This Is Acting (2016). It was written by Sia and Greg Kurstin, while solely produced by Kurstin. Maddie Zeigler dances with dancing with Wyatt Rocker and Nick Lanzisera to Ryan Heffington's choreography
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2550856,225
+source: zfbg0xb9kdeq6o51
+---------------
+youtubeId: Pkh8UtuejGw
+name: Shawn Mendes, Camila Cabello - Señorita
+description: Camila Cabello and Shawn Mendes have shared a new collaborative song "Señorita," following the pair's 2015’s hit "I Know What You Did Last Summer." Released June 21, 2019.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2558633,119
+source: fg1z5out8a33mw0j
+---------------
+youtubeId: -E-_IRJU5w0
+name: Conan Gray - Maniac
+description: Gray recently dropped his single 'Maniac' to hype up his Comfort Crowd tour, which began earlier this week. To make this release more special than all the others, Gray went all out with his music video, featuring Jessica Barden from Netflix's 'The End of the F***ing World.'
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,2566410,436
+source: zct244mr678a1k05
+---------------
+youtubeId: pvuN_WvF1to
+name: Lil Dicky - Earth
+description: Charity single by Lil Dicky that features vocals from 30 artists, including Sia, Justin Bieber, Ariana Grande, Shawn Mendes, Halsey, Katy Perry, Ed Sheeran, Leonardo DiCaprio, Brendon Urie, Charlie Puth, Snoop Dogg, Miley Cyrus. It was released on April 19, 2019, three days before Earth Day.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,2574187,255
+source: fxl93e1acfl6nfbq
+---------------
+youtubeId: nqnkBdExjws
+name: Tom Walker - Leave a Light On
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2581964,597
+source: ulfifh2svh1k5fcy
+---------------
+youtubeId: utCjuKDXQsE
+name: Tame Impala - Lost in Yesterday
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2589741,586
+source: v1eodwofpms1a2eo
+---------------
+youtubeId: aJOTlE1K90k
+name: Maroon 5 - Girls Like You ft. Cardi B
+description: Pop rock song recorded by American band Maroon 5, from their sixth studio album Red Pill Blues (2017). A remix version featuring American rapper Cardi B was released as the album's third single on May 30, 2018.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,2597518,79
+source: kgz1xic2eud96r7r
+---------------
+youtubeId: b73BI9eUkjM
+name: JENNIE - 'SOLO' 
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2605295,576
+source: aelwgmg0cmal2hvu
+---------------
+youtubeId: cIriwVhRPVA
+name: Sigrid - Strangers
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2613072,596
+source: osjxveu7ix0y679e
+---------------
+youtubeId: dfnCAmr569k
+name: Taylor Swift - End Game ft. Ed Sheeran, Future
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2620849,607
+source: aerzbgxqydsf9i43
+---------------
+youtubeId: XaCrQL_8eMY
+name: Lizzo - Juice
+username: rich
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,2628626,563
+source: azvw2lhilwbxgh5p
+---------------
+youtubeId: SlPhMPnQ58k
+name: Maroon 5 - Memories
+description: Song by American pop rock band Maroon 5, released on September 20, 2019, as the lead single from their upcoming seventh studio album. The song peaked at number four on the US Billboard Hot 100 chart.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,2636403,442
+source: kfsu2o32u60nwxr6
+---------------
+youtubeId: shHTYg-rOAg
+name: Julia Michaels - Heaven
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2644180,603
+source: edqhmbkq9sclbltz
+---------------
+youtubeId: ExJmET8boVw
+name: Rita Ora - Girls ft. Cardi B, Bebe Rexha & Charli XCX
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2651957,614
+source: z6fhukfcis21x89b
+---------------
+youtubeId: Y2E71oe0aSM
+name: Dan + Shay, Justin Bieber - 10,000 Hours
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2659734,602
+source: fsu0mnfrgjaaxt6o
+---------------
+youtubeId: Uq8fE3kKIBk
+name: Sigala, Ella Eyre - Came Here for Love
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2667511,590
+source: wppoiw7swneckq1m
+---------------
+youtubeId: J75enyWdbBM
+name: David Guetta & Sia - Flames
+description: Pop song by French DJ and record producer David Guetta and Australian singer-songwriter Sia. The song was released on 22 March 2018, as the fourth single from Guetta's seventh studio album, 7 (2018).
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,0
+unused: 3,2675288,213
+source: mt9wba4wbph1fve0
+---------------
+youtubeId: q0hyYWKXF0Q
+name: TONES AND I - DANCE MONKEY
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2683065,600
+source: zfxpkml2abznqi3a
+---------------
+youtubeId: gvPMVKUI9go
+name: Maren Morris - The Bones
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2690842,599
+source: amcyberf9glh3ij8
+---------------
+youtubeId: eP4eqhWc7sI
+name: Lana Del Rey - Lust For Life ft. The Weeknd
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2698619,592
+source: k49h6jyl9oija2tp
+---------------
+youtubeId: DMFdboqL42I
+name: girl in red - kate's not here (from "The Turning" STK)
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2706396,615
+source: twsut657rndcn9mg
+---------------
+youtubeId: ubE_ac2wYPQ
+name: BENEE - Soaked
+dims: 1280,720,1
+unused: 0,2714173,642
+source: xbx7wud8gsfxhrmz
+---------------
+youtubeId: egVAW6l_QU8
+name: Anne-Marie - BIRTHDAY
+username: rich
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,2721950,611
+source: kc1yj2bbvsq0dwsf
+---------------
+youtubeId: ys2x8oOK7wE
+name: Steve Aoki x Lauren Jauregui - All Night [Ultra Music]
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2729727,610
+source: kl7iu0nw9rmfd0kn
+---------------
+youtubeId: Eg7vEV5woSk
+name: Mac Miller - That's On Me
+username: rich
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,2737504,567
+source: hsz6nqi77bx50l1t
+---------------
+youtubeId: ShZ978fBl6Y
+name: Calum Scott - You Are The Reason
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2745281,609
+source: zeybw8stnfefztel
+---------------
+youtubeId: 9C1flskssaQ
+name: Mallrat - Charlie
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2753058,612
+source: s4jr0smksdvyi1nh
+---------------
+youtubeId: Wrgp3Rp1kPY
+name: Steve Aoki & Alan Walker - Are You Lonely feat. ISÁK
+description: to do...
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2760835,171
+source: blcx3938umvz0smc
+---------------
+youtubeId: CnAmeh0-E-U
+name: Jonas Brothers - Sucker
+description: Song by American pop rock group Jonas Brothers. The song, released on March 1, 2019, through Republic Records, is the group's first single together in six years.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2768612,114
+source: hhrkv8o1n1oyu1fm
+---------------
+youtubeId: kbNinhwcr9M
+name: Harry Styles - Late Night Talking (Instrumental - Official Audio)
+dims: 1280,720,1
+unused: 0,2776389,1189
+source: dc9iygzax7ps4ngv
+---------------
+youtubeId: mJIHEkLczxU
+name: Sigrid - Home To You
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2776389,468
+source: bc5j0shxstwhm51w
+---------------
+youtubeId: vOXZkm9p_zY
+name: Imagine Dragons - Birds (Animated Video)
+description: One of three bonus tracks on the deluxe edition of Origins, “Birds” muses on fading memories and a couple’s gradual parting of ways and promises eternal love, using a metaphor of migrating birds; a natural part of life. (genius.com)
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2784166,61
+source: lmme3uq7jy06e85j
+---------------
+youtubeId: CU5ImX_MNms
+name: Niall Horan - No Judgement
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2791943,616
+source: qx24wbtjavpxu2l0
+---------------
+youtubeId: nHcF1MPXqxs
+name: Faouzia - My Heart's Grave
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2799720,630
+source: hwitloarjxvych7u
+---------------
+youtubeId: -C-2AqRD8io
+name: Porter Robinson - Something Comforting
+dims: 1280,720,1
+unused: 0,2807497,645
+source: t4wxj7nee9uyp330
+---------------
+youtubeId: pbMwTqkKSps
+name: Billie Eilish - when the party's over
+description: to do...
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2815274,190
+source: er8v5o4qdl80xv1d
+---------------
+youtubeId: qeMFqkcPYcg
+name: Eurythmics - Sweet Dreams (Are Made Of This)
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2823051,568
+source: ucghtabq9m60kxhh
+---------------
+youtubeId: TJ9GYswlzsI
+name: P!nk - A Million Dreams
+description: to do...
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2830828,187
+source: b9gvcls53s23sit8
+---------------
+youtubeId: 3AtDnEC4zak
+name: Charlie Puth - We Don't Talk Anymore
+description: to do...
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2838605,179
+source: fnxambw46h6dv1jz
+---------------
+youtubeId: xkJ_W8rBy9Y
+name: Winona Oak - Lonely Hearts Club
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2846382,628
+source: r1psov3nhslqkt8q
+---------------
+youtubeId: Q6jnXN_nTlY
+name: ILLENIUM - Crashing ft. Bahari
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2854159,488
+source: gmaam7a2il5lftpu
+---------------
+youtubeId: mxyucLe9YE4
+name: NIKI - lowkey
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2861936,474
+source: ggu7giasbktumgzz
+---------------
+youtubeId: EgBJmlPo8Xw
+name: Billie Eilish - everything i wanted
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2869713,627
+source: w4esumfv5x0cyex9
+---------------
+youtubeId: A9hcJgtnm6Q
+name: Mark Ronson - Nothing Breaks Like a Heart
+description: to do...
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2877490,390
+source: vgpik5f9qwbdprs0
+---------------
+youtubeId: gBRi6aZJGj4
+name: Billie Eilish - Bellyache
+description: to do...
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2885267,346
+source: z6neqw9okmnzdpeo
+---------------
+youtubeId: fWNaR-rxAic
+name: Carly Rae Jepsen - Call Me Maybe
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2893044,479
+source: m2gat2gqu8g9gt9x
+---------------
+youtubeId: BQ0mxQXmLsk
+name: Camila Cabello - Havana  ft. Young Thug
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2900821,591
+source: zcyc0sqshtjtzqyz
+---------------
+youtubeId: DyDfgMOUjCI
+name: Billie Eilish - bad guy
+description: Pop-trap song by American singer Billie Eilish, released on March 29, 2019. The song serves as the fifth single from Eilish's debut album.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2908598,153
+source: rta4bom8eq3azukl
+---------------
+youtubeId: -RJSbO8UZVY
+name: 5 Seconds Of Summer - Youngblood
+dims: 1280,720,1
+unused: 0,2916375,658
+source: ggkpbrn8g801sxe3
+---------------
+youtubeId: HJq3m-Ck2FI
+name: FINNEAS - Shelter
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2924152,629
+source: svjwre2bs4fq4lrc
+---------------
+youtubeId: Ra-Om7UMSJc
+name: Kelly Clarkson - Because Of You
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2931929,580
+source: nrpop56u7mo90m43
+---------------
+youtubeId: 69glFaMhGgc
+name: 5 Seconds of Summer - No Shame
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2939706,608
+source: c5p21oofuv43j3e5
+---------------
+youtubeId: QnxpHIl5Ynw
+name: Lana Del Rey - High By The Beach
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2947483,574
+source: jyxu33w1f16gi7cj
+---------------
+youtubeId: 1-xGerv5FOk
+name: Alan Walker ft. Noonie Bao - Alone
+description: Electronic dance song by Norwegian record producer and DJ Alan Walker. Incorporating uncredited vocals provided by Swedish recording artist Noonie Bao, it was released commercially for digital download on 2 December 2016.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,0
+unused: 3,2955260,211
+source: ycwbxd7laczopgrt
+---------------
+youtubeId: oNtWQGt8oko
+name: HRVY - ME BECAUSE OF YOU
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2963037,632
+source: csflf27apfl3w0c7
+---------------
+youtubeId: eGedJaJeSFM
+name: P!nk - A Million Dreams [from The Greatest Showman: Reimagined] Lyrics
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2970814,470
+source: h6y8bfk33zgwixrl
+---------------
+youtubeId: 4THFRpw68oQ
+name: AJR - BANG!
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2978591,617
+source: upvhiegigsa4hoo7
+---------------
+youtubeId: gHN-EhL8x3g
+name: Black Eyed Peas - Be Nice (feat. Snoop Dogg)
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2986368,621
+source: igp3vcgaxwdacpja
+---------------
+youtubeId: FKXSh14svlQ
+name: Normani - Motivation
+description: Pop / R&B song by American singer Normani, released on August 16, 2019. The song was written by Ariana Grande, Ilya Salmanzadeh, Max Martin, Normani, Savan Kotecha, and produced by Salmanzadeh.  Los Angeles Times considered the track a "sticky bop perfectly primed to get us through the rest of the summer"
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,2994145,22
+source: h9qgqdgaa4tlgx7x
+---------------
+youtubeId: F5EbXtaiWww
+name: Alec Benjamin - Oh My God
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,3001922,618
+source: ynrd075w42invsk2
+---------------
+youtubeId: wIft-t-MQuE
+name: Taylor Swift - …Ready For It?
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3009699,487
+source: zqngpfl3rntpdklv
+---------------
+youtubeId: ft4jcPSLJfY
+name: David Guetta, Bebe Rexha & J Balvin - Say My Name
+description: to do...
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,3017476,286
+source: ikbbcp97guro7ifg
+---------------
+youtubeId: LH4Y1ZUUx2g
+name: Ariana Grande - break up with your girlfriend, i'm bored
+description: to do...
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3025253,287
+source: sd76ols5ptb5d1e1
+---------------
+youtubeId: dP-zZnptsI8
+name: NOTD ft. Bea Miller - I Wanna Know
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3033030,605
+source: tr46t8j4emf9v91f
+---------------
+youtubeId: dQw4w9WgXcQ
+name: Johann Pachelbel - Canon in D
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3040807,273
+source: qnx8idfplhyedvu4
+---------------
+youtubeId: yctQRe--q6c
+name: SLANDER - Love Is Gone (ft. Dylan Matthew)
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3048584,625
+source: ysykeetuqmvjj997
+---------------
+youtubeId: OpQFFLBMEPI
+name: P!nk - Just Give Me A Reason ft. Nate Ruess
+description: Ssong recorded by American singer and songwriter Pink, featuring fun's lead singer Nate Ruess. The song was the third single from Pink's sixth studio album, The Truth About Love (2012). "Just Give Me a Reason" is a pop ballad about the desire to hold on to a relationship even when it appears to be breaking down.Jeff Bhasker assisted the artists in writing the song and is also the producer.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3056361,228
+source: h67884w0hrk1e6oe
+---------------
+youtubeId: KM3j_TXeqfc
+name: The Pussycat Dolls - React
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3064138,613
+source: jbgv8tpv7pm7m0z1
+---------------
+youtubeId: Q4-jOuHO-z4
+name: Silk City, Dua Lipa - Electricity ft. Diplo, Mark Ronson
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3071915,598
+source: zcgf1v956zcuexxq
+---------------
+youtubeId: h5jz8xdpR0M
+name: Bishop Briggs - River
+description: Bishop Briggs' single "River" easily gets stuck in your head. Not because it has a superficial melody or a campy hook, but because the sound smacks you right in the face. It starts off with a whipping percussion and transitions into an explosive chorus highlighting Briggs's fierce, soulful-rocker vocals.  (Harper's Bazaar)
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3079692,128
+source: f862by3l532jcz4y
+---------------
+youtubeId: WQq98YPV8yk
+name: Ashe - Moral of the Story
+dims: 1280,720,1
+unused: 0,3087469,640
+source: jlker7k7p13fx6yt
+---------------
+youtubeId: BI5_hpUxDrM
+name: Idle Town - Conan Gray [ Original Song ]
+description: Growing up in the small-town retirement community of Georgetown, Texas, Conan Gray had a lot of time on his hands to think. So, at age twelve, he began writing songs to kill some time. “I think every small-town kid is just really bored,” says Conan. “And I was just a lonely, bored kid.” (republic records)
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3095246,109
+source: hr175hmlmsl22j3x
+---------------
+youtubeId: ZdKYi5ekshM
+name: TWICE「Breakthrough」Music Video
+description: Japanese song by South Korean girl group Twice. The song and its music video were released on June 12, 2019.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3103023,120
+source: xxt1rhiqva0nobnb
+---------------
+youtubeId: m-PJmmvyP10
+name: Alan Walker - Different World feat. Sofia Carson, K-391 & CORSAK
+description: to do...
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,3110800,195
+source: br71iez6qctnfyxd
+---------------
+youtubeId: oljXXw0wgmg
+name: Alessia Cara - Out Of Love
+description: "Out of Love" is a song recorded by Canadian singer and songwriter Alessia Cara. Def Jam Recordings serviced it to contemporary hit radio on January 29, 2019, as the third single from Cara's second studio album The Pains of Growing
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3118577,113
+source: lkwpp819441bg3cg
+---------------
+youtubeId: 1DCiUhNn9rc
+name: Au/Ra, Alan Walker - Ghost
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3126354,623
+source: bf5ue9vo9q3qv5zc
+---------------
+youtubeId: S4L3EQ6ljcU
+name: Niall Horan - Heartbreak Weather
+dims: 1280,720,1
+unused: 0,3134131,644
+source: q290xon6wfvw5chk
+---------------
+youtubeId: gGRvRT0ysFQ
+name: 12345 Once I Caught a Fish Alive Nursery Rhymes and Baby Songs from Dave and Ava
+description: Download Dave and Ava's videos  Once I Caught a Fish Alive  Nursery Rhymes from Dave and Ava. Get ready for an exciting fishing adventure!  Watch 30-minute non-stop Christmas songs
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,3141908,403
+source: eu85ye1cuk506rpx
+---------------
+youtubeId: djV11Xbc914
+name: a-ha - Take On Me
+description: Time and Again: The Ultimate a-ha, including the biggest hits + rare and unreleased remixes, is out now! Get your copy here:  - - -The official video for a-ha "Take On Me". At the 
+username: jonesy
+userIntSuffix: 
+dims: 480,360,0
+unused: 4,3149685,404
+source: xp3pnjt4yzun3lv2
+---------------
+youtubeId: oyhFJSaxaW4
+name: Faouzia - The Road
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3157462,570
+source: o2o0kg3in0e5pv6j
+---------------
+youtubeId: fIkZOLsnoqY
+name: BTS (방탄소년단) LOVE YOURSELF 結 Answer 'Epiphany' Comeback Trailer
+description: Song by South Korean boy band BTS, sung as a solo by member Jin. It was released August 25, 2018 with the compilation album Love Yourself: Answer. It was written by ”hitman” bang, Slow Rabbit, and Adora, with Slow Rabbit being the sole producer.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3165239,164
+source: pxbhla30bqnzvz47
+---------------
+youtubeId: MU3qPtsgjkk
+name: Madison Beer - Dear Society
+description: Sleepless nights and cigarettes, my daily dose of internet, and all the things I should have quit but never did (ohhh)\nEvil voices in my head, I woke up in a stranger’s bed, I lost my phone in Amsterdam, its 5am,
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3173016,143
+source: bpd0unnkhupm9i23
+---------------
+youtubeId: hjr4wfnVmpE
+name: Cavetown – Green
+dims: 1280,720,1
+unused: 0,3180793,637
+source: pzqzeikifktprxoo
+---------------
+youtubeId: 978iHuFKfS4
+name: Madison Beer - Selfish
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3188570,620
+source: jf7exoxu2zhgypmn
+---------------
+youtubeId: TOamHghGCfg
+name: Kygo, Zara Larsson, Tyga - Like It Is
+dims: 1280,720,1
+unused: 0,3196347,706
+source: g7an5mhbdowwai0j
+---------------
+youtubeId: OPGtpO1g_jk
+name: OneRepublic - Didn’t I
+dims: 1280,720,1
+unused: 0,3204124,654
+source: u3pc3wggwcvjyxe1
+---------------
+youtubeId: ia1iuXbEaYQ
+name: Selena Gomez - Rare
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3211901,545
+source: q0mjw7ltmbzbqjcw
+---------------
+youtubeId: Bv9envzEQ7M
+name: Maximillian - Beautiful Scars
+dims: 1280,720,1
+unused: 0,3219678,668
+source: yl5zol3ev3qvxdie
+---------------
+youtubeId: aRkBmEUNR3Q
+name: Head Shoulders Knees and Toes - LBB
+description: Little Baby Bum is a YouTube channel that specialises in 3D animation videos of both traditional nursery rhymes and their own original children's songs. London based Derek Holder teamed up with his wife to design videos that reflected classic nursery rhymes, with a modern aesthetic.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3227455,260
+source: yhfg8uop2mwlze20
+---------------
+youtubeId: jzD_yyEcp0M
+name: Marshmello & Anne-Marie - FRIENDS *OFFICIAL FRIENDZONE ANTHEM*
+description: EDM/pop ssong by American record producer Marshmello and English singer Anne-Marie. It was written and produced by Marshmello, with additional writing from Anne-Marie and others. The song was released on February 9, 2018.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3235232,106
+source: snn04efmeu023brp
+---------------
+youtubeId: NdBHfXgI3hA
+name: Lauren Jauregui, Tainy - Lento
+dims: 1280,720,1
+unused: 0,3243009,646
+source: odkt2zc9hnxv8kan
+---------------
+youtubeId: sQEgklEwhSo
+name: Katy Perry - Harleys In Hawaii
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3258563,624
+source: qo9hxsafnrylzph3
+---------------
+youtubeId: aAiVsqfbn5g
+name: George Ezra - Shotgun
+description: Song by English singer-songwriter George Ezra. The song was written by Ezra and Joel Pott and produced by Cam Blackwood. It was released as a digital download on 18 May 2018, as the third single from Ezra's second studio album Staying at Tamara's.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3266340,197
+source: sdhk5uec487vtgat
+---------------
+youtubeId: LRjHZoX0Il0
+name: AJ Mitchell - All My Friends
+dims: 1280,720,1
+unused: 0,3274117,666
+source: icaj3p61wbrswpjx
+---------------
+youtubeId: UyKgYMQ-AlQ
+name: Katy Perry - Never Worn White
+dims: 1280,720,1
+unused: 0,3281894,639
+source: yaboxnlwljavj895
+---------------
+youtubeId: M-P4QBt-FWw
+name: Alan Walker - Darkside (feat. Au/Ra and Tomine Harket)
+description: We're not in love\nWe share no stories\nJust something in your eyes\nDon't be afraid\nThe shadows know me\nLet's leave the world behind\n\n[Chorus]:\nTake me through the night\nFall into the dark side\nWe don't need the light\nWe'll live on the dark side\nI see it\nLet's feel it\nWhile we're still young and fearless\nLet go of the light\nFall in to the dark side\nFall in to the dark side\nGive into the dark side\nLet go of the light\nFall in to the dark side
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,3289671,226
+source: hyuimbqqxh4aq9nz
+---------------
+youtubeId: jofNR_WkoCE
+name: Ylvis - What Does the Fox Say?
+description: Electronic dance novelty song and viral video by Norwegian comedy duo Ylvis. The top trending video of 2013 on YouTube, "The Fox" was posted on the video-sharing website on 3 September 2013, and has received over 800 million views as of late 2018.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3297448,208
+source: oqbva04eput0pjtl
+---------------
+youtubeId: 5U5RagJIBU8
+name: Winona Oak - Let Me Know
+username: david
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,3305225,492
+source: spviz1c80vn0botd
+---------------
+youtubeId: ZAYBCJGk07s
+name: YUNGBLUD & Halsey cover Death Cab for Cutie 'I Will Follow You Into The Dark' for Like A Version
+dims: 1280,720,1
+unused: 0,3313002,647
+source: rkjgnyu4wkmbr9uu
+---------------
+youtubeId: POIK1H3L86k
+name: Sam Smith - To Die For
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3320779,619
+source: zsjx361q22835x16
+---------------
+youtubeId: A_MjCqQoLLA
+name: The Beatles - Hey Jude
+description: The Beatles 1 Video Collection is out now. Available on:  Jude topped the charts in Britain for two weeks and for 9 weeks in America, where it became The Beatles longest-running No
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,3328556,272
+source: bgkg9bl1z644u8am
+---------------
+youtubeId: fTNnwzXrVdg
+name: Bebe Rexha - Last Hurrah
+description: to do...
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3336333,391
+source: j3aaezms0jihr1lq
+---------------
+youtubeId: PSZxmZmBfnU
+name: Somewhere Over the Rainbow - The Wizard of Oz (1/8) Movie CLIP (1939) HD
+description: The Wizard of Oz movie clips:  BUY THE MOVIE:  Don't miss the HOTTEST NEW TRAILERS:  Watch more ...
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3344110,392
+source: v4z5v831f8r7vjxj
+---------------
+youtubeId: eitDnP0_83k
+name: Mena Massoud, Naomi Scott - A Whole New World (From "Aladdin")
+description: 2019 version of the song from the animated feature film Aladdin, with music by Alan Menken and lyrics by Tim Rice. A duet originally recorded by singers Brad Kane and Lea Salonga in their respective roles as the singing voices of the main characters Aladdin and Jasmine, the ballad serves as both the film's love and theme song.
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3351887,130
+source: k9m5fip9d476s8bf
+---------------
+youtubeId: xs7rW19sbIc
+name: Twinkle Twinkle Little Star Nursery Rhymes | "The Prince And The Star" from LittleBabyBum!
+description: Download LBB videos   Toys:  El Bebe Productions LimitedSet in old Paris, the Prince is still loved and missed by all the town folk as he is sadly no longer around. The statue love
+userIntSuffix: 
+dims: 1280,720,1
+unused: 5,3359664,409
+source: wrzlhelbrrcw8qza
+---------------
+youtubeId: WvgcwnqfAxI
+name: Lauv - Modern Loneliness
+dims: 1280,720,1
+unused: 0,3367441,718
+source: bao6a3i7ynb2w5ti
+---------------
+youtubeId: 1gpXMGit4P8
+name: Star Wars IV: A new hope - Binary Sunset (Force Theme)
+description: Questo video  parte di un lavoro pi ampio, intitolato "John Williams, la Colonna Sonora di Star Wars: Analisi dei principali leitmotiv". I video caricati p...
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3375218,406
+source: sqzrrkfzejp4zdu4
+---------------
+youtubeId: 0VD9x50vh8o
+name: James Arthur - Empty Space
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3382995,631
+source: r35jmt914fv21r4l
+---------------
+youtubeId: rQZJsOSw1pU
+name: Madison Beer - Good in Goodbye
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3390772,587
+source: mm6rgmve7q0cxtwg
+---------------
+youtubeId: NRmSf9VqrUA
+name: Marshmello - Here With Me Feat. CHVRCHES [Alternative Music Video]
+description: Dance pop / EDM song by American producer Marshmello, featuring Scottish band Chvrches. It was released on March 8, 2019.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3398549,158
+source: idoxsq5c003ztvvk
+---------------
+youtubeId: jH1RNk8954Q
+name: Ava Max - Kings & Queens
+dims: 1280,720,0
+unused: 0,3406326,650
+source: kba1d09ewob8w05l
+---------------
+youtubeId: 0Dlh7FLz7oY
+name: Why Don't We - Cold In LA
+dims: 1280,720,1
+unused: 0,3414103,667
+source: yigb4u65v60qtuam
+---------------
+youtubeId: Kq0XPWVe3AE
+name: Faouzia - Bad Dreams (Piano Version)
+dims: 1280,720,1
+unused: 0,3421880,664
+source: s5lrkz4gr32pd935
+---------------
+youtubeId: vk0AR1EkkcU
+name: beabadoobee - Dance with Me
+dims: 1280,720,1
+unused: 0,3429657,708
+source: nx6iudotqef41qj4
+---------------
+youtubeId: gYJg2ISYMbc
+name: Don Diablo - Bad ft. Zak Abel |
+dims: 1280,720,0
+unused: 0,3437434,703
+source: l411a7gl533nwegi
+---------------
+youtubeId: i0jZJtE1KhU
+name: 5 Seconds of Summer - Old Me
+dims: 1280,720,1
+unused: 0,3445211,651
+source: u9e1grtvxnlb03e4
+---------------
+youtubeId: vImvzQCb0o8
+name: Demi Lovato - I Love Me
+dims: 1280,720,1
+unused: 0,3452988,662
+source: o54g34b581894ha9
+---------------
+youtubeId: IJjeVuIGwa8
+name: PRETTYMUCH - Phases
+dims: 1280,720,1
+unused: 0,3460765,656
+source: oxjfjq3dijsgqvki
+---------------
+youtubeId: VAmXEe92RSI
+name: AJ Mitchell - Slow Dance ft. Ava Max
+dims: 1280,720,1
+unused: 0,3468542,665
+source: dfmzrmig7fsmsgnk
+---------------
+youtubeId: BDocp-VpCwY
+name: Martin Garrix feat. Khalid - Ocean
+dims: 1280,720,1
+unused: 0,3476319,669
+source: m2bd7pa4r3xdchrw
+---------------
+youtubeId: AeUeLzBO0go
+name: mxmtoon - prom dress
+dims: 1280,720,1
+unused: 0,3484096,704
+source: etrc0vczx5t7258n
+---------------
+youtubeId: sTQNJT7OZew
+name: beabadoobee - If You Want To
+dims: 1280,720,1
+unused: 0,3491873,709
+source: b09pqijq93d83hko
+---------------
+youtubeId: 36tggrpRoTI
+name: Shawn Mendes - In My Blood
+dims: 1280,720,1
+unused: 0,3499650,707
+source: jenppcskv0tlrea2
+---------------
+youtubeId: glD1M418bC0
+name: Sam Smith, Demi Lovato - I’m Ready
+dims: 1280,720,1
+unused: 0,3507427,711
+source: xgzkqsj7531q96ye
+---------------
+youtubeId: pBuZEGYXA6E
+name: BTS (방탄소년단) 'IDOL' Official MV
+dims: 1280,720,1
+unused: 0,3515204,705
+source: uv2f5iwpmd8yk8e1
+---------------
+youtubeId: Ahha3Cqe_fk
+name: Katy Perry - The One That Got Away
+dims: 1280,720,1
+unused: 0,3522981,713
+source: zazx0l8awm3znl0c
+---------------
+youtubeId: lzkKzZmRZk8
+name: The Chainsmokers, ILLENIUM - Takeaway ft. Lennon Stella
+dims: 1280,720,1
+unused: 0,3530758,715
+source: m115pnyxe804i5yj
+---------------
+youtubeId: lSpY-Ya92Rc
+name: New Rules - Pasta
+dims: 1280,720,1
+unused: 0,3538535,717
+source: q23kdvmie8khev4h
+---------------
+youtubeId: 4NhKWZpkw1Q
+name: Sia - Big Girls Cry ft Maddie Ziegler
+description: Pop single by Australian singer-songwriter Sia from her sixth studio album  1000 Forms of Fear. The video features dancer Maddie Ziegler.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,3546312,238
+source: owtvvsmrsas16vfn
+---------------
+youtubeId: YQRHrco73g4
+name: Alan Walker, K-391, Tungevaag, Mangoo - PLAY (Alan Walker's Video)
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3561866,566
+source: h1oeiammrd1tvqxs
+---------------
+youtubeId: XXpjUePKFGk
+name: Faith Marie - Antidote
+dims: 1280,720,1
+unused: 0,3569643,771
+source: vj6nmq74si4txh5m
+---------------
+youtubeId: afRFR2UNYzI
+name: Hailee Steinfeld - I Love You's
+dims: 1280,720,1
+unused: 0,3577420,660
+source: ovzehwn33zczwgkb
+---------------
+youtubeId: PjPy9XielsA
+name: NIKI - Switchblade
+dims: 1280,720,1
+unused: 0,3585197,663
+source: vpicgl0853u0w7al
+---------------
+youtubeId: -KBh3fm6gFo
+name: Lennon Stella - Older Than I Am
+dims: 1280,720,1
+unused: 0,3592974,725
+source: nfqqjbjq6xgf63kv
+---------------
+youtubeId: Nj2U6rhnucI
+name: Dua Lipa - Break My Heart
+dims: 1280,720,0
+unused: 0,3600751,643
+source: bl2akkh097wpu3n3
+---------------
+youtubeId: ykW4rtW2eu0
+name: The Veronicas - Untouched
+dims: 1280,720,0
+unused: 0,3608528,733
+source: b91dt5l66q9p6un1
+---------------
+youtubeId: jJPMnTXl63E
+name: Powfu - death bed (coffee for your head) ft. beabadoobee
+dims: 1280,720,1
+unused: 0,3616305,746
+source: qbqr8el4c30ao71a
+---------------
+youtubeId: wYIY8VwqaPk
+name: Audrey Mika - Just Friends
+dims: 1280,720,1
+unused: 0,3624082,754
+source: gw0ftbou58ix5ohq
+---------------
+youtubeId: ScNsBpQ8KIg
+name: Martin Garrix, Matisse & Sadko - Forever
+description: Featuring an orchestral opening, the trio share their penchant for classical tones with strong string, brass, and percussive elements, before a typically explosive drop launches into progressive house vibes. (weraveyou.com)
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3631859,126
+source: hs0ec1kaj82ag4tz
+---------------
+youtubeId: wNFY8lJhm0A
+name: Kygo - Freedom ft. Zak Abel
+dims: 1280,720,1
+unused: 0,3639636,712
+source: olchmwcrhcz8qip9
+---------------
+youtubeId: 8_JbZvHc92U
+name: Jonas Brothers - Cool
+description: Song by American pop rock group Jonas Brothers, released on April 5, 2019.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,3647413,149
+source: i12ftk6ipvu3v8d0
+---------------
+youtubeId: tSIk1QvIM2E
+name: Selena Gomez - Boyfriend
+dims: 1280,720,1
+unused: 0,3655190,716
+source: y8o4iu9831a7omhz
+---------------
+youtubeId: PMGY8fLwess
+name: James Arthur - Falling like the Stars
+description: A tendder love song by balladeer James Arthur. Released May 2019.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3670744,155
+source: c86abnr2wja0iznd
+---------------
+youtubeId: TgOu00Mf3kI
+name: [MV] IU(아이유) _ eight(에잇) (Prod.&Feat. SUGA of BTS)
+dims: 1280,720,1
+unused: 0,3678521,741
+source: zq5ub4lzmnj0my89
+---------------
+youtubeId: Oj18EikZMuU
+name: K-391, Alan Walker & Ahrix - End of Time
+dims: 1280,720,1
+unused: 0,3686298,636
+source: t2dkdx5jjo3au4rs
+---------------
+youtubeId: hEDBZtmKPmg
+name: Conan Gray - Wish You Were Sober
+dims: 1280,720,1
+unused: 0,3694075,638
+source: jc9sjwzdcbzth15k
+---------------
+youtubeId: ReoSr-MLrBg
+name: LANY - good guys
+dims: 1280,720,1
+unused: 0,3701852,723
+source: rxj3drh12465imn5
+---------------
+youtubeId: AoAm4om0wTs
+name: Lady Gaga, Ariana Grande - Rain On Me
+dims: 1280,720,1
+unused: 0,3709629,726
+source: hyp86b26gxp1w5g5
+---------------
+youtubeId: 7LMJzMie-wg
+name: TROLLS WORLD TOUR | "Just Sing" Performed by Trolls World Tour Cast -
+dims: 1280,720,1
+unused: 0,3717406,720
+source: rzs5nd1dd8siralb
+---------------
+youtubeId: NbgD9TyTW6g
+name: Noah Cyrus - Young & Sad
+dims: 1280,720,1
+unused: 0,3725183,749
+source: k5hvv7kz607eeq3a
+---------------
+youtubeId: yKNxeF4KMsY
+name: Coldplay - Yellow
+dims: 1280,720,1
+unused: 0,3732960,734
+source: l4s6yme1qs6egrmf
+---------------
+youtubeId: wSdT-SArM2Q
+name: Machine Gun Kelly - Bloody Valentine
+dims: 1280,720,1
+unused: 0,3740737,729
+source: xxrkurhnhajxoqui
+---------------
+youtubeId: pE49WK-oNjU
+name: Ariana Grande & Justin Bieber - Stuck with U
+dims: 1280,720,1
+unused: 0,3748514,737
+source: xcbovq8b0lx9dxb6
+---------------
+youtubeId: h_m-BjrxmgI
+name: Plain White T's - Hey There Delilah
+dims: 1280,720,1
+unused: 0,3756291,710
+source: hxacsbn9jzkyncwh
+---------------
+youtubeId: ARt9HV9T0w8
+name: Gloria Gaynor - I Will Survive 1978 [Audio iTunes Plus AAC M4A]
+dims: 1280,720,1
+unused: 0,3764068,743
+source: ugxxhvhwpwgeotu8
+---------------
+youtubeId: 1w7OgIMMRc4
+name: Guns N' Roses - Sweet Child O' Mine
+dims: 1280,720,1
+unused: 0,3771845,738
+source: phnskzz5asz6huxe
+---------------
+youtubeId: T3E9Wjbq44E
+name: Gym Class Heroes: Stereo Hearts ft. Adam Levine
+dims: 1280,720,1
+unused: 0,3779622,742
+source: v1775k4ov000nc3y
+---------------
+youtubeId: vTXZelX9VYM
+name: test
+dims: 1280,720,1
+unused: 0,3787399,757
+source: nx6eqkbbg7mziak9
+---------------
+youtubeId: c0gTgLz8LkM
+name: Now United – Paraná
+dims: 1280,720,1
+unused: 0,3795176,753
+source: ihh61f8mwb7btvah
+---------------
+youtubeId: dPI-mRFEIH0
+name: Katy Perry - Bon Appétit ft. Migos
+dims: 1280,720,1
+unused: 0,3802953,759
+source: fsfz1znbdk1s7yqd
+---------------
+youtubeId: 8v_4O44sfjM
+name: Christina Perri - Jar of Hearts
+dims: 1280,720,1
+unused: 0,3810730,740
+source: pv2273nfpb7byi98
+---------------
+youtubeId: WS7f5xpGYn8
+name: Katy Perry - Hey Hey Hey
+dims: 1280,720,1
+unused: 0,3818507,758
+source: iprxji1pzqx35yb3
+---------------
+youtubeId: 0yW7w8F2TVA
+name: James Arthur - Say You Won't Let Go
+dims: 1280,720,1
+unused: 0,3834061,768
+source: dybc4pe5ew6md3nf
+---------------
+youtubeId: JRWox-i6aAk
+name: Lana Del Rey - Blue Jeans
+dims: 1280,720,1
+unused: 0,3849615,770
+source: lwojiwfdjy5sp4nb
+---------------
+youtubeId: ol9E5t0l8Mo
+name: Anna Blue & Damien Dawn - Angel
+dims: 1280,720,1
+unused: 0,3857392,752
+source: s9mpe9tne4150rlz
+---------------
+youtubeId: 3CvD7ggjozQ
+name: Johnny Stimson - Hard to Say Goodbye
+dims: 1280,720,1
+unused: 0,3865169,809
+source: rbdddqar9386u4wj
+---------------
+youtubeId: TJAfLE39ZZ8
+name: Amy Winehouse - Back To Black
+dims: 1280,720,1
+unused: 0,3872946,750
+source: eefwokjoe9fs5w1k
+---------------
+youtubeId: NjN4rOBZV2s
+name: Faouzia - How It All Works Out
+dims: 1280,720,1
+unused: 0,3880723,775
+source: t0g1ba7jg8anpmb9
+---------------
+youtubeId: 8j9mApdBhOI
+name: DamienDawn - SILENT SCREAM
+dims: 1280,720,1
+unused: 0,3888500,751
+source: r67ojdpldh2vbjn6
+---------------
+youtubeId: xWpEZguQE8E
+name: Nothing But Thieves - If I Get High
+dims: 1280,720,1
+unused: 0,3896277,776
+source: uzhtwdkqo669bwwo
+---------------
+youtubeId: rietL01M1r8
+name: Maty Noyes - New Friends
+dims: 1280,720,1
+unused: 0,3904054,755
+source: ma1nl83hl2zgdovl
+---------------
+youtubeId: 9zEl-FQLI4A
+name: Sun Rai - San Francisco Street
+dims: 1280,720,1
+unused: 0,3911831,792
+source: ny3oriu70qq5fp3v
+---------------
+youtubeId: 75fEhQlc9h4
+name: Why Don't We & Macklemore - I Don't Belong In This Club
+description: to do...
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,3919608,245
+source: na91ew7xoeckmpo2
+---------------
+youtubeId: OOgvDiXl6hA
+name: Olivia Rodrigo - All I Want
+dims: 1280,720,1
+unused: 0,3927385,649
+source: h76ixygalcqk96e8
+---------------
+youtubeId: ByHNlfmmT-w
+name: 헤이즈 (Heize) - We don't talk together (Feat. 기리보이 (Giriboy)) (Prod. SUGA) MV
+dims: 1280,720,1
+unused: 0,3935162,766
+source: rxnnm1n3nu400uyy
+---------------
+youtubeId: HjmBLCbTgDo
+name: FINNEAS - Break My Heart Again
+description: On his latest single,  FINNEAS (née Finneas O’Connell) details the breakdown of a relationship haunted by miscommunication – and the difficulty of letting go of something you hold dear. (atwood magazine)
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3942939,110
+source: ooqcx8dophmdgrus
+---------------
+youtubeId: YGIvNGvQaWc
+name: Now United - Stand Together
+dims: 1280,720,0
+unused: 0,3950716,763
+source: ouu69c6w96qy6pjm
+---------------
+youtubeId: gUcisIlT7sM
+name: Lil Nas X - Old Town Road (feat. Billy Ray Cyrus)
+description: Song by American rapper Lil Nas X featuring featuring American country singer Billy Ray Cyrus in this remix, which reached number one on the Hot 100.
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3958493,161
+source: iu86liu6kkeke0r2
+---------------
+youtubeId: -J7J_IWUhls
+name: Paramore: The Only Exception
+dims: 1280,720,1
+unused: 0,3966270,769
+source: j2emwirpxr9tp8xx
+---------------
+youtubeId: btrzs54s1Rc
+name: Jonas Blue - Rise ft. Jack & Jack
+description: House pop song by English DJ and music producer Jonas Blue featuring American pop-rap duo Jack & Jack. It was released on 25 May 2018.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3974047,219
+source: m3qk6p59fp67hed8
+---------------
+youtubeId: gM7Hlg75Mlo
+name: Neon Trees - Animal
+dims: 1280,720,1
+unused: 0,3981824,778
+source: f74jpcbuk6x86ri7
+---------------
+youtubeId: 7wfYIMyS_dI
+name: Enya - Only Time (Official 4K Music Video)
+dims: 1280,720,1
+unused: 0,3989601,748
+source: dvpaizn97y7q00je
+---------------
+youtubeId: wKOptbo-QFw
+name: Dixie D'Amelio - Be Happy
+dims: 1280,720,1
+unused: 0,3997378,765
+source: c7foiji5f8aclo23
+---------------
+youtubeId: x3bfa3DZ8JM
+name: Khalid - Better
+description: R&B song by American singer Khalid. It was first released as the lead single from Khalid's debut EP, Suncity, on September 14, 2018
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,4005155,137
+source: lxw1qq9a03xgoqoh
+---------------
+youtubeId: PUdyuKaGQd4
+name: Alice Merton - No Roots
+description: to do...
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,4012932,181
+source: s1w963swuhhvn2tu
+---------------
+youtubeId: f2JuxM-snGc
+name: Lorde - Team
+dims: 1280,720,1
+unused: 0,4028486,779
+source: obum48l0wbz9wzge
+---------------
+youtubeId: 9IHwqdz8Xhw
+name: BTS (방탄소년단) 'Stay Gold' Official MV
+dims: 1280,720,0
+unused: 0,4036263,774
+source: kmv3cfamg0xjqhwr
+---------------
+youtubeId: hTWKbfoikeg
+name: Nirvana - Smells Like Teen Spirit
+dims: 1280,720,1
+unused: 0,4044040,736
+source: gsfnzuerl7ix6wtx
+---------------
+youtubeId: quFlP3cRCFs
+name: Calvin Harris, The Weeknd - Over Now
+dims: 1280,720,1
+unused: 0,4051817,860
+source: sx7j821zn7esbada
+---------------
+youtubeId: gvzC8MmC850
+name: Grimes - Delete Forever
+dims: 1280,720,1
+unused: 0,4059594,784
+source: tivl47n6ihj8pe9l
+---------------
+youtubeId: 8nBFqZppIF0
+name: Halsey - You should be sad
+dims: 1280,720,1
+unused: 0,4067371,788
+source: m0um321gggeg4q8y
+---------------
+youtubeId: nbNuiucSezA
+name: Frawley - Hard Boy
+dims: 1280,720,1
+unused: 0,4075148,802
+source: q3lvruz0qtcin5pw
+---------------
+youtubeId: 4IUNL6zzVZ8
+name: Kygo - Beautiful w/ Sandro Cavazza
+dims: 1280,720,1
+unused: 0,4082925,796
+source: m9k62qrv8llkgjln
+---------------
+youtubeId: h6rkvKFAY_s
+name: Sarah Jeffery - Even The Stars (Disney Channel Voices)
+dims: 1280,720,1
+unused: 0,4106256,798
+source: b67ba5w3fdjywb27
+---------------
+youtubeId: GPbG4mIgKAw
+name: LANY - if this is the last time
+dims: 1280,720,1
+unused: 0,4114033,772
+source: y3f8cczza13pqv7n
+---------------
+youtubeId: fTbYpSIF22s
+name: Now United - Who Would Think That Love?
+dims: 1280,720,0
+unused: 0,4129587,745
+source: dh72pao7rof89n12
+---------------
+youtubeId: VaKzNtwPQxE
+name: FINNEAS - Let's Fall in Love for the Night
+dims: 1280,720,1
+unused: 0,4137364,786
+source: zf3mb7zwjgzf2jyl
+---------------
+youtubeId: Lt7EtplY2Zs
+name: Ellie Goulding - Slow Grenade ft. Lauv
+dims: 1280,720,1
+unused: 0,4145141,789
+source: c6owv9zj0o5tjhds
+---------------
+youtubeId: LNNPNweSbp8
+name: The Rolling Stones - Living In A Ghost Town
+dims: 1280,720,1
+unused: 0,4152918,799
+source: d7kmo5b60q94exso
+---------------
+youtubeId: 5uf7BzRBZwA
+name: Anne-Marie - To Be Young (feat. Doja Cat)
+dims: 1280,720,1
+unused: 0,4160695,801
+source: ho28o34faya68nse
+---------------
+youtubeId: K-a8s8OLBSE
+name: Taylor Swift - cardigan
+dims: 1280,720,1
+unused: 0,4168472,803
+source: m8excjckb10jin2z
+---------------
+youtubeId: Dm9Zf1WYQ_A
+name: Billie Eilish - my future
+dims: 1280,720,1
+unused: 0,4176249,813
+source: if9h55r44lxkpdjw
+---------------
+youtubeId: _kqQDCxRCzM
+name: One Direction - You & I
+dims: 1280,720,1
+unused: 0,4184026,805
+source: jk8s9aec46ffeba4
+---------------
+youtubeId: l3SqeJoMBP0
+name: The Vamps - Better
+dims: 1280,720,1
+unused: 0,4191803,879
+source: qm2aw3bu70l1e21v
+---------------
+youtubeId: NutHKRKBgR0
+name: Katy Perry - Daisies
+dims: 1280,720,1
+unused: 0,4215134,721
+source: o3rv4u0ay9tzuxpc
+---------------
+youtubeId: Kb5n6q3TyTg
+name: Lauv: Modern Loneliness
+dims: 1280,720,1
+unused: 0,4222911,719
+source: l8z5653umz664lzn
+---------------
+youtubeId: Owvji3p7kB0
+name: mxmtoon - fever dream
+dims: 1280,720,1
+unused: 0,4230688,793
+source: lw3hktujhwndw8n2
+---------------
+youtubeId: uR8Mrt1IpXg
+name: Red Velvet 레드벨벳 'Psycho' MV
+dims: 1280,720,1
+unused: 0,4238465,732
+source: apaxl72xckvom7k1
+---------------
+youtubeId: Mj9Si4HYLPQ
+name: Kygo - Broken Glass w/ Kim Petras
+dims: 1280,720,1
+unused: 0,4246242,790
+source: y5rg0b5s3cgfnz4a
+---------------
+youtubeId: EHWVIfEyRVw
+name: Toni Braxton - Do It
+dims: 1280,720,1
+unused: 0,4254019,800
+source: go7fp7iw4o838aqk
+---------------
+youtubeId: pok8H_KF1FA
+name: Doja Cat - Say So
+dims: 1280,720,1
+unused: 0,4261796,730
+source: vewrjbag0edqmn3j
+---------------
+youtubeId: gdZLi9oWNZg
+name: BTS (방탄소년단) 'Dynamite' Official MV
+dims: 1280,720,1
+unused: 0,4269573,862
+source: pf7yex0t3pszklyo
+---------------
+youtubeId: vnfGni4_RlI
+name: Sia - Together (from the motion picture Music)
+dims: 1280,720,0
+unused: 0,4277350,722
+source: wa1ok1t8p7m36hns
+---------------
+youtubeId: Y1xs_xPb46M
+name: One Direction - One Thing
+dims: 1280,720,1
+unused: 0,4285127,807
+source: ri216cducberlbqh
+---------------
+youtubeId: UcLSjQx8GXA
+name: Blake Shelton - Happy Anywhere (feat. Gwen Stefani)
+dims: 1280,720,0
+unused: 0,4300681,815
+source: a7yniqnx1c0j3yuk
+---------------
+youtubeId: MZLpMkP_BJ4
+name: mxmtoon - bon iver
+dims: 1280,720,1
+unused: 0,4308458,814
+source: wg64z2w9ihdwfs4a
+---------------
+youtubeId: oXwiVsWJqRs
+name: Ellie Goulding - Sixteen
+dims: 1280,720,1
+unused: 0,4316235,817
+source: tv30bz947oiz2stc
+---------------
+youtubeId: JpfIsdktiyM
+name: Peach Tree Rascals - I'm Sorry
+dims: 1280,720,1
+unused: 0,4324012,822
+source: ev9lzwnmdiqfuwvv
+---------------
+youtubeId: JmZxT_UAthU
+name: Sam Feldt - Everything About You (feat. Your Friend Polly)
+dims: 1280,720,1
+unused: 0,4331789,897
+source: z4aujuni0oslyj9c
+---------------
+youtubeId: 7YDkrJaiCrw
+name: AURORA - Exist For Love
+dims: 1280,720,1
+unused: 0,4339566,797
+source: djrv6tpoaj896z2u
+---------------
+youtubeId: Y8-4rbZnrIk
+name: Now United - Like That (Official Musical)
+dims: 1280,720,1
+unused: 0,4347343,787
+source: dw3ivxr7gspbarng
+---------------
+youtubeId: vC8qJfVYxZY
+name: Jason Derulo - Take You Dancing
+dims: 1280,720,1
+unused: 0,4355120,808
+source: ab0kzcd0trgasev9
+---------------
+youtubeId: 4HnilefAvyo
+name: NIKI DEMAR - Alone In My Car
+dims: 1280,720,1
+unused: 0,4362897,821
+source: ybbzjlwnzs11dtds
+---------------
+youtubeId: enbNUqSZdD8
+name: Gryffin, John Martin - Cry
+dims: 1280,720,1
+unused: 0,4370674,818
+source: qwulw5bka3n0gc0r
+---------------
+youtubeId: 0HO_tNU8iGs
+name: Dan + Shay - I Should Probably Go To Bed
+dims: 1280,720,1
+unused: 0,4378451,856
+source: uhy6a122v4bceylg
+---------------
+youtubeId: sq0t8L8vE-k
+name: Ellie Goulding - Love I’m Given
+dims: 1280,720,1
+unused: 0,4386228,859
+source: plauohvirxztuifn
+---------------
+youtubeId: Jtauh8GcxBY
+name: Lewis Capaldi - Before You Go
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,4394005,601
+source: ftqtkeetmywhd8gn
+---------------
+youtubeId: 7JJfJgyHYwU
+name: Rixton - Me and My Broken Heart
+description: Pop song performed by English pop band Rixton. The song borrows from Rob Thomas' hit "Lonely No More," and was first released on March 14, 2014 as the lead single from Rixton's debut studio album, Let the Road.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,4401782,7
+source: wsveb6ayevki6kc1
+---------------
+youtubeId: 89S-RbszwJE
+name: Ava Max - Who's Laughing Now
+dims: 1280,720,0
+unused: 0,4409559,812
+source: zfyuaeh9e9nxsdf0
+---------------
+youtubeId: tQ0yjYUFKAE
+name: Justin Bieber - Peaches ft. Daniel Caesar, Giveon
+dims: 1280,720,1
+unused: 0,4417336,1015
+source: xl5dpxmdakvpimk1
+---------------
+youtubeId: KXglbtShiRA
+name: Noah Cyrus - The End of Everything
+dims: 1280,720,1
+unused: 0,4425113,747
+source: cfcfp8vr13nxj04a
+---------------
+youtubeId: 06k5XN78OP0
+name: Jeremy Zucker, Chelsea Cutler - you were good to me
+description: Synth pop song by English rock band The 1975. It was released as a single on February 15 2016. Reaching a peak of number five in the US on the Alternative Songs chart, it is the band's highest-peaking single on that chart to date.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,4432890,40
+source: rxhoygv9teyz7qoi
+---------------
+youtubeId: W-TE_Ys4iwM
+name: One Direction - Story of My Life
+description: Acoustic folktronica song recorded by English-Irish boy band One Direction. It was released on November 6, 2013. The lyrics speak of a tumultuous relationship leading to lament and heartbreak.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,4440667,84
+source: dsw7ueear36xha05
+---------------
+youtubeId: HEAn4FqXFY4
+name: LANY - you!
+dims: 1280,720,1
+unused: 0,4448444,870
+source: zt3spl4cjq16lw7w
+---------------
+youtubeId: wO8yyYhgt4k
+name: Kinneret - No Wind Resistance!
+dims: 1280,720,0
+unused: 0,4456221,873
+source: umb2nyoya9i6e3ft
+---------------
+youtubeId: yg6Y_1_DJyI
+name: Kygo, Donna Summer - Hot Stuff
+dims: 1280,720,1
+unused: 0,4463998,867
+source: cidrdl68705mdeke
+---------------
+youtubeId: UBsPNEVt0SM
+name: David Guetta & Sia - Let’s Love
+dims: 1280,720,1
+unused: 0,4471775,872
+source: jp4uap4kaah084hj
+---------------
+youtubeId: UrGS_6_HglU
+name: Zoe Wees - Control
+dims: 1280,720,1
+unused: 0,4479552,783
+source: mvy6hh61zs9scibz
+---------------
+youtubeId: oQ0dB23zBAs
+name: The Bangles – Eternal Flame (1989)
+dims: 1280,720,1
+unused: 0,4491218,1040
+source: fmxmetg5o27tu1mx
+---------------
+youtubeId: eDDTb6TlBqY
+name: Daddy Yankee, Play-N-Skillz, Zion & Lennox - Bésame
+dims: 1280,720,1
+unused: 0,4502883,816
+source: nu1477r9nqivw586
+---------------
+youtubeId: aS1no1myeTM
+name: Miley Cyrus - Midnight Sky
+dims: 1280,720,1
+unused: 0,4510660,823
+source: ur11mynpvyvd6jhy
+---------------
+youtubeId: JpGfXHPEti4
+name: Chelsea Collins - Used To Be (L.O.V.E.)
+dims: 1280,720,1
+unused: 0,4518437,731
+source: k77e6nfvu0yc4c1z
+---------------
+youtubeId: 92XlHvmiHbE
+name: Peach Tree Rascals - Deer
+dims: 1280,720,1
+unused: 0,4533991,810
+source: swztze0n0y1tvcec
+---------------
+youtubeId: RsEZmictANA
+name: Taylor Swift - willow
+dims: 1280,720,1
+unused: 0,4541768,905
+source: whn2q138htb3cxyn
+---------------
+youtubeId: pvPsJFRGleA
+name: Justin Bieber - Holy ft. Chance The Rapper
+dims: 1280,720,1
+unused: 0,4549545,868
+source: n4owdr5pb9aaef8g
+---------------
+youtubeId: V-kT1oGCRCE
+name: FINNEAS - What They'll Say About Us
+dims: 1280,720,1
+unused: 0,4557322,871
+source: ya2fvif58h6fn3sb
+---------------
+youtubeId: 5qFVUYBWfGw
+name: Lauv & Conan Gray - Fake
+dims: 1280,720,1
+unused: 0,4565099,877
+source: vxsnuo2v4ybzvpkc
+---------------
+youtubeId: vRXZj0DzXIA
+name: BLACKPINK - 'Ice Cream (with Selena Gomez)' 
+dims: 1280,720,1
+unused: 0,4572876,857
+source: umdnoiodr0yk0byw
+---------------
+youtubeId: KMBE_hcSDTI
+name: Ava Max - Naked
+dims: 1280,720,1
+unused: 0,4580653,866
+source: ih3mgl76gcw9leah
+---------------
+youtubeId: eVwyvMVPd8U
+name: Jeremy Zucker - supercuts
+dims: 1280,720,1
+unused: 0,4588430,881
+source: gofah06euh24obh1
+---------------
+youtubeId: yC8SPG2LwSA
+name: Clean Bandit and Mabel - Tick Tock (feat. 24kGoldn)
+dims: 1280,720,1
+unused: 0,4596207,858
+source: ma5rc22p3oh3qsfm
+---------------
+youtubeId: b5kO8guseO4
+name: "Bright" | Julie and the Phantoms
+dims: 1280,720,1
+unused: 0,4603984,882
+source: vuvmq29invx52194
+---------------
+youtubeId: K2kUyHgadQo
+name: Ozuna x Doja Cat x Sia - Del Mar
+dims: 1280,720,1
+unused: 0,4611761,886
+source: wjd64ginwszm9idk
+---------------
+youtubeId: IXeVtIB2lGk
+name: KSHMR, Jeremy Oceans - One More Round (Free Fire Booyah Day Theme Song)
+dims: 1280,720,1
+unused: 0,4619538,885
+source: bo1pmnjnucqrqlq3
+---------------
+youtubeId: fJIWta_o1NM
+name: "Finally Free" Clip | Julie and the Phantoms
+dims: 1280,720,1
+unused: 0,4627315,891
+source: frkj5fii44ztihpw
+---------------
+youtubeId: tcYodQoapMg
+name: Ariana Grande - positions
+dims: 1280,720,1
+unused: 0,4635092,889
+source: vj9rd5wiuqnjwk46
+---------------
+youtubeId: PhXYCymj5CA
+name: Kidd G - Teenage Dream
+dims: 1280,720,1
+unused: 0,4650646,896
+source: f5ryn6dsfly7vnsh
+---------------
+youtubeId: ihQhoYd93UE
+name: Julie and the Phantoms Cast - Perfect Harmony
+dims: 1280,720,1
+unused: 0,4666200,894
+source: op88gt3w55d0ysxn
+---------------
+youtubeId: E-urw9c82EA
+name: Lady A - Champagne Night (From Songland)
+dims: 1280,720,1
+unused: 0,4673977,795
+source: qtxgicn9hktb9wit
+---------------
+youtubeId: KsXTVVDZJe4
+name: Julie and the Phantoms Cast - Flying Solo
+dims: 1280,720,1
+unused: 0,4681754,888
+source: de35kgws5p598buk
+---------------
+youtubeId: nrZxwPwmgrw
+name: Idina Menzel, Evan Rachel Wood - Show Yourself (From "Frozen 2"/ Sing-Along)
+dims: 1280,720,1
+unused: 0,4689531,657
+source: d2w6nghb1h1sh6tj
+---------------
+youtubeId: SJPHaJFeZhY
+name: falling cardigan | Mashup Video of Taylor Swift, Harry Styles
+dims: 1280,720,1
+unused: 0,4705085,819
+source: opye4z1iq6mqf3u1
+---------------
+youtubeId: QGJuMBdaqIw
+name: Katy Perry - Firework
+description: Single by American singer Katy Perry from her third studio album, Teenage Dream (2010). Perry co-wrote the song with Ester Dean and its producers StarGate and Sandy Vee. It is a dance-pop self-empowerment anthem with inspirational lyrics.
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 4,4712862,259
+source: tsxqu6j9oepjz13r
+---------------
+youtubeId: KDhVbdSug2Y
+name: Kylie Minogue - Real Groove (INFINITE DISCO)
+dims: 1280,720,1
+unused: 0,4728416,895
+source: a3jp8mn7e29bdwma
+---------------
+youtubeId: KIK3azN4w34
+name: Justin Bieber - Anyone
+dims: 1280,720,1
+unused: 0,4736193,902
+source: oczzk37wdknsditt
+---------------
+youtubeId: 6qkgVgjN188
+name: Jeremy Zucker & Chelsea Cutler - this is how you fall in love
+dims: 1280,720,1
+unused: 0,4743970,910
+source: mmntvbwskt9zqel6
+---------------
+youtubeId: Qbwa0SY4kCs
+name: "Stand Tall" | Julie and the Phantoms
+dims: 1280,720,1
+unused: 0,4751747,898
+source: l5l1fwegy20258ag
+---------------
+youtubeId: lw-4DSVGsfY
+name: Diplo, Noah Cyrus - On Mine
+dims: 1280,720,1
+unused: 0,4759524,794
+source: zbrgbzku1ts4417g
+---------------
+youtubeId: 91VRyTvjoX4
+name: Selena Gomez - De Una Vez
+dims: 1280,720,1
+unused: 0,4767301,904
+source: fyfizm9a8d8trqm2
+---------------
+youtubeId: 450p7goxZqg
+name: John Legend - All of Me
+dims: 1280,720,1
+unused: 0,4775078,956
+source: zi7ie7ufdlnr6vsf
+---------------
+youtubeId: CA9E4HHHbRk
+name: Sabrina Carpenter - Skin
+dims: 1280,720,1
+unused: 0,4782855,954
+source: t0scxfhutllc3f0h
+---------------
+youtubeId: txdUE10OopA
+name: Jon Batiste, Celeste - It's All Right (From "Soul"/Duet Version/Official Lyric Video)
+dims: 1280,720,1
+unused: 0,4790632,959
+source: buyg6u7qksif4ab6
+---------------
+youtubeId: KGgOz_gRD_c
+name: Psycho - Mia Rodriguez
+dims: 1280,720,1
+unused: 0,4798409,785
+source: u7jyxwu31ohxaf6t
+---------------
+youtubeId: IPfJnp1guPc
+name: Khalid - Young Dumb & Broke
+dims: 1280,720,1
+unused: 0,4806186,955
+source: gt09u4ynxtiaydtz
+---------------
+youtubeId: WvRcb2Eu6Mw
+name: “Rocket To The Moon” Karaoke Sing Along Song 🚀 Over the Moon
+dims: 1280,720,1
+unused: 0,4813963,953
+source: txed3uh8gy4flca2
+---------------
+youtubeId: pBHVtI9kTAo
+name: Madison Beer - Melodies
+dims: 1280,720,1
+unused: 0,4821740,958
+source: yl1tv3ui20xb2dba
+---------------
+youtubeId: _NGQfFCFUn4
+name: Ed Sheeran - Afterglow
+dims: 1280,720,1
+unused: 0,4829517,957
+source: wflqw8vrlq59cj6g
+---------------
+youtubeId: Q6bFYaVXMiY
+name: "Now or Never" | Julie and the Phantoms
+dims: 1280,720,1
+unused: 0,4845071,899
+source: s8s8v4rw3luoar1q
+---------------
+youtubeId: Rqsfa5At214
+name: Clean Bandit - Higher (feat. iann dior)
+dims: 1280,720,1
+unused: 0,4852848,949
+source: hkyki2afcz026dxf
+---------------
+youtubeId: OWhiCkEY-Yk
+name: Coldplay - Daddy
+description: Song by British rock band Coldplay from their eighth studio album "Everyday Life." It was released in November 2019. The music video was animated by Aardman Animations and directed by Asa Lucander.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,4868402,459
+source: kd5cgiyjuir7jqeq
+---------------
+youtubeId: AIOAlaACuv4
+name: Tracy Chapman - Fast Car
+dims: 1280,720,1
+unused: 0,4883956,948
+source: qt1xp1fus81c5xwf
+---------------
+youtubeId: lp-EO5I60KA
+name: Ed Sheeran - Thinking Out Loud
+description: Song by English singer-songwriter Ed Sheeran, recorded for his second studio album, x (2014). It was written by Sheeran and Amy Wadge, and produced by frequent collaborator Jake Gosling. It was released in the US on 24 September 2014 as the album's third single.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,4891733,250
+source: wdw0crjy6x6kltme
+---------------
+youtubeId: nXpB1rixnPQ
+name: Lilo & Stitch - Hawaiian Roller Coaster Ride ) [HD]
+description: Song at the heart of the quirky 2002 animated Disney film, written by Mark Kealiʻi Hoʻomalu and Alan Silvestri (the film's composer), and performed by Kealiʻi Hoʻomalu and the Kamehameha Schools children's chorus
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,4907287,88
+source: e89elg7z5xb9k6nd
+---------------
+youtubeId: fKopy74weus
+name: Imagine Dragons - Thunder
+dims: 1280,720,1
+unused: 0,4915064,962
+source: sf34h9k1ziv35tw4
+---------------
+youtubeId: 46ISK1g54Fc
+name: Why Don't We - Slow Down
+dims: 1280,720,1
+unused: 0,4930618,908
+source: v9i9i3t4c7y1vfw3
+---------------
+youtubeId: ImKY6TZEyrI
+name: Mazzy Star - Fade Into You
+dims: 1280,720,1
+unused: 0,4938395,811
+source: im5lq6dic16oz9jw
+position: .01
+---------------
+youtubeId: dhxmEnWkT1w
+name: Peach Tree Rascals - Change My Mind
+dims: 1280,720,1
+unused: 0,4946172,1000
+source: h1iavvbukyncl01i
+---------------
+youtubeId: eP88oos82S0
+name: Ava Max - My Head & My Heart
+dims: 1280,720,1
+unused: 0,4953949,951
+source: tetjhpwz6k9nv6b3
+---------------
+youtubeId: zFT3f9biz68
+name: BTS (방탄소년단) 'Film out' Official MV
+dims: 1280,720,1
+unused: 0,4969503,996
+source: c2rfmzc6mq5l2ct7
+---------------
+youtubeId: lTqoKjCqqew
+name: PJ Harding, Noah Cyrus - Dear August
+dims: 1280,720,1
+unused: 0,4977280,998
+source: tz6ld7m0ylu12v1d
+---------------
+youtubeId: fHeQemJJQII
+name: Shawn Mendes - Wonder
+dims: 1280,720,1
+unused: 0,4985057,878
+source: faez65xwalvhfe3o
+---------------
+youtubeId: vGZhMIXH62M
+name: P!nk, Willow Sage Hart - Cover Me In Sunshine
+dims: 1280,720,1
+unused: 0,5008388,999
+source: z6rkmolc6txfebyk
+---------------
+youtubeId: cjVQ36NhbMk
+name: The Fray - How to Save a Life (New Video Version)
+dims: 1280,720,1
+unused: 0,5023942,780
+source: j4zfb32j7ryff9sh
+---------------
+youtubeId: 6swmTBVI83k
+name: Lil Nas X - MONTERO (Call Me By Your Name)
+dims: 1280,720,1
+unused: 0,5031719,997
+source: n4f5zoyimbsqjx6k
+---------------
+youtubeId: 72agGC5b_Yo
+name: Alan Walker & ISÁK - Sorry
+dims: 1280,720,1
+unused: 0,5039496,1007
+source: a20uuxam6i13ewvw
+---------------
+youtubeId: YZ-LagCs6GA
+name: Selena Gomez - Dance Again
+dims: 1280,720,1
+unused: 0,5047273,648
+source: huiu2d2jt6f60r7d
+---------------
+youtubeId: rsuKmbYokuk
+name: Madison Beer - Hurts Like Hell (Feat. Offset)
+description: "Dark pop" song by American singer-songwriter Madison Beer, featuring American rapper Offset. Released on November 9, 2018. 
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5055050,141
+source: oixqi1dqhb573og6
+---------------
+youtubeId: 7w4Udbys4O4
+name: Sabrina Carpenter - Sue Me
+description: Song recorded by American singer Sabrina Carpenter from her third studio album Singular: Act I (2018). The track was written by Sabrina Carpenter and Steph Jones. Lyrically, "Sue Me" is about the relief of being out of a bad relationship and challenging someone to stop them for living their best life.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5062827,107
+source: t2gk0kgxza9j3rwj
+---------------
+youtubeId: osdoLjUNFnA
+name: Taylor Swift – exile (feat. Bon Iver)
+dims: 1280,720,1
+unused: 0,5078381,804
+source: ctjxykqr2oxwvpu0
+---------------
+youtubeId: Sqq1KZF03-I
+name: ILLENIUM and Dabin Feat. Lights- Hearts on Fire
+dims: 1280,720,1
+unused: 0,5086158,907
+source: e3oq9ymoo53dtcf1
+---------------
+youtubeId: 6tkaatkbC2Y
+name: Alan Walker x salem ilese - Fake A Smile
+dims: 1280,720,1
+unused: 0,5093935,961
+source: n9fr3wpptg6yg75t
+---------------
+youtubeId: O0vOp0XFbn4
+name: Chelsea Perkins- You're Busy
+dims: 1280,720,1
+unused: 0,5101712,911
+source: cpsv5q9njql2be8n
+---------------
+youtubeId: aQgRkWG6q_g
+name: Hey Violet - Better By Myself
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,5109489,622
+source: ht58r60ruxrrbzsb
+---------------
+youtubeId: IbUfOhEv1sc
+name: Ultraluminary | Over The Moon
+dims: 1280,720,1
+unused: 0,5117266,947
+source: p31t5xxs5xqjb1r8
+---------------
+youtubeId: K08o44cr3ww
+name: Jhené Aiko - Lead the Way (From "Raya and the Last Dragon")
+dims: 1280,720,1
+unused: 0,5148374,1001
+source: pk2grqk8a4ebzhx0
+---------------
+youtubeId: ktvTqknDobU
+name: Imagine Dragons - Radioactive
+dims: 1280,720,1
+unused: 0,5163928,1004
+source: pk7c9n850mdnad5b
+---------------
+youtubeId: 8SbUC-UaAxE
+name: Guns N' Roses - November Rain
+dims: 1280,720,1
+unused: 0,5179482,1021
+source: npyrsrpv2fmx23x3
+---------------
+youtubeId: mw5VIEIvuMI
+name: Naomi Scott - Speechless (Full) (From "Aladdin"/)
+description: Radio-ready female empowerment pop anthem, performed with conviction and emotion by the mesmerizing Naomi Scott in a star-making turn. (cleveland.com)
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5210590,89
+source: tyahbri0elk50k91
+---------------
+youtubeId: BkQu7RQ8FBs
+name: ILLENIUM, Tom DeLonge, Angels & Airwaves- Paper Thin
+dims: 1280,720,1
+unused: 0,5218367,1005
+source: fwxwfoyupmgqqhdq
+---------------
+youtubeId: DKuDnvi81iY
+name: LP - One Last Time
+dims: 1280,720,1
+unused: 0,5226144,1011
+source: hoe91ehe1bid24ww
+---------------
+youtubeId: bixuI_GV5I0
+name: Mark Ronson ft. Amy Winehouse - Valerie
+dims: 1280,720,1
+unused: 0,5241698,1008
+source: pub6rjeqetsi1g5l
+---------------
+youtubeId: hn3wJ1_1Zsg
+name: LP - Lost On You
+dims: 1280,720,1
+unused: 0,5249475,739
+source: qcn5pkapx7shsi94
+---------------
+youtubeId: W5u3kP85LYI
+name: MARINA - Purge The Poison
+dims: 1280,720,1
+unused: 0,5257252,1010
+source: zxn1q0jbpwujibfy
+---------------
+youtubeId: D8Ymd-OCucs
+name: Lorde - Tennis Court
+dims: 1280,720,1
+unused: 0,5265029,1012
+source: a1yn8614y0ns7kur
+---------------
+youtubeId: Kw9tL197xvM
+name: Jimmie Allen, Noah Cyrus - “This Is Us”
+dims: 1280,720,1
+unused: 0,5272806,670
+source: pyt2pj3dlm170g95
+---------------
+youtubeId: wBU1_4CZJLM
+name: Grace VanderWaal - Don't Assume What You Don't Know
+dims: 1280,720,1
+unused: 0,5280583,1002
+source: dnr3eveg80d63svr
+---------------
+youtubeId: lHcQH41rF_4
+name: Alice Chater - Two Of Us
+dims: 1280,720,1
+unused: 0,5288360,764
+source: kjnnqh4sf6jcrutz
+---------------
+youtubeId: E3x_dLVTEuA
+name: Alan x Walkers - Unity
+description: "Unity" is a song Alan Walker made with his die-hard fans, who collectively are known as "Walkers".  And the theme of the track fits such a collaborative effort, as it centers on an emotional rapport the singer has with the addressee. Put differently, he "would walk a thousand miles" just to see this person.  \n
+username: david
+userIntSuffix: 
+dims: 1280,720,0
+unused: 2,5296137,66
+source: uh96nz8e014wjs2w
+position: .01
+---------------
+youtubeId: DG6D_KrdABo
+name: Bebe Rexha - Sabotage
+dims: 1280,720,1
+unused: 0,5311691,1009
+source: vpo4qwd2m6sgadob
+---------------
+youtubeId: k3zimSRKqNw
+name: Imagine Dragons - Follow You
+dims: 1280,720,1
+unused: 0,5319468,1003
+source: c5igde8yyfezzwhq
+---------------
+youtubeId: YkLjqFpBh84
+name: FKA twigs - cellophane
+dims: 1280,720,1
+unused: 0,5327245,960
+source: pb9g4i5dvxdfxqhf
+---------------
+youtubeId: rX2iFcmJyzw
+name: NIKI - Plot Twist
+dims: 1280,720,1
+unused: 0,5373907,869
+source: l8218erew2x7574n
+---------------
+youtubeId: Y0ORhLyJWuc
+name: Miley Cyrus - Angels Like You
+dims: 1280,720,1
+unused: 0,5381684,1006
+source: egny3wpp9iuq1u6i
+---------------
+youtubeId: vKNcuTWzTVw
+name: MARINA AND THE DIAMONDS - HOW TO BE A HEARTBREAKER | ♡ ELECTRA HEART PART 7 ♡
+dims: 1280,720,1
+unused: 0,5389461,1020
+source: jezyoe6zotfozijl
+---------------
+youtubeId: F1JTlnHGa90
+name: MARINA - Venus Fly Trap
+dims: 1280,720,1
+unused: 0,5397238,1043
+source: fw37mvtnadmrbk3s
+---------------
+youtubeId: PNKxAWiu4Fc
+name: Conan Gray - Astronomy
+dims: 1280,720,1
+unused: 0,5412792,1038
+source: e7ihx3lhmmbbvl0u
+---------------
+youtubeId: DFF027KMk_Y
+name: Love You Right - Walk off the Earth (Ft. Lukas Graham)
+dims: 1280,720,1
+unused: 0,5416681,1075
+source: qcz8l4qqsxns1nyz
+---------------
+youtubeId: -N4jf6rtyuw
+name: Gnarls Barkley - Crazy
+dims: 1280,720,1
+unused: 0,5428346,1014
+source: lni7y7xxh59c8t22
+---------------
+youtubeId: MuX-WRciqBc
+name: FINNEAS - Can't Wait To Be Dead
+dims: 1280,720,1
+unused: 0,5451677,883
+source: en2loqx0o7fvewbz
+---------------
+youtubeId: ojpTpT5i-PI
+name: Katy Perry - Electric
+dims: 1280,720,1
+unused: 0,5459454,1017
+source: p576nsprgls21yfe
+---------------
+youtubeId: d_HlPboLRL8
+name: AURORA - Runaway
+dims: 1280,720,1
+unused: 0,5463343,1053
+source: mhoyz1te5aokdmtk
+---------------
+youtubeId: 9FaCO7pNx08
+name: Olivia Rodrigo - favorite crime (Live Performance) | Vevo LIFT
+dims: 1280,720,1
+unused: 0,5467231,1026
+source: sh9ra56m4t2sh1j6
+---------------
+youtubeId: cuPhuGJToQE
+name: Lord Huron - Love Me Like You Used To
+dims: 1280,720,1
+unused: 0,5475008,1024
+source: l9r5ke03ebamr52y
+---------------
+youtubeId: 1TO48Cnl66w
+name: Dido - Thank You
+dims: 1280,720,1
+unused: 0,5482785,1033
+source: d3kva51l8dxq5vnx
+---------------
+youtubeId: bXDuPFzm-hQ
+name: Olivia Rodrigo, Joshua Bassett - Even When/The Best Part (HSMTMTS | Disney+)
+dims: 1280,720,1
+unused: 0,5490562,1042
+source: ncc4zl3ss4nhzglx
+---------------
+youtubeId: xSZBIs0gs0E
+name: Natalie Imbruglia - Torn [HD Remastered]
+dims: 1280,720,1
+unused: 0,5498339,1035
+source: qamvj9wucck2o1sm
+---------------
+youtubeId: m_1-j2mQKYE
+name: ILLENIUM and iann dior- First Time
+dims: 1280,720,1
+unused: 0,5513893,1029
+source: srpejo6iobun7tgd
+---------------
+youtubeId: YU_TpcGdSIM
+name: Joshua Bassett - Feel Something
+dims: 1280,720,1
+unused: 0,5517782,1054
+source: oemz73hyj3bkhqd6
+---------------
+youtubeId: 7Xfwu8NH1iI
+name: Sia and David Guetta - Floating Through Space
+dims: 1280,720,1
+unused: 0,5521670,913
+source: ks9zbvyq2bkfve98
+---------------
+youtubeId: ZtBzWUZbTvA
+name: Alan Walker x @Conor Maynard - Believers (Official Montage)
+dims: 1280,720,1
+unused: 0,5529447,1016
+source: y5e1btqjvwvqa5sw
+---------------
+youtubeId: L_jWHffIx5E
+name: Smash Mouth - All Star
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3554089,606
+source: f1an996vkgqgr3r6
+---------------
+youtubeId: vM2kgK5VCSk
+name: Dove Cameron - LazyBaby
+dims: 1280,720,1
+unused: 0,5537224,1013
+source: i6bd5wyzep22rcu5
+---------------
+youtubeId: JXgV1rXUoME
+name: Doja Cat, The Weeknd - You Right
+dims: 1280,720,1
+unused: 0,5539169,1064
+source: jdzcajqk4auj88dz
+---------------
+youtubeId: 2Z8L4Qed8F8
+name: Anne-Marie & Niall Horan - Our Song []
+dims: 1280,720,1
+unused: 0,5540141,1069
+source: m4d5x1n8frdqbqpp
+---------------
+youtubeId: h_wr-9X47ao
+name: Big Red Machine - Renegade (feat. Taylor Swift)
+dims: 1280,720,1
+unused: 0,5541113,1070
+source: r5szrc7bo5sm3clh
+---------------
+youtubeId: TKkcsmvYTw4
+name: OneRepublic - Run
+dims: 1280,720,1
+unused: 0,5545001,1030
+source: kgsni0jqj23rst52
+---------------
+youtubeId: 40q75kdmTLA
+name: LANY - dancing in the kitchen
+dims: 1280,720,1
+unused: 0,5546946,1068
+source: pwzyvp6l7d3gktru
+---------------
+youtubeId: eJnQBXmZ7Ek
+name: twenty one pilots - Chlorine
+dims: 1280,720,1
+unused: 0,5564444,1048
+source: wtuaeoiruz735zv8
+---------------
+youtubeId: 9hEBQwMWvFM
+name: Jessie J - I Want Love
+dims: 1280,720,1
+unused: 0,5565416,1056
+source: jmtd93zu5ks9odpk
+---------------
+youtubeId: QCwakAo1_EA
+name: Winona Oak - Old Insecurities
+dims: 1280,720,1
+unused: 0,5566388,1019
+source: tycrnf9b0ju8uj5q
+---------------
+youtubeId: gEUmYOD-G54
+name: Bebe Rexha - Break My Heart Myself (feat. Travis Barker)
+dims: 1280,720,1
+unused: 0,5568332,1027
+source: p9m7vj1i8e2yfcay
+---------------
+youtubeId: Y2NkuFIlLEo
+name: Imagine Dragons - Wrecked
+dims: 1280,720,1
+unused: 0,5572221,1076
+source: nnet03mecq183clx
+---------------
+youtubeId: TR3Vdo5etCQ
+name: No Doubt - Don't Speak (Official 4K Music Video)
+dims: 1280,720,1
+unused: 0,5576109,1036
+source: grxxzkmcp0yomues
+---------------
+youtubeId: wvsP_lzh2-8
+name: Lorde - Solar Power
+dims: 1280,720,1
+unused: 0,5583886,1045
+source: rqe6axdcjp32oujx
+---------------
+youtubeId: 4CjNYcEF4cY
+name: Echo - Armaan Malik, Eric Nam with KSHMR
+dims: 1280,720,1
+unused: 0,5591663,1028
+source: kkflnj41ek7dre6z
+---------------
+youtubeId: UpNPyxskt6k
+name: Maisie Peters - Psycho
+dims: 1280,720,1
+unused: 0,5605273,1078
+source: nts928ouegts1ct9
+---------------
+youtubeId: 7yVpzzqA3q0
+name: Olivia Rodrigo - The Rose Song (HSMTMTS | Disney+)
+dims: 1280,720,1
+unused: 0,5611106,1058
+source: x9rriqxet79trfkv
+---------------
+youtubeId: wGj9oADcyRs
+name: P!NK - All I Know So Far
+dims: 1280,720,1
+unused: 0,5611737,1060
+source: dok4wyfst97n0l72
+---------------
+youtubeId: XA2YEHn-A8Q
+name: TWICE "Alcohol-Free" 
+dims: 1280,720,1
+unused: 0,5613050,1044
+source: dxta6d74gjtlvxay
+---------------
+youtubeId: TFHCew8DnC0
+name: Madison Beer - Reckless
+dims: 1280,720,1
+unused: 0,5613536,1071
+source: c03pmsctc9re9bce
+---------------
+youtubeId: Jne9t8sHpUc
+name: Alanis Morissette - Ironic (Official 4K Music Video)
+dims: 1280,720,1
+unused: 0,5613779,952
+source: gbfd3sjszt2093qq
+---------------
+youtubeId: 08AUS7lfXCU
+name: Bastille - Distorted Light Beam
+dims: 1280,720,1
+unused: 0,5614022,1067
+source: xc4qcjlj1owhbkc8
+---------------
+youtubeId: OORBa32WFcM
+name: Billie Eilish - NDA 
+dims: 1280,720,1
+unused: 0,5614265,1085
+source: rza1pd1gqk926xa6
+---------------
+youtubeId: kxK1SIOObRE
+name: Joshua Bassett - Lie Lie Lie
+dims: 1280,720,1
+unused: 0,5614994,1031
+source: gt9xsz1wrmoy3g86
+---------------
+youtubeId: CuklIb9d3fI
+name: BTS (방탄소년단) 'Permission to Dance' Official MV
+dims: 1280,720,1
+unused: 0,5615967,1079
+source: thvgzhsvr2vkpj37
+---------------
+youtubeId: K17df81RL9Y
+name: AURORA - Cure For Me
+dims: 1280,720,1
+unused: 0,5616453,1080
+source: hywbxas0kf2ntyol
+---------------
+youtubeId: fyyiJc0Wk2M
+name: CHVRCHES - He Said She Said
+dims: 1280,720,1
+unused: 0,5616939,1057
+source: u2sx9l3ztwptn2r6
+---------------
+youtubeId: XXYlFuWEuKI
+name: The Weeknd - Save Your Tears
+dims: 1280,720,1
+unused: 0,5617182,901
+source: reff2aozphq7ot8z
+---------------
+youtubeId: 7SaTdLz5nfo
+name: Delta Goodrem - Paralyzed
+dims: 1280,720,1
+unused: 0,5617425,820
+source: nwvw2r3blq9nr66a
+---------------
+youtubeId: SM-BT9cijI4
+name: Alan Walker x Imanbek - Sweet Dreams
+dims: 1280,720,1
+unused: 0,5617911,1050
+source: xysqj3ruf7d2rzkt
+---------------
+youtubeId: gGdGFtwCNBE
+name: The Killers - Mr. Brightside
+dims: 1280,720,1
+unused: 0,5618883,1047
+source: r3j1zy89za5nrcst
+---------------
+youtubeId: CEw-7cMnBDY
+name: Bruno Mars, Anderson .Paak, Silk Sonic - Skate 
+dims: 1280,720,1
+unused: 0,5618944,1104
+source: k64vz87zuvt0m2fa
+---------------
+youtubeId: iFPkd-7AcDM
+name: Camila Cabello - Don't Go Yet
+dims: 1280,720,1
+unused: 0,5619005,1082
+source: camxx0zbjm1ev51t
+---------------
+youtubeId: S2dRcipMCpw
+name: Billie Eilish - Lost Cause
+dims: 1280,720,1
+unused: 0,5619021,1055
+source: pi0xyejz9wdflivw
+---------------
+youtubeId: BF-nZziUCCY
+name: Katelyn Tarver - You Don't Know
+dims: 1280,720,1
+unused: 0,5619081,767
+source: sctb5kjge7w26jfn
+---------------
+youtubeId: fFlwNm9wAwQ
+name: 체리블렛 (Cherry Bullet) – '알로하오에 (Aloha Oe)' MV
+dims: 1280,720,1
+unused: 0,5619081,1049
+source: n988svc3ehbiu7nr
+---------------
+youtubeId: sz7XaF9oIRo
+name: Camila Cabello - Million To One (Official Video - from Amazon Original "Cinderella")
+dims: 1280,720,1
+unused: 0,5619096,1086
+source: nq4te3szl4qnbe66
+---------------
+youtubeId: orJSJGHjBLI
+name: Ed Sheeran - Bad Habits []
+dims: 1280,720,1
+unused: 0,5619369,1062
+source: p1zqhk3sue3rprvs
+---------------
+youtubeId: C-u5WLJ9Yk4
+name: Britney Spears - ...Baby One More Time
+dims: 1280,720,1
+unused: 0,5619430,1090
+source: oeq7s2d8lkfl8jeb
+---------------
+youtubeId: 3-NTv0CdFCk
+name: Lana Del Rey - Love
+description: Song by the American singer Lana Del Rey. It was released on February 18, 2017, as the lead single from her fifth studio album, Lust for Life. The song was written and produced by Del Rey, Benny Blanco, Emile Haynie and Rick Nowels, with additional production by Kieron Menzies.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,1952027,31
+source: w9n0p0fex5wcn4b1
+---------------
+youtubeId: 8Iv_Ym6UlVs
+name: [MV] Pink Fantasy(핑크판타지) _ Poison(독)
+dims: 1280,720,1
+unused: 0,5619476,1065
+source: mts8emnqcdklg5ps
+---------------
+youtubeId: du4kNAyjVCg
+name: CHVRCHES - Good Girls
+dims: 1280,720,1
+unused: 0,5619491,1077
+source: qfimjkw7zrzyiifd
+---------------
+youtubeId: H7HmzwI67ec
+name: Owl City & Carly Rae Jepsen - Good Time
+dims: 1280,720,1
+unused: 0,5619522,1109
+source: auvimcs4np2xgg9q
+---------------
+youtubeId: CRrf3h9vhp8
+name: Olivia Rodrigo - traitor
+dims: 1280,720,1
+unused: 0,5619567,1091
+source: f94gc32dr8p3k720
+---------------
+youtubeId: QcIy9NiNbmo
+name: Taylor Swift - Bad Blood ft. Kendrick Lamar
+dims: 1280,720,1
+unused: 0,5619612,1073
+source: ju76vhof631z2jce
+---------------
+youtubeId: 1qrhnK6FGr0
+name: Alan Walker x Benjamin Ingrosso - Man On The Moon 
+dims: 1280,720,1
+unused: 0,5619673,1099
+source: d6ud4r5mfq08ayq3
+---------------
+youtubeId: OGUy2UmRxJ0
+name: Olivia Rodrigo - brutal
+dims: 1280,720,1
+unused: 0,5619712,1083
+source: kaonzm3htuv5g4up
+---------------
+youtubeId: 1XqBnp_g3dw
+name: Olivia Rodrigo - Granted (HSMTMTS | Disney+)
+dims: 1280,720,1
+unused: 0,5619765,1059
+source: rns3n6zw8kryk84v
+---------------
+youtubeId: 8EisGrIHH04
+name: Sabrina Carpenter - Skinny Dipping
+dims: 1280,720,1
+unused: 0,5619840,1102
+source: bpqmrsyz7974w753
+---------------
+youtubeId: WA4iX5D9Z64
+name: Taylor Swift - We Are Never Ever Getting Back Together
+dims: 1280,720,1
+unused: 0,5619848,1123
+source: ak26ubc2idlwy17w
+---------------
+youtubeId: C-Naa1HXeDQ
+name: Matchbox Twenty - 3AM
+dims: 1280,720,0
+unused: 0,5619855,1061
+source: useng71k79oclujn
+---------------
+youtubeId: V6N6-_zpr2o
+name: Little Mix - Between Us
+dims: 1280,720,1
+unused: 0,5619924,1122
+source: wgm5hv758vu6y68b
+---------------
+youtubeId: H4S3K1VTr8I
+name: Liam Payne - Sunshine (From the Motion Picture “Ron’s Gone Wrong”)
+dims: 1280,720,1
+unused: 0,5620061,1118
+source: pwdhhtkpza10mdx6
+---------------
+youtubeId: qod03PVTLqk
+name: Elton John, Dua Lipa - Cold Heart (PNAU Remix)
+dims: 1280,720,1
+unused: 0,5620095,1125
+source: bye7f5lw7y4akb20
+---------------
+youtubeId: gNi_6U5Pm_o
+name: Olivia Rodrigo - good 4 u
+dims: 1280,720,1
+unused: 0,5620112,1018
+source: ctpnzc4ckwks53i4
+---------------
+youtubeId: jr47YisIsz8
+name: Dua Lipa - We're Good
+dims: 1280,720,1
+unused: 0,5620112,950
+source: epvw3s4s07ykijxq
+---------------
+youtubeId: RbGuRZlrMMk
+name: Winona Oak - Break My Broken Heart
+description: "Break My Broken Heart" tells a bittersweet tale of a young woman who foresees an emotional heartbreak. Apparently, while falling apart each dying moment, she realizes there’s no way out of her dire predicament.   "Break My Broken Heart" contains a bittersweet storyline, ear-welcoming vocals, and lush instrumentation scented with an alternative-pop aroma.
+username: david
+userIntSuffix: 
+dims: 1280,720,0
+unused: 1,5620129,16
+source: h1dzhfw3qiuf4q4r
+---------------
+youtubeId: kTJczUoc26U
+name: The Kid LAROI, Justin Bieber - STAY
+dims: 1280,720,1
+unused: 0,5620137,1089
+source: zpajx3morba5gem1
+---------------
+youtubeId: mfSU_XwEnZA
+name: Alan Walker & Ruben – Heading Home
+dims: 1280,720,1
+unused: 0,5620141,659
+source: h9r9f4ifxvkqc7se
+position: .01
+---------------
+youtubeId: syFZfO_wfMQ
+name: One Direction - Night Changes
+dims: 1280,720,1
+unused: 0,5620159,806
+source: f40fdscvfr2z2sf1
+---------------
+youtubeId: hdonNbzHHXE
+name: Alan Walker - Lily ft. K-391 & Emelie Hollow
+description: Lily was a little girl\nAfraid of the big, wide world\nShe grew up within her castle walls\nNow and then she tried to run\nAnd then on the night with the setting sun\nShe went in the woods away\nSo afraid, all alone
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,4658423,123
+source: bz0rtx7gti30ztt8
+---------------
+youtubeId: hmUyEDG7Jy0
+name: Marshmello x Jonas Brothers - Leave Before You Love Me
+dims: 1280,720,1
+unused: 0,5620175,1066
+source: cw34dqp0bdptwny1
+---------------
+youtubeId: kjAuUXdSFaM
+name: Charli XCX - Good Ones 
+dims: 1280,720,1
+unused: 0,5620183,1111
+source: snu6xpqk7krazcy0
+---------------
+youtubeId: pQtJQFoCO8U
+name: FINNEAS - The Kids Are All Dying 
+dims: 1280,720,1
+unused: 0,5620190,1108
+source: y35381fkco3f5lrv
+---------------
+youtubeId: bduECEfvCng
+name: Jennifer Lopez - On My Way (Marry Me)
+dims: 1280,720,1
+unused: 0,5620357,1105
+source: sxcq0d7fgm61u5vc
+---------------
+youtubeId: tQwVKr8rCYw
+name: Jessica Darrow - Surface Pressure (From "Encanto")
+dims: 1280,720,1
+unused: 0,5620378,1119
+source: e4h1on565f7yvgpg
+---------------
+youtubeId: fD7LIqkKisc
+name: Meghan Trainor - Title 
+dims: 1280,720,1
+unused: 0,5620379,1124
+source: cl6evym7350k162c
+---------------
+youtubeId: 6eSmKiTbwcY
+name: Every Song from Centaurworld Compilation 🎶 Netflix Futures
+dims: 1280,720,1
+unused: 0,5620380,1094
+source: imsdgvpghidcqeqj
+---------------
+youtubeId: u7JMhVI7taQ
+name: Alan Walker & Torine - Hello World 
+dims: 1280,720,1
+unused: 0,5620386,1135
+source: quzmbrvv33rpfv5f
+---------------
+youtubeId: Il0S8BoucSA
+name: Ed Sheeran - Shivers 
+dims: 1280,720,1
+unused: 0,5620391,1093
+source: xw398nkhoi9sw7fx
+---------------
+youtubeId: XeLaiL9tk68
+name: BANNERS - Someone To You
+dims: 1280,720,1
+unused: 0,5620393,781
+source: ruusp0lquylnhvun
+---------------
+youtubeId: 9sfYpolGCu8
+name: Phoebe Bridgers - Motion Sickness
+dims: 1280,720,1
+unused: 0,5620394,1137
+source: rsgebj3mrkd9dr6o
+---------------
+youtubeId: w65eWPGYoFg
+name: salem ilese- PS5 with TOMORROW X TOGETHER feat. Alan Walker 
+dims: 1280,720,1
+unused: 0,5620396,1136
+source: cs6y17zt5nusdntn
+position: .03
+---------------
+youtubeId: E07s5ZYygMg
+name: Harry Styles - Watermelon Sugar
+dims: 1280,720,1
+unused: 0,3826284,728
+source: xs9ees159y7m8t1z
+---------------
+youtubeId: VafTMsrnSTU
+name: The Weeknd - Sacrifice 
+dims: 1280,720,1
+unused: 0,5620397,1120
+source: u455a5p6y9i8b7wl
+---------------
+youtubeId: Pb-K2tXWK4w
+name: Taylor Swift - Fifteen
+dims: 1280,720,1
+unused: 0,5620400,1127
+source: myg65p94gi1id8xr
+---------------
+youtubeId: a5dx4ueCn44
+name: Alok – Side Effect (feat. Au/Ra) [Official Music Video] (#360RA) – Use 🎧
+dims: 1280,720,1
+unused: 0,5620401,1130
+source: abjmucurwtfhx250
+---------------
+youtubeId: SvLbyKItEUY
+name: Sean Paul - Dynamite ft. Sia
+dims: 1280,720,1
+unused: 0,5620401,1112
+source: eeoqy39alwwcwdsp
+---------------
+youtubeId: qcZ7e9EOQTY
+name: Dua Lipa - Hallucinate
+dims: 1280,720,0
+unused: 0,4526214,791
+source: dpfluqd78rlim2rp
+---------------
+youtubeId: 4SYOIqyhA8I
+name: Alan Walker x Winona Oak - World We Used To Know (Lyric Video)
+dims: 1280,720,1
+unused: 0,5620402,1096
+source: cmkhsmoa0xchd0ra
+---------------
+youtubeId: olGSAVOkkTI
+name: Harry Styles - Falling
+dims: 1280,720,1
+unused: 0,5620414,652
+source: b3519kwp0hbqx17e
+---------------
+youtubeId: AH8b7EynJ60
+name: Lauv - All 4 Nothing (I'm So In Love) 
+dims: 1280,720,1
+unused: 0,5620425,1141
+source: hhk9c0snvqhosdrg
+---------------
+youtubeId: jJJlV0z89rU
+name: R3HAB & Jonas Blue - Sad Boy (feat. Ava Max, Kylie Cantrall) 
+dims: 1280,720,1
+unused: 0,5620448,1114
+source: mf9q8exieroncqvo
+---------------
+youtubeId: awkkyBH2zEo
+name: LISA - 'LALISA' 
+dims: 1280,720,1
+unused: 0,5620454,1116
+source: msuqap7j1ug6ftej
+---------------
+youtubeId: Gla5AzlHnS4
+name: Sabrina Carpenter - “Fast Times”
+dims: 1280,720,1
+unused: 0,5620457,1148
+source: pnsziz6urvp6tx7c
+---------------
+youtubeId: ZGmpyiFcQ7M
+name: Let Somebody Go - Coldplay X Selena Gomez
+dims: 1280,720,1
+unused: 0,5620460,1110
+source: jvqgd34yfdhzmc5h
+---------------
+youtubeId: f6l6JA6QcKY
+name: tick, tick...Boom! | "Come to Your Senses" by Alexandra Shipp and Vanessa Hudgens | Netflix Playlist
+dims: 1280,720,1
+unused: 0,5620471,1107
+source: qyyqm3f5yal4smel
+---------------
+youtubeId: N-4YMlihRf4
+name: Alesso, Katy Perry - When I'm Gone 
+dims: 1280,720,1
+unused: 0,5620493,1113
+source: rs8oz04bs7vaxmod
+---------------
+youtubeId: 66Ne5dVDfLM
+name: John Mayer - Last Train Home
+dims: 1280,720,1
+unused: 0,5620516,1084
+source: f5p3ofltp41cvxz4
+---------------
+youtubeId: 2lSyHZLzNYA
+name: Conan Gray - Memories 
+dims: 1280,720,1
+unused: 0,5620539,1144
+source: zrvhdjovs54rtaog
+---------------
+youtubeId: IXlP17OWF10
+name: Noah Cyrus - All Three
+dims: 1280,720,1
+unused: 0,5620539,900
+source: wkip81men4kamu5x
+---------------
+youtubeId: KLVq0IAzh1A
+name: Sting - Fields Of Gold
+dims: 1280,720,1
+unused: 0,5620539,1039
+source: dsk8l542svhzvtbj
+---------------
+youtubeId: MiD_CP_Pios
+name: Panic! At The Disco - Viva Las Vengeance
+dims: 1280,720,1
+unused: 0,5620539,1166
+source: ueize7tonjd1nvth
+---------------
+youtubeId: tp4fUH2E8uc
+name: Shawn Mendes - When You're Gone
+dims: 1280,720,1
+unused: 0,5620539,1145
+source: gawxi2qmk8da85sw
+---------------
+youtubeId: hxhj2PFExMg
+name: Alan Walker x Jamie Miller - Running Out Of Roses 
+dims: 1280,720,1
+unused: 0,5620539,1132
+source: zui88ahg61etvcaj
+---------------
+youtubeId: 2qzcHLyv3N0
+name: Ed Sheeran - The Joker And The Queen (feat. Taylor Swift) 
+dims: 1280,720,1
+unused: 0,5620539,1129
+source: j07k91ftin66nftd
+---------------
+youtubeId: xKCek6_dB0M
+name: Taylor Swift - Teardrops On My Guitar
+dims: 1280,720,1
+unused: 0,5620539,1100
+source: ihm6ulnfuouoz9cx
+---------------
+youtubeId: 83YuaW09ueI
+name: No Time to Die Opening Title Sequence
+dims: 1280,720,1
+unused: 0,5620539,1150
+source: lngjzotg5scl4pe6
+---------------
+youtubeId: a_YR4dKArgo
+name: Selena Gomez & The Scene - Naturally
+dims: 1280,720,1
+unused: 0,5620539,1128
+source: ew46wb3whwjo91ot
+---------------
+youtubeId: 9NZvM1918_E
+name: Harry Styles - Lights Up
+dims: 1280,720,1
+unused: 0,5620539,1149
+source: rnyv72ve6u0mj7vo
+---------------
+youtubeId: koCU43SpQVQ
+name: Julie Sings "Wake Up" Clip | Julie and the Phantoms
+dims: 1280,720,1
+unused: 0,5620539,884
+source: tb8ecftbb18yb7f1
+---------------
+youtubeId: dvgZkm1xWPE
+name: Coldplay - Viva La Vida
+description: Coldplay Live 2012, out now on DVD/CD/Blu-ray/digital. Get it from your local retailer at  Pre-VEVO play count: 24,009180Music video by Coldplay performing Viva La Vida. (C) 2008 E
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,5620539,266
+source: gl1zkb64u57xt5hl
+position: .01
+---------------
+youtubeId: HTzGMEfbnAw
+name: Juice Newton - Angel Of The Morning 
+dims: 1280,720,1
+unused: 0,5620539,1151
+source: yfgr9b2l78g44hk3
+---------------
+youtubeId: 1YUBbF24H44
+name: Sabrina Carpenter - because i liked a boy
+dims: 1280,720,1
+unused: 0,5624792,1177
+source: cmciummqz2yeqizp
+---------------
+youtubeId: TicGJQqrq2M
+name: Alan Walker - The Drum 
+dims: 1280,720,1
+unused: 0,5625719,1153
+source: jexb461yjgtrryom
+---------------
+youtubeId: 3YqPKLZF_WU
+name: Coldplay X BTS - My Universe
+dims: 1280,720,1
+unused: 0,5627572,1115
+source: wfu0dz241fb14ton
+---------------
+youtubeId: PzUKeGZiEl0
+name: Demi Lovato - SUBSTANCE
+dims: 1280,720,1
+unused: 0,5627817,1187
+source: fr47dasipu5yfbni
+---------------
+youtubeId: DiP5eorRbzo
+name: Sigala, Talia Mar - Stay The Night
+dims: 1280,720,1
+unused: 0,5628062,1162
+source: t0zikcr7xq5n55sk
+---------------
+youtubeId: Ghl_vkEV3tc
+name: Noah Cyrus - Mr. Percocet
+dims: 1280,720,1
+unused: 0,5628552,1159
+source: j3wzuuizihu2r17m
+---------------
+youtubeId: M5gDwgtZRn8
+name: Nobody Like U (From Disney and Pixar's Turning Red | Sing-Along)
+dims: 1280,720,1
+unused: 0,5629532,1154
+source: jtsf7osaxvs1xecu
+---------------
+youtubeId: uiuqmsWIqMA
+name: Major Lazer - Titans (feat. Sia & Labrinth) 
+dims: 1280,720,1
+unused: 0,5630512,1155
+source: tbzcykv987fax6i5
+---------------
+youtubeId: QdTupNZjRcQ
+name: Lauv - Kids Are Born Stars 
+dims: 1280,720,1
+unused: 0,5631002,1165
+source: oojfrr7wik1eg4o8
+---------------
+youtubeId: EgT_us6AsDg
+name: Selena Gomez & The Scene - Love You Like A Love Song
+dims: 1280,720,1
+unused: 0,5631247,1181
+source: bke48769sztfqs2e
+---------------
+youtubeId: ILRs2r6lcHY
+name: Mandy Moore, Zachary Levi - I See the Light (From "Tangled"/Sing-Along)
+dims: 1280,720,1
+unused: 0,4642869,946
+source: fjiub1t7we0in6as
+---------------
+youtubeId: vNoKguSdy4Y
+name: Taylor Swift - I Knew You Were Trouble
+dims: 1280,720,1
+unused: 0,5631491,1121
+source: zbfep6wnhxnowbia
+---------------
+youtubeId: Bgm2naUtoJo
+name: Nessa Barrett - die first 
+dims: 1280,720,1
+unused: 0,5631532,1179
+source: xvpm6ksgjiyauu6q
+---------------
+youtubeId: Ece21themfE
+name: Louis Tomlinson - Bigger Than Me
+dims: 1280,720,1
+unused: 0,5631539,1188
+source: lmukn37zfxzh4uus
+---------------
+youtubeId: fV4DiAyExN0
+name: Hoobastank - The Reason
+dims: 1280,720,1
+unused: 0,3841838,744
+source: rok8szhtj5y4khdd
+---------------
+youtubeId: r6koyOHPNVI
+name: Alan Walker and Au/Ra - Somebody Like U 
+dims: 1280,720,1
+unused: 0,5631572,1160
+source: rd26khwihceyuxyv
+---------------
+youtubeId: qolmz4FlnZ0
+name: Lana Del Rey - Doin’ Time
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,3662967,471
+source: r447ad3xb1k6xyvf
+---------------
+youtubeId: TLBlh9IV-FQ
+name: NEIKED x Anne-Marie x Latto - I Just Called 
+dims: 1280,720,1
+unused: 0,5631585,1161
+source: fz8e78gt1wzvt9ib
+---------------
+youtubeId: v8SNlvR86xc
+name: Mavins, Crayon, Ayra Starr, LADIPOE, Magixx & Boy Spyce - Overloading (OVERDOSE) [Performance Video]
+dims: 1280,720,1
+unused: 0,5631586,1191
+source: pjthm4juxwe0a7cg
+---------------
+youtubeId: GuhUpKb6DMg
+name: The Knocks - Slow Song (with Dragonette) 
+dims: 1280,720,0
+unused: 0,5631587,1172
+source: aivctfry5dim0r32
+---------------
+youtubeId: Z8eXaXoUJRQ
+name: Selena Gomez - Slow Down (Official)
+dims: 1280,720,1
+unused: 0,5631588,1183
+source: r3cn4k4xjauwuk8u
+---------------
+youtubeId: 8u-_64S7plI
+name: Selena Gomez - Look At Her Now
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,5631589,444
+source: mj17z1e4j38zy1fq
+---------------
+youtubeId: 23g5HBOg3Ic
+name: Ed Sheeran - Celestial
+dims: 1280,720,1
+description: (missing pianoroll) "Celestial" is a song by English singer-songwriter Ed Sheeran, released as a single on 29 September 2022. It was released in collaboration with The Pokémon Company and appears in the end credits of Pokémon Scarlet and Violet.
+---------------
+youtubeId: m7Bc3pLyij0
+name: Marshmello ft. Bastille - Happier
+description: Song by American music producer Marshmello and British band Bastille. Written and produced by Marshmello, with lyrics from Dan Smith and Steve Mac, it was released by Astralwerks on August 17, 2018.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5631592,159
+source: bvageq36gh29dski
+---------------
+youtubeId: lsqxaAvEOLI
+name: Harry Styles - As It Was (Behind The Scenes)
+dims: 1280,720,1
+unused: 0,5631598,1156
+source: wh9xgogyl6kr329j
+---------------
+youtubeId: QYh6mYIJG2Y
+name: Ariana Grande - 7 rings
+description: to do...
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5631598,183
+source: r435s185s1ed9is1
+---------------
+youtubeId: cH4E_t3m3xM
+name: Selena Gomez, Marshmello - Wolves
+description: to do...
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5631598,188
+source: gzgs2ccdyv8c5a6q
+---------------
+youtubeId: ijS_orLb6VU
+name: Ava Max - Maybe You’re The Problem
+dims: 1280,720,1
+unused: 0,5631598,1152
+source: l4txk3gjrfqyzek0
+---------------
+youtubeId: qrO4YZeyl0I
+name: Lady Gaga - Bad Romance 
+dims: 1280,720,1
+unused: 0,5631598,1126
+source: do2qetutxw6vcf02
+---------------
+youtubeId: ZN5_OD_3gZk
+name: Harry Styles: Daylight - Music Video by James Corden
+dims: 1280,720,1
+unused: 0,5631598,1158
+source: drjrl27m29z4nwya
+---------------
+youtubeId: gUci-tsiU4I
+name: Jason Derulo & Jawsh 685 - Savage Love -
+dims: 1280,720,1
+unused: 0,5631598,782
+source: i1tph7kt1ijfds9u
+---------------
+youtubeId: O2CIAKVTOrc
+name: Lady Gaga - Hold My Hand (From “Top Gun: Maverick”) 
+dims: 1280,720,1
+unused: 0,5631598,1168
+source: ehohvmyn5w6o9g28
+---------------
+youtubeId: mNEUkkoUoIA
+name: OneRepublic - I Ain’t Worried (From “Top Gun: Maverick”) 
+dims: 1280,720,1
+unused: 0,5631598,1169
+source: jg0fyh2aft8kip19
+---------------
+youtubeId: Te3_VlimRw0
+name: Imagine Dragons - Sharks 
+dims: 1280,720,1
+unused: 0,5631598,1171
+source: a14zs9lel4c7js95
+---------------
+youtubeId: me19SUmWu2s
+name: Black Eyed Peas, Shakira, David Guetta - DON'T YOU WORRY 
+dims: 1280,720,1
+unused: 0,5631598,1170
+source: e5ouarz56foeud9v
+---------------
+youtubeId: 4VaqA-5aQTM
+name: Harry Styles - Late Night Talking
+dims: 1280,720,1
+unused: 0,5631598,1173
+source: gorl3luczl6818qe
+---------------
+youtubeId: P3cffdsEXXw
+name: Harry Styles - Golden
+dims: 1280,720,1
+unused: 0,5631598,1174
+source: t2ksktzjdkd8bscn
+---------------
+youtubeId: eMQuofsOOzo
+name: Calvin Harris - Stay With Me ft Justin Timberlake, Halsey & Pharrell
+dims: 1280,720,1
+unused: 0,5631598,1175
+source: jk79onrv2xzp790n
+---------------
+youtubeId: SDZ3r8pG9QM
+name: Meghan Trainor - Bad For Me  ft. Teddy Swims
+dims: 1280,720,1
+unused: 0,5631598,1178
+source: lngkx9y7aun2raoo
+---------------
+youtubeId: 6q4kCRREAgk
+name: Camila Cabello - Living Proof
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,5606245,438
+source: ehf6yhpmhdhyib5n
+---------------
+youtubeId: N6tv11_KMiM
+name: Halsey - So Good
+dims: 1280,720,1
+unused: 0,5631598,1163
+source: gt656jegzu2ahkl3
+---------------
+youtubeId: IdneKLhsWOQ
+name: Taylor Swift - Wildest Dreams
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+---------------
+youtubeId: bveQDuV6WBg
+name: Joshua Bassett - Finally Free (HSMTMTS)
+dims: 1280,720,1
+unused: 0,5631598,1180
+---------------
+youtubeId: npRZZ3dksts
+name: Joshua Bassett - Smoke Slow 
+dims: 1280,720,1
+unused: 0,5631598,1184
+---------------
+youtubeId: WSX6ZRX4_-Q
+name: Ava Max - Million Dollar Baby
+dims: 1280,720,1
+unused: 0,5631598,1197
+source: yvd45vicqrwpmrh5
+---------------
+youtubeId: MkrKSgwtVk0
+name: MACKLEMORE - MANIAC FEATURING WINDSER 
+dims: 1280,720,1
+unused: 0,5631598,1200
+source: nkczlic0az5c2usa
+---------------
+youtubeId: e3-5YC_oHjE
+name: U2 - I Still Haven't Found What I'm Looking For 
+dims: 1280,720,1
+unused: 0,5620357,1095
+source: pwkqnjwl3vyzgw4y
+---------------
+youtubeId: -8VfKZCOo_I
+name: Camila Cabello - Bam Bam  ft. Ed Sheeran
+dims: 1280,720,1
+unused: 0,5620363,1134
+source: t8bvtpz4a5wt2jkp
+---------------
+youtubeId: coLerbRvgsQ
+name: Billie Eilish - you should see me in a crown
+description: to do...
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,3250786,196
+source: h05d5432y8brbzvx
+---------------
+youtubeId: dyRsYk0LyA8
+name: BLACKPINK - 'Lovesick Girls' 
+dims: 1280,720,1
+unused: 0,5620375,1117
+source: yujt6hyrbvpg4593
+---------------
+youtubeId: H20BTSaYVVs
+name: Sarah Cothran - Baby Why 
+dims: 1280,720,1
+unused: 0,5631598,1201
+source: d37x6rzqhxpoipk3
+---------------
+youtubeId: 2zfTPxaX5ss
+name: Faouzia - Hero
+dims: 1280,720,1
+unused: 0,5599440,1072
+---------------
+youtubeId: 9HDEHj2yzew
+name: Dua Lipa - Physical
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,0
+unused: 0,4292904,584
+source: gmacjqlreobhmjdu
+---------------
+youtubeId: TGwZ7MNtBFU
+name: Gwen Stefani - Cool 
+dims: 1280,720,1
+unused: 0,5631598,1106
+---------------
+youtubeId: VY1eFxgRR-k
+name: Selena Gomez - Back To You
+description: Song by American singer Selena Gomez. It was written by Amy Allen, Parrish Warrington, Micah Premnath, Diederik Van Elsas, and Gomez, while the production was handled by Trackside and Ian Kirkparick.
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5620357,240
+---------------
+youtubeId: bLF90M96m2Q
+name: Kizz Daniel, Tekno - Buga
+dims: 1280,720,1
+unused: 0,5631598,1193
+---------------
+youtubeId: mLvVbazi0B4
+name: Carly Rae Jepsen - Beach House
+dims: 1280,720,1
+unused: 0,5631598,1185
+source: dubvi4npekecsy5v
+---------------
+youtubeId: 6MsZUNliY8Q
+name: R3HAB x Winona Oak - Thinking About You
+dims: 1280,720,1
+unused: 0,5620395,861
+source: mreh2855sspimrki
+---------------
+youtubeId: 7aekxC_monc
+name: Post Malone - I Like You (A Happier Song) w. Doja Cat 
+dims: 1280,720,1
+unused: 0,5631625,1194
+source: h6so1v3vntf3ucta
+---------------
+youtubeId: krdQLzzAeZU
+name: Lizzo - 2 Be Loved (Am I Ready) 
+dims: 1280,720,1
+unused: 0,5631638,1195
+source: im6klndd854kye3p
+---------------
+youtubeId: SxGLPVvNjvY
+name: Ava Max - So Am I
+description: "Bouncy, pop-heavy anthem" by American singer Ava Max, released on March 7, 2019, as the second single from her upcoming debut studio album. Max has said the song is about what makes people unique and different from each other
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5620539,140
+---------------
+youtubeId: _yGifKCmHC0
+name: vaultboy - everything sucks
+dims: 1280,720,1
+description: This song was written as part of a challenge on TikTok where vaultboy wrote a song a day for 30 days, under the suggestion that he try writing a happy song, seeing as most of his challenge songs thus far had a rather somber tone to them.
+---------------
+youtubeId: wBmWvvTV0P4
+name: Ava Max - Torn
+description: Dance-pop song by American singer Ava Max. It was released on August 19, 2019. Max teased the song as the next single from her upcoming debut studio album, as a follow-up to her single "So Am I".
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,1734271,6
+---------------
+youtubeId: WMweEpGlu_U
+name: BTS (방탄소년단) 'Butter' Official MV
+dims: 1280,720,1
+unused: 0,5578054,1022
+---------------
+youtubeId: -8VfKZCOo_I
+name: Camila Cabello - Bam Bam  ft. Ed Sheeran
+dims: 1280,720,1
+unused: 0,5631651,1140
+---------------
+youtubeId: BC19kwABFwc
+name: Dua Lipa - Love Again
+dims: 1280,720,1
+unused: 0,5619081,1074
+source: ns7iu4r4ihrlq621
+---------------
+youtubeId: ePao0cTGG-o
+name: Marshmello & Halsey - Be Kind
+dims: 1280,720,1
+unused: 0,5619248,773
+source: dkgd89fiyfm1kiop
+---------------
+youtubeId: 0c66ksfigtU
+name: Doja Cat - Agora Hills
+dims: 1280,720,1
+description: Agoura Hills is where Doja Cat spent time, but Agora refers to agoraphilia, a love of crowded places
+---------------
+youtubeId: -CmadmM5cOk
+name: Taylor Swift - Style
+dims: 1280,720,1
+unused: 0,5620539,1098
+---------------
+youtubeId: ioNng23DkIM
+name: BLACKPINK - 'How You Like That' 
+dims: 1280,720,1
+unused: 0,4090702,762
+source: iwf11snj92kohvqh
+---------------
+youtubeId: JGwWNGJdvx8
+name: Ed Sheeran - Shape of You
+dims: 1280,720,0
+unused: 0,4098479,756
+source: rtwhf7vj108iezqz
+---------------
+youtubeId: jTRZqjl2JYI
+name: ILLENIUM - Nightlight
+dims: 1280,720,1
+unused: 0,5619582,875
+---------------
+youtubeId: ZKr4ys2avI0
+name: Alok & John Legend - In My Mind 
+dims: 1280,720,0
+unused: 0,5631598,1101
+---------------
+youtubeId: -Pp07jgbPHU
+name: "Edge of Great" | Julie and the Phantoms
+dims: 1280,720,1
+unused: 0,5631545,880
+---------------
+youtubeId: kg1BljLu9YY
+name: LSD - Thunderclouds ft. Sia, Diplo, Labrinth
+description: Thunderclouds is a song by pop music group LSD. The song was released on 9 August 2018, and marks the group's third release, following "Genius" and "Audio". Maddie Ziegler is featured in the "super trippy" video.
+dims: 1280,720,1
+unused: 5,5631598,229
+---------------
+youtubeId: xFrGuyw1V8s
+name: Abba - Dancing Queen
+description: Disco / Europop song by the Swedish group ABBA. Written by Benny Andersson, Björn Ulvaeus and Stig Anderson. "Dancing Queen" was released as a single in Sweden on 15 August 1976, and was a worldwide hit.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,5603329,102
+---------------
+youtubeId: gQlMMD8auMs
+name: BLACKPINK - ‘Pink Venom’ 
+dims: 1280,720,1
+unused: 0,5631598,1186
+source: dn5e6vzm7uc0ls9a
+---------------
+youtubeId: M7rMbPIAg5k
+name: Amy Allen - What A Time To Be Alive (feat. Pink Sweat$)
+dims: 1280,720,1
+unused: 0,5335022,892
+source: jnvuzphcixsj2dh0
+---------------
+youtubeId: Sv6dMFF_yts
+name: Fun.: We Are Young ft. Janelle Monáe
+description: Fun.'s music video for 'We Are Young' featuring Janelle Mone from the album, Some Nights - available now on Fueled By Ramen. Download it at  behind the scenes of this video at     
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,5620144,385
+source: ndp8gklfh1md1861
+---------------
+youtubeId: mPu493Zi_08
+name: Jonas Blue, MAX - Naked
+dims: 1280,720,1
+unused: 0,5619461,777
+description: Fun song. A bit naughty. No other music video captures the Glowtunes aesthetic better.
+---------------
+youtubeId: STO4-8vkG0U
+name: Selena Gomez - Fetish ft. Gucci Mane
+description: Song by American singer Selena Gomez featuring guest vocals from American rapper Gucci Mane. The song was written by Gomez, Gucci Mane, and others. Contemporary music critics praised the song, highlighting its experimental nature as well as Gomez's vocals and subsequent artistic growth.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5405015,99
+---------------
+youtubeId: ZmDBbnmKpqQ
+name: Olivia Rodrigo - drivers license
+dims: 1280,720,1
+unused: 0,5580970,903
+---------------
+youtubeId: stURztsCOZs
+name: Alan Walker,  K-391, Boy in Space - Paradise 
+dims: 1280,720,1
+unused: 0,5631598,1088
+---------------
+youtubeId: XpmeVNxZ-Ks
+name: ILLENIUM, Jon Bellion - Good Things Fall Apart
+username: @5delilah
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2535302,489
+source: shnhlq6of3sew9e7
+---------------
+youtubeId: bvWRMAU6V-c
+name: We Don't Talk About Bruno (From "Encanto")
+dims: 1280,720,1
+unused: 0,5623865,1103
+source: sa828l3hx78w9e1c
+---------------
+youtubeId: c_10qS7amjk
+name: Lauv & LANY - Mean It
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,5125043,502
+source: dxwaflgocjh3wa3c
+---------------
+youtubeId: PKcGR3hexig
+name: 5 Seconds Of Summer - Lie To Me
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,5140597,595
+source: jnmpe79yirg9x5jp
+---------------
+youtubeId: 7U_LhzgwJ4U
+name: CHVRCHES, Robert Smith - How Not To Drown
+dims: 1280,720,1
+unused: 0,5619992,1051
+source: j6njt3kqam0747j9
+---------------
+youtubeId: kHLHSlExFis
+name: Ariana Grande - God is a woman
+description: to do...
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5620539,209
+source: imf7tjt6k5hmy10i
+---------------
+youtubeId: 9OZPwJdl_4w
+name: 체리블렛 (Cherry Bullet) - 'Love So Sweet' MV
+dims: 1280,720,1
+unused: 0,5620539,906
+source: vs9ha92m7xgzit7l
+---------------
+youtubeId: VQ9iAlm-sJ8
+name: St. Vincent - Down
+dims: 1280,720,1
+unused: 0,5631598,1023
+source: ogwjebdco2pepo7m
+---------------
+youtubeId: H5v3kku4y6Q
+name: Harry Styles - As It Was
+dims: 1280,720,1
+unused: 0,5631704,1138
+source: mndkpw5sfm3l2o68
+---------------
+youtubeId: hlznpxNGFGQ
+name: Clean Bandit - Baby (feat. Marina & Luis Fonsi)
+description: Latin pop song by British electronic music group Clean Bandit featuring Welsh singer Marina and Puerto Rican singer Luis Fonsi, released as the sixth single from Clean Bandit's second album, What Is Love?, on November 2, 2018. the song deals with a love triangle, with the singer telling somebody that they are "already someone else's."
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,2449755,35
+---------------
+youtubeId: n-D1EB74Ckg
+name: Selena Gomez - Come & Get It
+dims: 1280,720,1
+unused: 0,5631586,1182
+source: vxd9a6pfqe0bkqql
+---------------
+youtubeId: 8JnfIa84TnU
+name: Clean Bandit - Solo feat. Demi Lovato
+description: Upbeat EDM song about self-love in spite of a heartbreak, by British electronic music band Clean Bandit, featuring guest vocals from American singer Demi Lovato and uncredited pitched vocals from Kamille. The song was released on 18 May 2018 by Atlantic Records.
+username: rich
+userIntSuffix: 
+dims: 1280,720,1
+unused: 2,5631518,217
+source: mov6gwzkbid205fr
+---------------
+youtubeId: hZ7Zw_ohxvU
+name: Ava Max - OMG What's Happening
+dims: 1280,720,1
+unused: 0,5620394,893
+source: m4697a9mlt7or8e6
+---------------
+youtubeId: JRfuAukYTKg
+name: David Guetta - Titanium ft. Sia
+dims: 1280,720,0
+unused: 0,5620357,909
+source: j7w7if3eifmfiuod
+---------------
+youtubeId: 0vpSpt7Seog
+name: Noah Cyrus - I Burned LA Down
+dims: 1280,720,1
+unused: 0,5623106,1147
+source: o61fj2nii1418o3q
+---------------
+youtubeId: rDQV94pbbwc
+name: ILLENIUM & MAX - Worst Day
+description: “Worst Day” is about wrestling the darkness and choosing light. “Closed my eyes and had a dream about a lonely place where flowers only bloom in gray,” MAX belts over ethereal riffs and shimmering synths.
+dims: 1280,720,1
+---------------
+youtubeId: 4G9LwTTnn_k
+name: Niall Horan - Heaven
+dims: 1280,720,1
+---------------
+youtubeId: Oa_RSwwpPaA
+dims: 1280,720,1
+name: Benson Boone - Beautiful Things
+description: a "ballad about the meaning of life", where Boone reflects on gratitude for life, love and the "volatility of happiness".
+---------------
+youtubeId: WcIcVapfqXw
+name: Rema, Selena Gomez - Calm Down 
+dims: 1280,720,1
+unused: 0,5631598,1190
+---------------
+youtubeId: RlPNh_PBZb4
+name: Olivia Rodrigo - Vampire
+dims: 1280,720,1
+---------------
+youtubeId: NgsENBX-sQQ
+name: Selena Gomez - My Mind and Me
+description: "My Mind & Me" was recorded by American singer Selena Gomez, released on November 3, 2022 by Interscope Records, as a single for Selena Gomez: My Mind & Me, a 2022 documentary film.
+dims: 1280,720,1
+---------------
+youtubeId: wXhTHyIgQ_U
+name: Post Malone - Circles
+description: Song by American singer Post Malone, released through Republic Records on August 30, 2019, as the fourth single from Malone's third album Hollywood's Bleeding. It reached number one on the US Billboard Hot 100 for the week of November 30, 2019, and stayed at number one on the next week, marking Post Malone's fourth number-one song.
+username: jenn@1i@2fer
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,2193114,461
+source: zxqsc657pvd853hd
+---------------
+youtubeId: cii6ruuycQA
+name: Olivia Rodrigo - deja vu
+dims: 1280,720,1
+unused: 0,5620027,995
+source: fbptiaykgsylvj1t
+---------------
+youtubeId: ic8j13piAhQ
+name: Taylor Swift - Cruel Summer
+dims: 1280,720,1
+description:  Synth-pop, industrial pop, and electropop song composed of synths, wobbling beats, and vocoder-manipulated vocals. From the 2019 Lover but reresurged in 2023 and became a huge hit. Deja Vu by Olivia Rodrigo was partially inspired by it.  
+---------------
+youtubeId: Odh9ddPUkEY
+dims: 1280,720,1
+name: Taylor Swift - Midnight Rain
+description: Written and produced by Swift and Jack Antonoff, the song has a slow pace, R&B-tinged electropop production. The track is driven by a distorted Moog synthesizer and features Swift's formant-shifted vocals at some parts. In the lyrics, the narrator contemplates on a lost love and how she chose her career and fame over a domestic life with an ex-lover.
+---------------
+youtubeId: 6NXnxTNIWkc
+name: 4 Non Blondes - What's Up
+description: Song by American rock group 4 Non Blondes from their 1992 debut album, Bigger, Better, Faster, More! It was released as the album's second single in 1993. It was successful in the United States and in several European countries, peaking at number one in Austria, Belgium, Bulgaria, Germany, Iceland, Ireland, the Netherlands, Norway, Poland, Sweden, and Switzerland.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 1,5607217,65
+source: bbc8dmcy29yj2pt4
+---------------
+youtubeId: kLbn61Z4LDI
+dims: 1280,720,1
+name: Sabrina Carpenter - Feather
+description: dance pop song about overcoming a relationship. Carpenter and Amy Allen wrote the song with John Ryan, who produced, programmed, and engineered it
+---------------
+youtubeId: JKrDdsgXuso
+dims: 1280,720,1
+name: Noah Kahan - Stick Season
+description: the song title refers to a term for autumn in New England, the period after Halloween before the winter snow begins, which Kahan called "a time of transition" and "super depressing" as "it just means that winter is coming soon and it creates a lot of anxiety" and "nobody really likes it"
+---------------
+youtubeId: ApXoWvfEYVU
+name: Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse)
+description: Pop / R&B song performed by American recording artists Post Malone and Swae Lee and Jermaine for the soundtrack to the film Spider-Man: Into the Spider-Verse. The song was released as a single on October 18, 2018.
+username: david
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,5620459,39
+---------------
+youtubeId: Y2a73EvnZ4s
+name: Taylor Swift - Glitch
+description: And this is about Matty.
+dims: 1280,720,1
+---------------
+youtubeId: 28Lj4qt3lCc
+name: The 1975 - About You
+description: About you? About who? Obviously, it's about Taylor.
+dims: 1280,720,1
+---------------
+youtubeId: 2vjPBrBU-TM
+name: Sia - Chandelier
+description: Sia's official music video for 'Chandelier'
+username: jonesy
+userIntSuffix: 
+dims: 1280,720,1
+unused: 3,4837294,362
+source: bls5pmdchh1qb81i
+---------------
+youtubeId: CCUr2pNJft4
+dims: 1280,720,1
+name: Taylor Swift - So Long, London
+description: On Taylor's Tortured Poets Department, this downbeat chamber pop / synth pop song is a heartbreaking goodbye to Taylor's boyfriend of 6 years, Joe Alwyn. Many critics have chosen it as an album highlight. 
+---------------
+youtubeId: o6ytLPKscrU
+name: The Weeknd - Blinding Lights
+username: @2rïch
+userIntSuffix: 
+dims: 1280,720,1
+unused: 0,2348654,546
+source: iwo54rvywl0w6brj
+---------------
+youtubeId: XoiOOiuH8iI
+dims: 1280,720,1
+name: Tyla - Water
+description: An amapiano song with elements of pop, R&B and Afrobeats, it sees Tyla expressing a desire for a passionate and intimate tryst. Released on 28 July 2023
+---------------
+youtubeId: LDY_XyxBu8A
+dims: 1280,720,1
+name: SZA - Snooze
+description: song by American singer-songwriter SZA from her second studio album, SOS (2022). It was sent to rhythmic contemporary and urban contemporary radio as the sixth single from the album on April 25, 2023.
+---------------
+youtubeId: PEM0Vs8jf1w
+dims: 1280,720,1
+name: JVKE - Gloden Hour
+description: Released as a single on July 15, 2022, it went viral on TikTok later in the year and became an international hit.
+---------------
+youtubeId: KNtJGQkC-WI
+dims: 1280,720,1
+name: Ariana Grande - we can't be friends
+description: According to Wikipedia, this synth pop song's lyrics "dually refer to the demise of a romantic relationship as well as Grande's relationship with the press" 
+---------------
+youtubeId: mdBVJbzkoqo
+name: Elaine Page - Memory (from Cats)
+username: @2rob
+dims: 1280,720,1
+description: Andrew Lloyd Webber's Cats, the most famous musical of all time, first exploded onto the West End stage in 1981. 'Memory', one of its many classic songs, became an instant worldwide hit. 
+---------------
+youtubeId: suAR1PYFNYA
+name: Dua Lipa - Houdini
+username: @2rob
+dims: 1280,720,1
+description: 
+---------------
+youtubeId: aezstCBHOPQ
+dims: 1280,720,1
+name: Hozier - Too Sweet
+description: song by Irish singer-songwriter Hozier, released on 22 March 2024, as the first track from his fifth EP Unheard. The song has topped the charts in Australia, Ireland, New Zealand and the United Kingdom
+---------------
+youtubeId: kRXmAIHYQR4
+dims: 1280,720,1
+name: Mandy Moore - When Will My Life Begin (from Tangled)
+description: Tangled is the most expensive animated film of all time, but the investment paid off, raising Disney's computer animation to very state of the art, equalling or surpassing Pixar.
+---------------
+youtubeId: 3EjnPvxknc0
+dims: 1280,720,1
+name: SZA - Kill Bill
+description: The fifth single from SZA's second studio album, SOS (2022). It is a pop and R&B "murder ballad," built around a midtempo, groovy rhythm and a detuned melody.
+---------------
+youtubeId: To4SWGZkEPk
+dims: 1280,720,1
+name: Tate McRae - greedy
+description: Written in January 2023 with Amy Allen, Jasper Harris and Ryan Tedder, McRae first teased the song via TikTok on August 4. The teaser subsequently went viral on the platform with over 200,000 videos made across different sounds.
+---------------
+youtubeId: 7Xf-Lesrkuc
+dims: 1280,720,1
+name: Train - Drops of Jupiter
+description: Released on January 29, 2001, lead singer Pat Monahan stated that the song was inspired by his late mother, who had died after a struggle with cancer, and that the opening lines "came to him in a dream".
+---------------
+youtubeId: 238Z4YaAr1g
+dims: 1280,720,1
+name: Beyonce - Texas Hold 'Em
+description: Music critics praised "Texas Hold 'Em" for its playful tone, authentic sound, Beyoncé's vocal performance, and its celebration of the Black roots of country music.
+---------------
+youtubeId: yOuqn4w1ozA
+dims: 1280,720,1
+name: Selena Gomez - Single Soon
+description: Synth driven dance song. In February 2023, Gomez first spoke about her upcoming musical output, telling Vanity Fair, that it was "about real things that I'm walking through" and described it as "really powerful, strong, very pop" and "freedom from relationships, freedom from the darkness"
+---------------
+youtubeId: s1LeJjI2qZ0
+dims: 1280,720,1
+name: Conan Gray - Lonely Dancers
+description: Someone dance with Conan Gray, so he doesn't cry! The Eighties synth-infused pop song, co-produced by Max Martin, ILYA, and Oscar Holter, hears Gray singing to another lonely dancer at a bar as he welcomes him onto the dancefloor. (Rolling Stone - 2/9/24)
+---------------
+youtubeId: 1RKqOmSkGgM
+dims: 1280,720,1
+name: Chappell Roan - Good Luck, Babe!
+description: Holy crap this is the definition of a bop. Chappell Roan shares a collaborator (Dan Nigro) with Olivia Rodrigo, and has opened for her on both the Sour and Guts tours. If this song doesn't get you moving are truly a lost cause.
+username: pf
+---------------
+youtubeId: QXcjPySjdJU
+dims: 1280,720,1
+name: Olivia Rodrigo - Obsessed
+description: Pop punk song from the deluxe edition ("Spilled") of her sophomore album GUTS, written with St. Vincent and her regular producer and collaborator, Dan Nigro, and released on March 24, 2024. She chronicles being fixated on her partner's ex-girlfriend.
+---------------
+youtubeId: OiC1rgCPmUQ
+dims: 1280,720,1
+name: Dua Lipa - Dance the Night
+description: In April 2023, it was announced that Dua Lipa had joined the cast of Greta Gerwig's upcoming fantasy comedy film Barbie. She recorded original music for the film's soundtrack, Barbie the Album. This song was released on May 26. Written with Andrew Wyatt, Mark Ronson, and the Picard Brothers.
+---------------
+youtubeId: eE9tV1WGTgE
+dims: 1280,720,1
+name: Lenka - Everything at Once
+description: Therians seem to have adopted this song.
+---------------
+youtubeId: mNHNktxbjdk
+dims: 1280,720,1
+name: Selena Gomez - Love On
+description: a flirty track about new love, one that is specifically blossoming in Paris. The song is inspired by Gomez’s recent experiences in the French city. (Rolling Stone - 2/22/24)
+---------------
+youtubeId: -oqAU5VxFWs
+dims: 1280,720,1
+name: Counting Crows - Mr. Jones
+description: Released on 12/1/93, the song is about struggling musicians (Duritz and bassist Marty Jones of The Himalayans) who "want to be big stars", believing that "when everybody loves me, I will never be lonely".
+---------------
+youtubeId: G7KNmW9a75Y
+dims: 1280,720,1
+name: Miley Cyrus - Flowers
+description: best selling song of 2023, the longest-running number one-song in the history of the Billboard Adult Contemporary chart, and won Grammys for Record of the Year and Best Pop Solo Performance.
+---------------
+youtubeId: q3zqJs7JUCQ
+dims: 1280,720,1
+name: Taylor Swift w/ Post Malone - Fortnight
+description: A downtempo electropop and synth-pop song, "Fortnight" is instrumented by a pulsing synth bassline. Its lyrics see Swift's character in an unhappy marriage and becoming next-door neighbors with an ex-lover who is also married. The two artists wrote the track with Jack Antonoff, who produced it with Swift
+---------------
+youtubeId: cW8VLC9nnTo
+dims: 1280,720,1
+name: Billie Eilish - What Was I Made For?
+description: From the Barbie movie, for which it was the "heart song" according to director Gretta Gerwig. Won Billie and her brother (and creative partner, producer etc) Finneas a Grammy for Song of the Year, and their second Oscar for Best Original Song.
+---------------
+youtubeId: eVli-tstM5E
+dims: 1280,720,1
+name: Sabrina Carpenter - Espresso
+description: Sabrina Carpenter likens herself to the coffee as her partner can’t sleep when he’s with her. 
